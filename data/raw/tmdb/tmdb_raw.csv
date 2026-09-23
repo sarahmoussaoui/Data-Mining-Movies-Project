@@ -1,91 +1,563 @@
-title_queried,tmdb_title,tmdb_id,popularity,vote_average,vote_count,release_date,original_language,adult
-Spider-Man: Brand New Day,Spider-Man: Brand New Day,969681,666.5009,7.861,2823,2026-07-29,en,False
-The Odyssey,The Odyssey,1368337,355.3396,8.0,3850,2026-07-15,en,False
-Toy Story 5,Toy Story 5,1084244,152.2425,8.359,2239,2026-06-17,en,False
-Michael,Michael,936075,60.0977,8.631,4392,2026-04-22,en,False
-The Super Mario Galaxy Movie,The Super Mario Galaxy Movie,1226863,66.8887,8.222,3709,2026-04-01,en,False
-The Devil Wears Prada 2,The Devil Wears Prada 2,1314481,52.0826,7.049,2356,2026-04-29,en,False
-Project Hail Mary,Project Hail Mary,687163,103.186,8.64,7910,2026-03-15,en,False
-Pegasus 3 (飞驰人生3),Pegasus 3,1462229,5.9305,7.0,48,2026-02-17,zh,False
-Minions & Monsters,Minions & Monsters,1315772,124.9588,7.553,1157,2026-06-24,en,False
-Obsession,Obsession,1339713,142.2624,8.194,5674,2026-05-13,en,False
-Backrooms,Backrooms,1083381,90.2978,7.0,3373,2026-05-27,en,False
-Hoppers,Hoppers,1327819,55.1411,8.149,2358,2026-03-04,en,False
-Moana,Moana,1108427,194.5217,7.417,741,2026-07-08,en,False
-Kung Fu Soccer (功夫女足),Kung Fu Soccer,1491920,12.8008,6.111,27,2026-07-11,zh,False
-Dear You (给阿嬷的情书),Dear You,1671548,10.0973,8.836,73,2026-04-30,zh,False
-All Wishes Come True! (八仙！),All Wishes Come True!,1633056,6.5415,7.963,27,2026-07-10,zh,False
-“Wuthering Heights”,“Wuthering Heights”,1316092,26.192,6.651,1357,2026-02-11,en,False
-Disclosure Day,Disclosure Day,1275779,91.5812,7.467,3403,2026-06-10,en,False
-Scary Movie,Scary Movie,1273221,64.2008,6.374,1931,2026-06-03,en,False
-Scream 7,Scream 7,1159559,32.7967,6.2,1290,2026-02-25,en,False
-Blades of the Guardians (镖人…,Blades of the Guardians,1305781,24.6878,8.19,237,2026-02-17,zh,False
-GOAT,GOAT,1297842,41.9206,8.058,1092,2026-02-11,en,False
-Scare Out (惊蛰无声),Scare Out,1447971,8.7939,6.25,22,2026-02-17,zh,False
-Insidious: Out of the Further,Insidious: Out of the Further,1291595,49.5999,6.491,158,2026-08-19,en,False
-Dhurandhar: The Revenge,Dhurandhar: The Revenge,1582770,7.7366,7.3,162,2026-03-18,hi,False
-The Sheep Detectives,The Sheep Detectives,1301421,62.3901,7.937,1702,2026-04-30,en,False
-Mortal Kombat II,Mortal Kombat II,931285,44.5967,7.808,2600,2026-05-06,en,False
-Supergirl,Supergirl,1081003,70.8571,6.677,2384,2026-06-24,en,False
-The King’s Warden (왕과 사는 …,The King's Warden,1321179,8.0708,7.1,31,2026-02-04,ko,False
-The End of Oak Street,The End of Oak Street,1101383,528.4832,7.0,1398,2026-08-12,en,False
-Masters of the Universe,Masters of the Universe,454639,56.8987,7.122,2153,2026-06-03,en,False
-Resident Evil,Resident Evil,1423191,607.7799,7.3,306,2026-09-16,en,False
-The Drama,The Drama,1325734,33.8024,6.903,1827,2026-04-01,en,False
-Send Help,Send Help,1198994,30.8714,7.024,2308,2026-01-22,en,False
-Lee Cronin’s The Mummy,Lee Cronin's The Mummy,1304313,45.2732,7.87,2687,2026-04-15,en,False
-Reminders of Him,Reminders of Him,1367642,15.9512,7.802,424,2026-03-11,en,False
-Cheburashka 2 (Чебурашка 2),Chebi: My Fluffy Friend 2,1228477,2.3845,6.5,5,2026-01-01,ru,False
-Practical Magic 2,Practical Magic 2,1302904,62.2848,6.158,79,2026-09-09,en,False
-Coyote vs. Acme,Coyote vs. Acme,1204680,438.3449,7.541,480,2026-08-20,en,False
-V (空枪),V,1567937,24.3952,5.7,6,2026-08-19,cn,False
-Vanishing Point (消失的人),Vanishing Point,1658653,5.2799,6.4,15,2026-05-01,zh,False
-Crime 101,Crime 101,1171145,41.3942,7.0,1371,2026-02-11,en,False
-Evil Dead Burn,Evil Dead Burn,1212763,64.3667,7.675,1567,2026-07-07,en,False
-Colony (군체),Colony,1375646,318.7187,8.1,859,2026-05-21,ko,False
-Mercy,Mercy,1236153,24.0762,7.078,1703,2026-01-19,en,False
-Iron Lung,Iron Lung,1116201,12.5175,6.9,431,2026-01-30,en,False
-Shelter,Shelter,1290821,50.9947,7.763,1894,2026-01-28,en,False
-Young Washington,Young Washington,1308767,14.6635,7.843,121,2026-07-02,en,False
-Hope (호프),Hope,1058424,80.4913,7.4,85,2026-07-15,ko,False
-Night King (夜王),Night King,1602727,4.8684,6.926,27,2026-02-14,cn,False
-The Invite,The Invite,950028,34.7179,7.265,592,2026-06-25,en,False
-The Furious (火遮眼),The Furious,1280738,60.4511,8.185,746,2026-06-10,zh,False
-Primate,Primate,1315303,18.7338,6.481,896,2026-01-01,en,False
-Crossing (四渡),Crossing,1604133,2.4914,5.4,5,2026-06-26,zh,False
-Border 2,Border 2,1213898,6.7343,7.583,36,2026-01-23,hi,False
-The Dog Stars,The Dog Stars,1384216,47.5229,6.603,282,2026-08-26,en,False
-Han Zhan 1994 (寒戰1994),Cold War 1994,1499071,5.0369,6.5,22,2026-05-01,cn,False
-Return to Silent Hill,Return to Silent Hill,680493,26.4074,5.372,840,2026-01-21,en,False
-The Magic Faraway Tree,The Magic Faraway Tree,1140521,14.9896,6.3,70,2026-03-26,en,False
-"Torrente, Presidente",Torrente for President,1217584,9.0573,6.148,152,2026-03-13,es,False
-Prostokvashino (Простоквашино),Prostokvashino,1416281,3.8895,3.5,4,2026-01-01,ru,False
-Buratino (Буратино),Buratino,1501764,1.0666,0.0,0,1985-01-01,ru,False
-Passenger,Passenger,1368314,26.0708,7.288,894,2026-05-20,en,False
-Greenland 2: Migration,Greenland 2: Migration,840464,39.2298,6.381,1557,2026-01-07,en,False
-Mutiny,Mutiny,1288445,239.863,6.427,433,2026-08-19,en,False
-Jackass: Best and Last,Jackass: Best and Last,1612018,27.6632,7.5,251,2026-06-25,en,False
-Solo Mio,Solo Mio,1291335,12.7742,7.526,290,2026-02-05,en,False
-Buddy,Buddy,1514026,31.0454,7.8,62,2026-08-27,en,False
-One Night Only,One Night Only,1433367,41.7668,6.5,146,2026-08-06,en,False
-Hokum,Hokum,1430077,28.8418,6.853,873,2026-04-29,en,False
-It’s OK (我，许可),It's OK,1546855,3.5107,6.4,16,2026-03-21,zh,False
-Pressure,Pressure,1318413,27.0609,7.7,442,2026-05-28,en,False
-The Bride!,The Bride!,1159831,24.0848,6.1,661,2026-03-04,en,False
-Stray Kids: The DominATE expe…,Stray Kids: The dominATE Experience,1600421,2.9045,9.102,64,2026-02-04,ko,False
-EPiC: Elvis Presley in Concert,EPiC: Elvis Presley in Concert,1445363,9.3501,8.178,107,2026-02-18,en,False
-A Part of Me (想你了),A Part of Me,1713529,1.4879,7.0,1,2026-07-17,zh,False
-"You, Me & Tuscany","You, Me & Tuscany",1455079,12.0728,7.3,112,2026-04-09,en,False
-To Your Island (去你的岛),To Your Island,1724637,1.386,7.0,2,2026-08-07,zh,False
-Salmokji: Whispering Water (…,Salmokji: Whispering Water,1461254,6.1926,6.1,29,2026-04-08,ko,False
-undertone,undertone,1480387,16.1149,5.992,661,2026-03-12,en,False
-Hadestown: The Musical,Hadestown: The Musical,1439808,5.0452,9.0,21,2026-07-23,en,False
-Johnny Keep Walking! 2 (年会…,Make Zhonghe Great Again,1541125,11.278,6.0,6,2026-07-24,zh,False
-How to Make a Killing,How to Make a Killing,467905,18.372,7.0,746,2026-02-16,en,False
-The Breadwinner,The Breadwinner,1440050,13.7656,7.284,95,2026-05-29,en,False
-They Will Kill You,They Will Kill You,1292695,21.2487,6.943,1131,2026-03-25,en,False
-Awarapan 2,Awarapan 2,1444466,4.8396,0.0,0,2026-08-14,hi,False
-I Can Only Imagine 2,I Can Only Imagine 2,1405769,9.8109,8.327,49,2026-02-19,en,False
-Tony,Tony,1329016,46.382,7.6,91,2026-08-07,en,False
-Keep Real (特立独行),Keep Real,1353926,2.6436,6.7,10,2026-07-03,zh,False
-Busted Water Pipes (爆水管),Busted Water Pipes,1537690,1.5928,5.3,11,2026-01-23,zh,False
+tmdb_id,title,original_title,popularity,vote_average,vote_count,release_date,original_language,genre_ids,adult
+969681,Spider-Man: Brand New Day,Spider-Man: Brand New Day,653.7739,7.9,2849,2026-07-29,en,"[878, 28, 12]",False
+1423191,Resident Evil,Resident Evil,584.55,7.307,374,2026-09-16,en,"[27, 878, 12]",False
+1101383,The End of Oak Street,The End of Oak Street,485.8521,7.006,1455,2026-08-12,en,"[878, 9648, 53]",False
+1204680,Coyote vs. Acme,Coyote vs. Acme,409.4076,7.556,502,2026-08-20,en,"[35, 12, 10751]",False
+1368337,The Odyssey,The Odyssey,346.9968,8.019,3878,2026-07-15,en,"[12, 28, 14]",False
+1375646,Colony,군체,290.1781,8.075,870,2026-05-21,ko,"[28, 27, 878]",False
+1288445,Mutiny,Mutiny,229.0152,6.425,435,2026-08-19,en,"[28, 53]",False
+1108427,Moana,Moana,183.5472,7.41,754,2026-07-08,en,"[10751, 14, 35, 12]",False
+1440098,Drawn Together,Enfrentados: Marfil,148.2249,6.673,113,2026-09-09,es,"[10749, 53]",False
+1084244,Toy Story 5,Toy Story 5,146.8947,8.354,2255,2026-06-17,en,"[16, 10751, 35, 12]",False
+1232569,Pinocchio: Unstrung,Pinocchio: Unstrung,137.4338,6.565,107,2026-07-22,en,"[27, 14, 9648]",False
+1240889,Teenage Sex and Death at Camp Miasma,Teenage Sex and Death at Camp Miasma,130.0998,6.4,171,2026-08-06,en,"[35, 27, 10749]",False
+1386315,The Runner,The Runner,123.862,6.762,557,2026-09-03,en,"[53, 28]",False
+1339713,Obsession,Obsession,123.629,8.193,5689,2026-05-13,en,"[27, 53]",False
+1315772,Minions & Monsters,Minions & Monsters,120.1224,7.6,1158,2026-06-24,en,"[12, 16, 35, 10751, 14]",False
+1323244,Rage of Stars,Rage of Stars,114.3201,6.757,185,2026-08-06,en,"[28, 878, 53]",False
+1228834,The Fix,The Fix,101.2301,7.462,26,2026-09-10,en,"[28, 53]",False
+687163,Project Hail Mary,Project Hail Mary,99.5931,8.6,7931,2026-03-15,en,"[878, 12]",False
+1516698,The Last Sunrise,The Last Sunrise,96.0388,6.793,188,2026-08-26,en,"[10749, 18]",False
+1621552,Facing El Chapo,La captura,95.4174,8.792,791,2026-08-21,es,"[80, 28, 53]",False
+1185806,PAW Patrol: The Dino Movie,PAW Patrol: The Dino Movie,94.7701,8.0,132,2026-07-23,en,"[16, 12, 10751, 14, 35]",False
+1641629,You+Me - Against the World,Toi+Moi - Seuls contre tous,94.6606,5.731,39,2026-09-18,fr,"[10749, 18]",False
+1408162,Vishwanath & Sons,விஸ்வநாத் & சன்ஸ்,94.6603,7.3,28,2026-08-14,ta,"[18, 10749, 35]",False
+1137844,Mayday,Mayday,91.2819,8.047,770,2026-09-03,en,"[28, 35]",False
+1083381,Backrooms,Backrooms,91.0767,7.029,3384,2026-05-27,en,"[27, 9648, 878]",False
+1275779,Disclosure Day,Disclosure Day,88.0504,7.469,3413,2026-06-10,en,"[878, 53]",False
+1599993,Animals,Animales,87.9108,6.367,49,2026-02-05,es,"[35, 53]",False
+1393326,Ghost in the Cell,Ghost in the Cell,87.5694,7.185,73,2026-04-16,id,"[27, 35, 53]",False
+1130948,Rosebush Pruning,Rosebush Pruning,83.9119,6.136,55,2026-04-23,en,"[35, 18, 53]",False
+1127384,Deep Water,Deep Water,83.0407,7.371,602,2026-04-30,en,"[27, 53, 12]",False
+980431,Avatar Aang: The Last Airbender,Avatar Aang: The Last Airbender,83.0092,9.153,1183,2026-07-24,en,"[16, 12, 14, 28]",False
+1228710,The Mandalorian and Grogu,The Mandalorian and Grogu,81.0277,7.476,1701,2026-05-20,en,"[28, 12, 878]",False
+1506560,Clash of the Thundermans,Clash of the Thundermans,78.1683,6.7,60,2026-09-03,en,"[10770, 10751, 28]",False
+1560520,Batman: Knightfall Part 1: Knightfall,Batman: Knightfall Part 1: Knightfall,75.9198,9.157,366,2026-06-23,en,"[16, 28, 12, 878]",False
+1263337,Heart of the Beast,Heart of the Beast,71.8911,7.909,22,2026-09-19,en,"[12, 53]",False
+813418,Hot Spot,Hot Spot,70.8964,5.1,22,2026-08-21,en,"[878, 28, 80, 14, 53]",False
+1058424,Hope,호프,69.9905,7.413,86,2026-07-15,ko,"[878, 9648, 28]",False
+1101412,Fall 2: Deadpoint,Fall 2: Deadpoint,67.2442,6.5,44,2026-09-01,en,[53],False
+1081003,Supergirl,Supergirl,65.5483,6.672,2389,2026-06-24,en,"[28, 12, 878]",False
+1477712,Ice Cream Man,Ice Cream Man,65.1965,4.6,68,2026-08-03,en,"[27, 35, 53]",False
+1514682,Above & Below,Above & Below,64.1657,6.1,39,2026-07-29,en,"[53, 80]",False
+860508,The Whisper Man,The Whisper Man,63.7537,6.86,780,2026-08-27,en,"[80, 18, 53]",False
+1273221,Scary Movie,Scary Movie,61.7808,6.37,1937,2026-06-03,en,[35],False
+1377237,Runner,Runner,60.807,7.603,34,2026-09-07,en,"[28, 35, 53]",False
+1212763,Evil Dead Burn,Evil Dead Burn,60.0734,7.679,1574,2026-07-07,en,[27],False
+1226863,The Super Mario Galaxy Movie,The Super Mario Galaxy Movie,59.625,8.221,3710,2026-04-01,en,"[10751, 35, 12, 14, 16]",False
+1280738,The Furious,火遮眼,58.328,8.2,750,2026-06-10,zh,"[28, 80, 53]",False
+1594914,Lucky Strike,Lucky Strike,57.8436,6.8,47,2026-06-26,en,"[28, 10752]",False
+1302904,Practical Magic 2,Practical Magic 2,56.758,6.175,80,2026-09-09,en,"[10749, 14, 35]",False
+936075,Michael,Michael,56.0259,8.63,4397,2026-04-22,en,"[10402, 18]",False
+1284465,The Death of Robin Hood,The Death of Robin Hood,54.6191,6.227,324,2026-06-18,en,"[12, 18, 28]",False
+1514863,Best of the Best,Best of the Best,53.1783,4.886,44,2026-09-18,en,[35],False
+1301421,The Sheep Detectives,The Sheep Detectives,53.001,7.933,1706,2026-04-30,en,"[35, 10751, 9648]",False
+454639,Masters of the Universe,Masters of the Universe,52.8041,7.123,2157,2026-06-03,en,"[28, 14, 878]",False
+1327819,Hoppers,Hoppers,51.7889,8.15,2361,2026-03-04,en,"[12, 16, 35, 10751, 878]",False
+1441228,Irumudi,ఇరుముడి,48.7545,6.6,22,2026-08-20,te,"[18, 10751, 28]",False
+1110034,Kraken,Kraken,48.1403,6.277,330,2026-02-06,no,"[27, 28, 53]",False
+1291595,Insidious: Out of the Further,Insidious: Out of the Further,47.8869,6.5,163,2026-08-19,en,"[27, 53]",False
+1290821,Shelter,Shelter,47.6081,7.759,1898,2026-01-28,en,"[28, 80, 53]",False
+1314481,The Devil Wears Prada 2,The Devil Wears Prada 2,47.0659,7.047,2360,2026-04-29,en,"[35, 18]",False
+1288059,I Want Your Sex,I Want Your Sex,46.8731,6.1,82,2026-07-29,en,[35],False
+1180894,Under Your Feet,Bajo tus pies,46.5823,5.019,27,2026-02-19,es,[27],False
+1007757,Swapped,Swapped,45.5412,8.869,2197,2026-05-01,en,"[12, 16, 10751, 14]",False
+1523145,Your Heart Will Be Broken,Твоё сердце будет разбито,45.4129,7.106,123,2026-03-26,ru,[10749],False
+1439930,The Punisher: One Last Kill,The Punisher: One Last Kill,45.2346,8.275,2251,2026-05-12,en,"[28, 18, 80]",False
+1384216,The Dog Stars,The Dog Stars,43.9697,6.6,285,2026-08-26,en,"[878, 53, 12]",False
+1265609,War Machine,War Machine,43.8199,7.49,2498,2026-02-12,en,"[28, 878, 53]",False
+1032863,The Love Hypothesis,The Love Hypothesis,42.8824,8.4,34,2026-09-23,en,"[10749, 35]",False
+1329016,Tony,Tony,42.1035,7.6,96,2026-08-07,en,"[18, 35]",False
+675871,Super Troopers 3,Super Troopers 3,41.8856,6.9,23,2026-08-06,en,"[35, 80, 9648]",False
+1122573,In the Grey,In the Grey,41.8381,7.569,1011,2026-05-13,en,"[28, 53]",False
+1433367,One Night Only,One Night Only,41.2443,6.5,146,2026-08-06,en,"[10749, 35]",False
+931285,Mortal Kombat II,Mortal Kombat II,40.9141,7.807,2605,2026-05-06,en,"[28, 14, 12]",False
+1304313,Lee Cronin's The Mummy,Lee Cronin's The Mummy,40.2156,7.869,2694,2026-04-15,en,"[27, 9648]",False
+1124142,The Rivals of Amziah King,The Rivals of Amziah King,39.8888,6.821,84,2026-08-13,en,"[53, 80, 18]",False
+1297842,GOAT,GOAT,39.487,8.055,1094,2026-02-11,en,"[16, 35, 10751]",False
+1171145,Crime 101,Crime 101,37.3503,7.0,1372,2026-02-11,en,"[80, 53]",False
+950028,The Invite,The Invite,36.9037,7.258,621,2026-06-25,en,"[35, 18, 10749]",False
+1168190,The Wrecking Crew,The Wrecking Crew,36.8402,7.097,1278,2026-01-28,en,"[28, 35, 80, 9648]",False
+1279493,The Get Out,The Get Out,36.781,6.017,90,2026-06-18,en,"[28, 53]",False
+1698863,The Odyssey,The Odyssey,35.1879,4.059,587,2026-07-03,en,"[12, 14, 28]",False
+1564614,Leviticus,Leviticus,34.4852,6.8,524,2026-06-17,en,"[27, 10749]",False
+1341138,Spa Weekend,Spa Weekend,34.3768,6.808,39,2026-08-20,en,[35],False
+1284041,The Last House,The Last House,32.7151,6.85,1390,2026-08-06,en,"[27, 878, 53]",False
+1325734,The Drama,The Drama,32.1102,6.906,1832,2026-04-01,en,"[10749, 35, 18]",False
+1380291,Tom Clancy's Jack Ryan: Ghost War,Tom Clancy's Jack Ryan: Ghost War,31.2725,6.915,787,2026-05-20,en,"[28, 53]",False
+1288341,Seven Snipers,Seven Snipers,30.7121,6.0,140,2026-04-30,en,"[28, 53]",False
+1413976,Citizen Vigilante,Citizen Vigilante,30.611,6.5,404,2026-06-19,en,"[53, 28, 80]",False
+1159559,Scream 7,Scream 7,30.3373,6.222,1294,2026-02-25,en,"[27, 9648, 80]",False
+87513,Motor City,Motor City,30.0529,6.2,118,2026-07-23,en,"[28, 53, 80]",False
+1481343,The Devil's Mouth,The Devil's Mouth,30.0504,6.501,793,2026-07-29,en,"[27, 53]",False
+1266127,Ready or Not: Here I Come,Ready or Not: Here I Come,29.9255,7.555,1651,2026-03-19,en,"[27, 35]",False
+1318447,Apex,Apex,29.7387,6.893,1942,2026-04-24,en,"[28, 53]",False
+1514026,Buddy,Buddy,29.5717,7.766,64,2026-08-27,en,"[27, 35, 14]",False
+1198994,Send Help,Send Help,28.7312,7.026,2315,2026-01-22,en,"[27, 53, 35]",False
+1731694,LEGO Star Wars: The Mandalorian,LEGO Star Wars: The Mandalorian,27.6931,6.8,29,2026-09-02,en,"[16, 878, 12, 10751, 28]",False
+1380417,By Any Means,By Any Means,27.2283,7.6,23,2026-09-02,en,"[36, 80, 18]",False
+1084187,Pretty Lethal,Pretty Lethal,26.8065,6.789,502,2026-03-13,en,"[28, 53, 27]",False
+1487861,Elize: Shadows of a Woman,Elize: Sombras de uma Mulher,26.5145,7.549,213,2026-07-22,pt,"[53, 80, 18]",False
+1613798,Vengeance,Venganza,26.3688,7.498,312,2026-02-26,es,"[28, 53]",False
+1613798,Vengeance,Venganza,26.3688,7.498,312,2026-02-26,es,"[28, 53]",False
+1339588,Finding Emily,Finding Emily,26.1982,6.8,59,2026-05-21,en,"[10749, 35]",False
+1318621,Descendants: Wicked Wonderland,Descendants: Wicked Wonderland,25.9638,7.5,182,2026-07-16,en,"[14, 10770, 10751, 12]",False
+1340206,Tuner,Tuner,25.949,7.6,455,2026-05-21,en,"[80, 18, 53]",False
+1612018,Jackass: Best and Last,Jackass: Best and Last,25.9212,7.5,251,2026-06-25,en,"[28, 35, 99]",False
+1355228,Gandhari,गांधारी,25.6563,7.068,22,2026-09-03,hi,"[28, 18, 53]",False
+1668364,Desire,Deseo,25.6102,6.699,254,2026-05-07,es,"[9648, 18]",False
+1272837,28 Years Later: The Bone Temple,28 Years Later: The Bone Temple,25.544,7.088,1765,2026-01-14,en,"[27, 53, 878]",False
+1306368,The Rip,The Rip,25.4266,7.09,1935,2026-01-13,en,"[28, 53, 80]",False
+1316092,“Wuthering Heights”,“Wuthering Heights”,25.1304,6.651,1360,2026-02-11,en,"[10749, 18]",False
+1428226,Until the End of the World,Hasta el Fin del Mundo,25.114,7.702,57,2026-07-23,es,[18],False
+1318413,Pressure,Pressure,25.074,7.692,445,2026-05-28,en,"[53, 36, 10752]",False
+1462861,Spider Island,Spider Island,25.0616,5.1,22,2026-08-27,en,"[35, 27]",False
+1430077,Hokum,Hokum,24.9875,6.854,878,2026-04-29,en,"[27, 53]",False
+1432706,Bury the Devil,Bury the Devil,24.9712,5.7,23,2026-03-06,en,"[27, 53]",False
+1368314,Passenger,Passenger,24.7071,7.3,896,2026-05-20,en,"[27, 53]",False
+1307118,Soulm8te,Soulm8te,24.601,7.444,339,2026-07-31,en,"[27, 878, 53]",False
+680493,Return to Silent Hill,Return to Silent Hill,23.8785,5.4,841,2026-01-21,en,"[27, 9648]",False
+1213243,Toxic: A Fairy Tale for Grown-ups,ಟಾಕ್ಸಿಕ್,23.5557,8.013,76,2026-08-26,kn,"[28, 80, 18]",False
+1630409,The Debt Collector,คนเดือดทวงแค้น,23.2671,7.906,139,2026-07-20,th,"[28, 53, 80]",False
+1321008,Black Box,Black Box,23.1048,5.928,90,2026-06-25,en,"[27, 53]",False
+614945,Voicemails for Isabelle,Voicemails for Isabelle,23.0304,8.323,922,2026-06-20,en,"[10749, 35, 18]",False
+875828,Peaky Blinders: The Immortal Man,Peaky Blinders: The Immortal Man,22.7836,7.178,1233,2026-03-05,en,"[80, 18]",False
+1522689,Why Did I Get Married Again?,Why Did I Get Married Again?,22.4911,6.7,26,2026-09-08,en,"[35, 10749, 18]",False
+1119449,"Good Luck, Have Fun, Don't Die","Good Luck, Have Fun, Don't Die",22.1552,7.111,1046,2026-02-13,en,"[878, 28, 35]",False
+1476682,Gail Daughtry and the Celebrity Sex Pass,Gail Daughtry and the Celebrity Sex Pass,22.1487,6.2,38,2026-07-09,en,[35],False
+1305781,Blades of the Guardians,镖人：风起大漠,21.6787,8.19,237,2026-02-17,zh,"[28, 12]",False
+1516724,Good Vibes Only,Pour le plaisir,21.3979,6.2,48,2026-05-06,fr,[35],False
+1159831,The Bride!,The Bride!,21.3722,6.111,662,2026-03-04,en,"[878, 27, 14]",False
+1480574,Just Play Dead,Just Play Dead,21.0755,5.859,46,2026-08-28,en,"[53, 80]",False
+1698856,Master of the Universe,Master of the Universe,21.018,5.1,87,2026-05-22,en,"[878, 28, 14]",False
+1515615,Kissing Is the Easy Part,Kissing Is the Easy Part,20.8987,7.3,87,2026-02-13,en,"[10749, 35]",False
+1236153,Mercy,Mercy,20.7744,7.075,1708,2026-01-19,en,"[878, 53, 80, 9648]",False
+1284046,Onslaught,Onslaught,20.6394,5.9,27,2026-09-02,en,"[28, 27, 53]",False
+1330021,Remarkably Bright Creatures,Remarkably Bright Creatures,20.6392,8.4,920,2026-05-07,en,"[18, 9648]",False
+1471168,Barreda,Barreda,20.5705,7.224,78,2026-08-28,es,"[18, 80, 36]",False
+1698575,"Snoopy Presents: There's No Place Like Home, Snoopy","Snoopy Presents: There's No Place Like Home, Snoopy",20.2491,8.451,41,2026-07-30,en,"[16, 10751]",False
+1656061,Immortal Combat,Immortal Combat,20.1277,4.8,21,2026-04-24,en,"[28, 878, 12]",False
+1266800,The Desert Child,L'enfant du désert,20.0714,7.586,29,2026-04-08,fr,"[12, 10751]",False
+1292415,Beast,Beast,19.7905,7.528,193,2026-04-10,en,"[28, 18]",False
+1292415,Beast,Beast,19.7905,7.528,193,2026-04-10,en,"[28, 18]",False
+1084577,Balls Up,Balls Up,19.4882,5.858,334,2026-04-15,en,"[35, 28, 12]",False
+1470130,The Mortuary Assistant,The Mortuary Assistant,19.2191,5.3,188,2026-02-13,en,"[27, 9648]",False
+1383731,Protector,Protector,19.1246,8.405,597,2026-02-20,en,"[28, 53]",False
+964849,Nightborn,Yön lapsi,18.9406,5.957,140,2026-07-01,fi,[27],False
+1292695,They Will Kill You,They Will Kill You,18.9014,6.943,1132,2026-03-25,en,"[28, 35, 27, 53]",False
+1381027,Good Boy,Good Boy,18.7348,7.298,305,2026-03-05,en,"[53, 18, 9648, 27]",False
+1390300,Over Your Dead Body,Over Your Dead Body,18.627,6.435,612,2026-03-14,en,"[28, 35, 53]",False
+467905,How to Make a Killing,How to Make a Killing,18.4406,6.962,751,2026-02-16,en,"[35, 53]",False
+799882,The Bluff,The Bluff,18.4138,6.8,225,2026-02-17,en,"[18, 28, 53]",False
+1290417,Thrash,Thrash,18.3895,6.171,831,2026-04-09,en,"[27, 53]",False
+1414413,Brothers Under Fire,Brothers Under Fire,17.9317,5.8,57,2026-04-15,en,"[28, 53, 9648, 18]",False
+1140521,The Magic Faraway Tree,The Magic Faraway Tree,17.0372,6.368,72,2026-03-26,en,"[12, 10751, 14]",False
+1422011,It Ends,It Ends,16.9881,5.398,44,2026-08-21,en,"[27, 9648]",False
+1263532,Beast Race,Corrida dos Bichos,16.6848,6.976,123,2026-03-17,pt,"[28, 878, 53]",False
+1315303,Primate,Primate,16.672,6.474,900,2026-01-01,en,"[27, 53]",False
+1317672,Love Me Love Me,Love Me Love Me,16.6391,6.097,316,2026-02-12,en,"[10749, 18]",False
+1477317,Your Fault: London,Your Fault: London,16.4014,7.437,198,2026-06-17,en,"[10749, 18]",False
+949838,72 HOURS,72 HOURS,16.3962,6.7,447,2026-07-20,en,"[35, 80]",False
+1242332,Normal,Normal,16.3707,7.265,600,2026-04-16,en,"[28, 80, 53]",False
+1365884,Call My Agent! The Movie,Dix Pour Cent ! Le Film,16.3659,6.245,94,2026-08-29,fr,"[35, 18]",False
+1558568,Go Team!,"Gracias, equipo",16.3186,5.258,31,2026-09-11,es,[35],False
+1632181,Accidental Partners,Socias por accidente,16.3173,8.828,384,2026-03-12,es,"[35, 10749]",False
+1404304,The Isolate Thief,The Isolate Thief,16.238,6.674,23,2026-07-10,en,"[37, 28, 18]",False
+696393,Cold Storage,Cold Storage,16.2126,6.8,782,2026-01-22,en,"[27, 878, 35]",False
+1193501,Whistle,Whistle,16.2108,6.319,695,2026-01-20,en,"[27, 9648]",False
+1314786,Agent Zeta,Zeta,15.7097,6.68,189,2026-03-20,es,"[18, 53]",False
+1363387,Saccharine,Saccharine,15.5396,6.952,178,2026-05-22,en,[27],False
+1226699,The Wrong Girls,The Wrong Girls,15.4698,6.133,30,2026-08-14,en,"[35, 80, 878]",False
+1235877,Jana Nayagan,ஜன நாயகன்,15.348,5.3,20,2026-07-22,ta,"[28, 18]",False
+1679730,THE RIBBON HERO,THE RIBBON HERO リボンヒーロー,15.2915,6.4,24,2026-08-07,ja,"[16, 14, 18, 28]",False
+1202033,Enola Holmes 3,Enola Holmes 3,15.1883,6.733,690,2026-06-30,en,"[12, 80, 9648]",False
+1358005,Office Romance,Office Romance,15.0825,6.417,381,2026-06-04,en,"[10749, 35]",False
+1480387,undertone,undertone,15.0771,5.989,663,2026-03-12,en,"[27, 9648]",False
+1430698,The Bay,The Bay,14.945,5.672,32,2026-07-02,en,"[53, 27]",False
+999136,Do Not Enter,Do Not Enter,14.8618,6.256,356,2026-03-19,en,[27],False
+1641319,Sniper: No Nation,Sniper: No Nation,14.7615,6.72,100,2026-03-13,en,"[28, 53]",False
+1367642,Reminders of Him,Reminders of Him,14.7164,7.802,424,2026-03-11,en,"[10749, 18]",False
+1630423,My Dearest Assassin,เลือดรักนักฆ่า,14.4695,8.6,294,2026-05-06,th,"[28, 18, 10749]",False
+1472951,Infiltrate,Infiltrate,14.3526,7.74,25,2026-07-09,en,"[28, 53]",False
+1397385,Little Brother,Little Brother,14.1784,6.398,372,2026-06-18,en,[35],False
+1010755,The Strangers: Chapter 3,The Strangers: Chapter 3,14.1727,5.89,290,2026-02-05,en,"[27, 53]",False
+1545621,Detective Conan: Fallen Angel of the Highway,名探偵コナン ハイウェイの堕天使,14.1232,7.4,21,2026-04-10,ja,"[28, 16, 9648, 80]",False
+1575337,Cosmic Princess Kaguya!,超かぐや姫！,14.0733,8.1,116,2026-01-22,ja,"[16, 14, 10402, 878]",False
+1285959,The Passenger,The Passenger,13.8787,5.528,54,2026-06-05,en,[53],False
+1595852,Boulevard,Boulevard,13.8611,7.51,202,2026-04-10,es,"[10749, 18]",False
+1115544,Mike & Nick & Nick & Alice,Mike & Nick & Nick & Alice,13.5851,6.68,460,2026-03-14,en,"[35, 878, 28]",False
+1491920,Kung Fu Soccer,功夫女足,13.5594,6.111,27,2026-07-11,zh,"[18, 35, 28]",False
+1308767,Young Washington,Young Washington,13.5485,7.795,122,2026-07-02,en,"[36, 10752, 18]",False
+1361774,The Dink,The Dink,13.429,6.401,141,2026-07-23,en,[35],False
+1541560,Stop! That! Train!,Stop! That! Train!,13.2032,5.1,51,2026-06-12,en,"[28, 35]",False
+1437696,Fatherland,Ojczyzna,13.1542,7.1,25,2026-06-19,pl,"[18, 36]",False
+1497463,All That We Never Were,Todo lo que nunca fuimos,13.1323,8.177,99,2026-06-04,es,"[18, 10749]",False
+1451867,Ghost Elephants,Ghost Elephants,13.0005,7.6,64,2026-02-27,en,[99],False
+1493859,Pizza Movie,Pizza Movie,12.9294,6.356,156,2026-03-13,en,"[35, 12, 14]",False
+1102883,Mother Mary,Mother Mary,12.8387,5.7,198,2026-04-16,en,"[10402, 18, 53]",False
+1207162,Rise of the Conqueror,Rise of the Conqueror,12.6537,5.904,26,2026-04-09,en,"[36, 28, 12, 10752]",False
+1504358,Don't Say Good Luck,Don't Say Good Luck,12.6137,7.3,120,2026-08-13,en,"[35, 10402, 18]",False
+1601243,Oscar Shaw,Oscar Shaw,12.5877,6.684,38,2026-01-09,en,"[28, 80, 53, 37]",False
+1493400,Camp Rock 3,Camp Rock 3,12.585,6.472,127,2026-08-13,en,"[10402, 35, 18, 10770]",False
+1391021,Once Upon a Time in the Middle East,欢迎来龙餐馆,12.3268,9.1,40,2026-08-08,zh,"[18, 10752]",False
+1083884,Signal One,Signal One,12.2792,6.2,54,2026-06-05,en,"[9648, 878]",False
+1440050,The Breadwinner,The Breadwinner,12.2159,7.3,95,2026-05-29,en,"[35, 10751]",False
+1662432,Finding Harry: The Craft Behind the Magic,Finding Harry: The Craft Behind the Magic,12.0911,7.726,42,2026-04-05,en,[99],False
+1469342,Her Private Hell,Her Private Hell,12.0301,5.1,63,2026-07-23,en,"[878, 27, 53]",False
+1198984,We Bury the Dead,We Bury the Dead,12.0005,6.154,386,2026-01-01,en,"[27, 53]",False
+1729723,Yellow Mirror,Yellow Mirror,11.985,8.057,61,2026-08-26,en,"[16, 35, 878]",False
+1341137,A Great Awakening,A Great Awakening,11.9409,7.185,27,2026-04-03,en,"[36, 18]",False
+1382832,Hungry,Hungry,11.9339,7.015,270,2026-06-03,en,"[53, 27]",False
+1471224,Bazaar (Murder in the Building),Le Crime du 3e étage,11.8877,6.401,81,2026-03-11,fr,"[35, 18, 80]",False
+1584215,The Internship,The Internship,11.8316,6.381,147,2026-01-13,en,[28],False
+1397485,Girls Like Girls,Girls Like Girls,11.8206,7.5,67,2026-06-18,en,"[10749, 18]",False
+1530941,Gintama the Movie 2026: Yoshiwara in Flames,新劇場版 銀魂 -吉原大炎上-,11.7998,8.95,20,2026-02-13,ja,"[16, 28, 878, 35]",False
+1517123,On the Road,En el camino,11.7976,7.938,32,2026-06-03,es,"[18, 53, 80]",False
+1122030,Alpha,अल्फा,11.7264,5.1,27,2026-07-02,hi,"[28, 53]",False
+1571101,Evolution,Evolution,11.7065,6.8,24,2026-02-06,en,"[16, 10751, 35]",False
+1049471,Outcome,Outcome,11.5514,5.383,256,2026-04-06,en,"[35, 18]",False
+1637319,Hannah Montana 20th Anniversary Special,Hannah Montana 20th Anniversary Special,11.547,7.2,96,2026-03-23,en,"[99, 10402]",False
+1116201,Iron Lung,Iron Lung,11.5266,6.939,432,2026-01-30,en,"[27, 9648, 878]",False
+1268127,Humint,휴민트,11.3837,7.438,184,2026-02-11,ko,"[53, 28, 18]",False
+1309083,Dolly,Dolly,11.298,5.709,234,2026-03-06,en,[27],False
+1363974,That Time I Got Reincarnated as a Slime the Movie: Tears of the Azure Sea,劇場版 転生したらスライムだった件 蒼海の涙編,11.2812,8.2,62,2026-02-27,ja,"[16, 14, 12, 35]",False
+1468683,Heartstopper Forever,Heartstopper Forever,11.0305,7.247,271,2026-07-14,en,"[10749, 18]",False
+1659155,The Truthers,Los creyentes,10.4702,5.718,103,2026-07-24,es,"[53, 18, 9648]",False
+855435,Faces of Death,Faces of Death,10.4586,5.7,137,2026-04-10,en,"[27, 80]",False
+1245859,Savage House,Savage House,10.4238,6.9,45,2026-06-05,en,"[35, 18]",False
+1479832,DC,டிசி,10.4212,7.9,23,2026-08-07,ta,"[10749, 28, 18]",False
+1061798,Jim Queen and the Quest for Chloroqueer,Jim Queen,10.3208,7.9,86,2026-06-17,fr,"[16, 35]",False
+1291335,Solo Mio,Solo Mio,10.3085,7.526,290,2026-02-05,en,"[10749, 35]",False
+1390382,Couture,Coutures,10.2747,6.261,67,2026-02-18,fr,[18],False
+1442211,Balandrau: Where the Fierce Wind Blew,Balandrau: Where the Fierce Wind Blew,10.2562,7.0,22,2026-02-20,ca,[18],False
+1291659,The Wizard of the Kremlin,Le Mage du Kremlin,10.2402,6.492,252,2026-01-21,fr,[18],False
+1340076,Untitled Home Invasion Romance,Untitled Home Invasion Romance,10.1853,5.623,53,2026-01-27,en,"[35, 28, 53, 10749, 27]",False
+1515729,Blast,Blast,10.0415,7.8,68,2026-05-28,ta,"[28, 53]",False
+1368881,Ladies First,Ladies First,10.025,5.946,534,2026-05-21,en,"[35, 14]",False
+1656220,23 000 Lives,23 000 Leben,9.9884,6.103,78,2026-07-02,de,[18],False
+1487864,Nando Between Two Worlds - A Sintonia Film,Nando Entre Dois Mundos: Um Filme Sintonia,9.7891,5.815,27,2026-08-12,pt,"[80, 53, 18]",False
+1455079,"You, Me & Tuscany","You, Me & Tuscany",9.7756,7.3,112,2026-04-09,en,"[10749, 35]",False
+1088548,Bitter Christmas,Amarga Navidad,9.7383,6.2,144,2026-03-20,es,"[18, 35]",False
+1671548,Dear You,给阿嬷的情书,9.7212,8.836,73,2026-04-30,zh,"[18, 10751, 35]",False
+1671548,Dear You,给阿嬷的情书,9.7212,8.836,73,2026-04-30,zh,"[18, 10751, 35]",False
+1057265,Peddi,పెద్ది,9.6405,5.8,69,2026-06-03,te,"[28, 18]",False
+1662414,Propeller One-Way Night Coach,Propeller One-Way Night Coach,9.6284,6.411,56,2026-05-15,en,"[12, 18, 10751]",False
+1263012,Dead Man's Wire,Dead Man's Wire,9.5887,6.525,224,2026-01-09,en,"[80, 18, 53]",False
+1074074,The Beloved,El ser querido,9.5576,6.876,85,2026-05-16,es,[18],False
+1107166,Psycho Killer,Psycho Killer,9.5132,6.6,236,2026-02-20,en,"[80, 27, 9648]",False
+1034716,People We Meet on Vacation,People We Meet on Vacation,9.5058,6.969,731,2026-01-06,en,"[35, 10749]",False
+1694978,Chum,Chum,9.4844,4.778,45,2026-05-27,en,[27],False
+539745,Animal Farm,Animal Farm,9.4684,6.4,112,2026-04-30,en,"[16, 35, 18, 10751, 878]",False
+1511057,Roommates,Roommates,9.4653,6.429,168,2026-04-13,en,[35],False
+662707,Starbright,Starbright,9.4543,5.7,20,2026-02-27,en,"[12, 28]",False
+910850,MOBILE SUIT GUNDAM HATHAWAY The Sorcery of Nymph Circe,機動戦士ガンダム  閃光のハサウェイ キルケーの魔女,9.3542,7.946,28,2026-01-30,ja,"[16, 878, 10752, 18]",False
+1284016,Power Ballad,Power Ballad,9.2782,7.061,107,2026-05-18,en,"[35, 10402, 18]",False
+1631506,The Hanged Woman,La ahorcada,9.2749,5.627,59,2026-04-22,es,[27],False
+1327688,One Mile: Chapter One,One Mile: Chapter One,9.2538,6.757,144,2026-02-20,en,"[28, 80]",False
+1412598,Killer Whale,Killer Whale,9.1872,5.361,201,2026-01-16,en,"[53, 27, 28]",False
+1198654,Bad Apples,Bad Apples,9.1729,7.0,24,2026-09-10,en,"[35, 53]",False
+1662317,The Crash,The Crash,9.1236,6.866,186,2026-05-14,en,"[99, 80]",False
+1212461,Obex,Obex,9.0859,6.125,24,2026-01-09,en,"[14, 12, 27]",False
+1032892,In the Blink of an Eye,In the Blink of an Eye,9.0382,5.845,171,2026-01-26,en,"[878, 18]",False
+1645603,Night of the Living Dead,Night of the Living Dead,9.028,4.9,73,2026-07-03,en,[27],False
+1548113,The Muppet Show,The Muppet Show,9.0264,7.19,121,2026-02-03,en,"[35, 10751, 10402, 10770]",False
+1556616,Summer House,Yaz Evi,9.0206,6.667,24,2026-06-06,tr,"[10749, 10751, 18, 9648]",False
+1445363,EPiC: Elvis Presley in Concert,EPiC: Elvis Presley in Concert,8.9722,8.178,107,2026-02-18,en,"[10402, 99]",False
+1276704,53 Sundays,53 domingos,8.9397,5.921,76,2026-03-26,es,"[35, 18]",False
+1752159,Turning Point: Generation 9/11,Turning Point: Generation 9/11,8.7694,6.34,25,2026-09-02,en,[99],False
+1176962,Rose,Rose,8.7225,7.6,37,2026-04-17,de,"[18, 36, 10752]",False
+1382513,Hen,Κότα,8.7144,7.2,27,2026-02-20,el,"[12, 18]",False
+192139,The Brink of War,The Brink of War,8.634,6.982,28,2026-08-13,en,"[18, 36]",False
+1380316,Is God Is,Is God Is,8.5595,5.966,134,2026-05-14,en,"[18, 53]",False
+1168719,Silent Friend,Silent Friend,8.5289,7.1,54,2026-01-15,de,[18],False
+1582770,Dhurandhar: The Revenge,धुरंधर: द रिवेंज,8.4479,7.3,162,2026-03-18,hi,"[28, 80, 53]",False
+1426964,State of Fear,Salve Geral: Irmandade,8.4456,5.785,79,2026-02-10,pt,"[28, 53, 80, 18]",False
+1589248,"My Best Friend, His Girlfriend and Me","Mein bester Freund, seine Freundin und ich",8.4372,6.2,41,2026-08-14,de,[35],False
+1165366,De Gaulle: Résistance,La bataille de Gaulle : L'âge de fer,8.4313,7.8,196,2026-06-03,fr,"[36, 18]",False
+1145899,Marsupilami,Marsupilami,8.2405,6.41,167,2026-02-04,fr,"[12, 35, 10751]",False
+1401459,Fjord,Fjord,8.0799,7.2,74,2026-06-13,ro,[18],False
+1620034,"Marty, Life Is Short","Marty, Life Is Short",8.0358,8.0,33,2026-05-11,en,[99],False
+1405769,I Can Only Imagine 2,I Can Only Imagine 2,7.974,8.327,49,2026-02-19,en,"[10402, 18]",False
+1315657,Yellow Letters,Gelbe Briefe,7.9375,7.211,45,2026-03-05,de,[18],False
+1596335,The AI Doc: Or How I Became an Apocaloptimist,The AI Doc: Or How I Became an Apocaloptimist,7.8972,7.3,29,2026-03-27,en,[99],False
+1560681,Colors of Evil: Black,Kolory zła: Czerń,7.8949,6.748,163,2026-06-10,pl,"[53, 9648, 80]",False
+1367220,Karuppu,கருப்பு,7.8753,6.8,30,2026-05-14,ta,"[28, 14]",False
+1610413,One Last Adventure: The Making of Stranger Things 5,One Last Adventure: The Making of Stranger Things 5,7.8385,7.2,95,2026-01-11,en,[99],False
+1307373,Wasteman,Wasteman,7.7823,7.319,91,2026-02-20,en,"[80, 18, 53]",False
+1739206,Untold Mr. T: I Pity the Fool,Untold Mr. T: I Pity the Fool,7.764,7.739,23,2026-09-08,en,[99],False
+1217584,Torrente for President,Torrente presidente,7.7519,6.148,152,2026-03-13,es,[35],False
+1633263,Wonderful Nightmare,Wonderful Nightmare,7.7474,8.136,33,2026-04-04,tl,"[35, 10749, 18]",False
+1688652,Gary,Gary,7.6849,6.6,67,2026-05-05,en,"[18, 35]",False
+1447971,Scare Out,惊蛰无声,7.6324,6.25,22,2026-02-17,zh,"[80, 53, 28]",False
+1450527,Forbidden Fruits,Forbidden Fruits,7.6046,5.859,99,2026-03-26,en,"[27, 35]",False
+1620996,The Blue Box,La caja azul,7.5621,7.2,36,2026-04-16,es,"[10749, 53]",False
+1716513,Extreme Makeover: Homer Edition,Extreme Makeover: Homer Edition,7.4536,7.4,73,2026-06-17,en,"[16, 35, 10751]",False
+1515899,Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D),Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D),7.3832,8.3,70,2026-05-06,en,"[10402, 99]",False
+1659389,One Piece Heroines,ONE PIECE HEROINES,7.3485,6.6,25,2026-07-05,ja,"[16, 35, 28]",False
+1628071,Ip Man: Kung Fu Legend,宗师叶问2,7.3217,6.524,21,2026-07-22,zh,[28],False
+1561687,Made in Korea,மேட் இன் கொரியா,7.271,7.25,42,2026-03-12,ta,[18],False
+1723460,A Toxic Love Story,A Toxic Love Story,7.2649,6.407,54,2026-07-22,en,[99],False
+1510745,Bodycam,Bodycam,7.2625,5.964,124,2026-03-12,en,[27],False
+1321179,The King's Warden,왕과 사는 남자,7.2593,7.1,31,2026-02-04,ko,"[36, 18]",False
+1329471,Carolina Caroline,Carolina Caroline,7.2485,6.689,74,2026-06-05,en,"[80, 18, 10749, 53]",False
+1422562,The Moment,The Moment,7.2263,6.367,83,2026-01-30,en,"[10402, 35, 53]",False
+1281195,Truly Naked,Truly Naked,7.1827,6.8,25,2026-04-15,en,"[18, 10749]",False
+1199193,Pose,Pose,7.1818,5.854,41,2026-02-25,en,[53],False
+1227877,I Love Boosters,I Love Boosters,7.1738,6.174,109,2026-05-21,en,"[35, 878, 80]",False
+1242937,The Dreadful,The Dreadful,7.1598,6.0,83,2026-02-20,en,[27],False
+1429605,F Valentine's Day,F Valentine's Day,7.1336,6.0,80,2026-02-12,en,"[10749, 35]",False
+1266791,Alter Ego,Alter ego,7.1029,6.352,105,2026-03-04,fr,[35],False
+1676318,Back to the 90s,Back to the 90s,7.0983,5.82,25,2026-08-18,de,"[10749, 35, 10402]",False
+1428862,Firebreak,Cortafuego,7.0842,6.317,180,2026-02-19,es,"[53, 18]",False
+1699155,Maternal Instinct,Maternal Instinct,7.0362,7.1,128,2026-06-11,en,"[99, 80]",False
+938150,Wardriver,Wardriver,7.0247,7.381,105,2026-03-04,en,"[53, 80]",False
+1400357,The Christophers,The Christophers,6.9826,6.873,79,2026-03-30,en,"[80, 35, 18]",False
+1659087,180,180,6.979,5.888,148,2026-04-16,en,"[53, 80, 18, 10770]",False
+1628123,BTS THE COMEBACK LIVE | ARIRANG,BTS 컴백 라이브: ARIRANG,6.9413,8.698,116,2026-03-21,ko,[10402],False
+1318335,The Rays and Shadows,Les Rayons et les Ombres,6.9051,7.539,114,2026-03-18,fr,"[18, 36]",False
+1154538,Nirvanna the Band the Show the Movie,Nirvanna the Band the Show the Movie,6.8915,7.631,130,2026-02-02,en,"[35, 878, 12]",False
+1451344,Husbands in Action,남편들,6.8545,7.346,130,2026-06-15,ko,"[35, 28, 80]",False
+1020047,In the Hand of Dante,In the Hand of Dante,6.8052,5.373,63,2026-06-12,en,"[18, 80, 53]",False
+1530510,Mexico 86,México 86,6.7689,7.775,118,2026-05-21,es,"[35, 36, 18]",False
+1274706,The Marked Woman,La desconocida,6.7423,5.615,126,2026-06-05,es,"[53, 80]",False
+1261188,The Swedish Connection,Den svenska länken,6.7048,7.4,87,2026-02-13,sv,"[18, 36, 10752]",False
+1616674,Me Before Me,Aku Sebelum Aku,6.7041,6.682,22,2026-07-11,id,[18],False
+1376415,The Money Maker,L'Affaire Bojarski,6.6965,7.1,163,2026-01-12,fr,"[36, 18, 80]",False
+1327690,One Mile: Chapter Two,One Mile: Chapter Two,6.6876,6.682,132,2026-02-27,en,"[28, 80]",False
+880067,Strung,Strung,6.5591,7.62,75,2026-06-18,en,"[9648, 53]",False
+1542352,Youth,யூத்,6.559,6.9,22,2026-03-19,ta,"[35, 10749, 18]",False
+1309396,The Doll,La Poupée,6.5542,6.074,34,2026-04-22,fr,"[35, 10749]",False
+1165369,De Gaulle: Liberté,La Bataille de Gaulle : J’écris ton nom,6.5171,7.8,184,2026-06-26,fr,"[36, 18]",False
+1633056,All Wishes Come True!,八仙！,6.4827,7.963,27,2026-07-10,zh,"[35, 16, 14, 12]",False
+1627824,Rocky's Cat-astrophe,Rocky's Cat-astrophe,6.4807,7.8,24,2026-02-27,en,"[16, 10751]",False
+1317448,No Place to Be Single,Non è un paese per single,6.4715,6.702,114,2026-05-08,it,"[10749, 35]",False
+1244517,Tow,Tow,6.4234,6.7,33,2026-03-20,en,[18],False
+1249508,Grizzly Night,Grizzly Night,6.3622,6.3,68,2026-01-30,en,"[27, 53, 18]",False
+1397201,Golden Kamuy -The Abashiri Prison Raid-,ゴールデンカムイ 網走監獄襲撃編,6.3384,7.357,35,2026-03-13,ja,"[28, 18, 36, 12]",False
+1595481,Kidnapped: Elizabeth Smart,Kidnapped: Elizabeth Smart,6.3076,7.212,113,2026-01-20,en,"[99, 80]",False
+1418582,Here the Whole Time,Quinze Dias,6.2651,7.377,81,2026-06-18,pt,"[35, 10749]",False
+1428990,This Is Not a Test,This Is Not a Test,6.2445,5.617,77,2026-02-20,en,"[53, 27]",False
+1596291,Queen of Chess,Queen of Chess,6.2314,7.526,77,2026-01-27,en,[99],False
+1259983,Guru,Gourou,6.2219,6.016,281,2026-01-28,fr,"[18, 53]",False
+1629382,Street Flow 3,Banlieusards 3,6.1301,6.041,61,2026-03-04,fr,[18],False
+1636891,Mexicali,Mexicali,6.1014,7.872,74,2026-03-13,en,"[28, 18]",False
+1616131,A Child of My Own,Un hijo propio,6.0879,8.578,77,2026-07-30,es,[99],False
+1598785,Milky☆Subway: The Galactic Limited Express - the Movie,銀河特急 ミルキー☆サブウェイ 各駅停車劇場行き,6.0273,8.75,44,2026-02-06,ja,"[16, 28, 12, 35, 878]",False
+1633264,Louis Theroux: Inside the Manosphere,Louis Theroux: Inside the Manosphere,5.9592,6.656,151,2026-03-10,en,[99],False
+1553969,Sheep in the Box,箱の中の羊,5.9538,6.4,25,2026-05-29,ja,"[18, 878]",False
+1630433,The Red Line,เส้นตาย สายลวง,5.9486,6.825,80,2026-03-22,th,"[53, 80, 18]",False
+1588838,To the Max,La fiera,5.8917,6.288,52,2026-02-06,es,"[18, 12]",False
+1715492,Shipwrecked: Nightmare at Sea,Shipwrecked: Nightmare at Sea,5.8132,7.181,80,2026-07-10,en,[99],False
+1239134,Bhooth Bangla,भूत बंगला,5.8109,5.609,64,2026-04-16,hi,"[27, 35]",False
+1631917,18th Rose,18th Rose,5.7801,7.9,31,2026-04-09,tl,"[18, 10749, 35]",False
+1433842,Relationship Goals,Relationship Goals,5.7566,6.411,73,2026-02-04,en,"[10749, 35]",False
+1688804,Freefall: A Reckoning for Boeing,Freefall: A Reckoning for Boeing,5.7407,7.0,38,2026-08-14,en,[99],False
+1213898,Border 2,बॉर्डर २,5.7391,7.583,36,2026-01-23,hi,"[28, 18, 10752]",False
+1323625,Night Patrol,Night Patrol,5.7361,4.9,105,2026-01-16,en,"[27, 9648]",False
+1169516,Welcome To The Jungle,Welcome To The Jungle,5.7292,5.1,39,2026-06-25,hi,"[28, 35, 12]",False
+829487,Je m'appelle Agneta,Je m'appelle Agneta,5.7197,6.718,85,2026-04-28,sv,"[35, 18, 10749]",False
+1157869,Parallel Tales,Histoires parallèles,5.7168,5.7,54,2026-05-14,fr,"[18, 9648, 53]",False
+1125701,Midwinter Break,Midwinter Break,5.6958,7.286,28,2026-02-20,en,[18],False
+1433117,Kara,கர,5.6933,5.922,33,2026-04-30,ta,"[80, 18, 53, 28]",False
+1433117,Kara,கர,5.6933,5.922,33,2026-04-30,ta,"[80, 18, 53, 28]",False
+1623125,A Gorilla Story: Told by David Attenborough,A Gorilla Story: Told by David Attenborough,5.6896,7.898,49,2026-04-16,en,[99],False
+1418657,The Yeti,The Yeti,5.6894,5.889,81,2026-04-04,en,"[27, 53]",False
+1431804,40 Dates and 40 Nights,40 Dates and 40 Nights,5.6439,6.981,26,2026-06-16,en,"[35, 10749]",False
+1243460,Joe's College Road Trip,Joe's College Road Trip,5.6367,6.042,72,2026-02-12,en,[35],False
+1635276,Eat Pray Bark,Eat Pray Bark,5.6036,5.623,118,2026-04-01,de,[35],False
+1620551,Feel My Voice,Non abbiam bisogno di parole,5.6021,6.9,151,2026-04-03,it,"[10402, 18, 35]",False
+1409853,Neglected,Neglected,5.5706,6.268,28,2026-05-08,en,"[28, 53]",False
+1285669,LifeHack,LifeHack,5.548,7.2,23,2026-05-15,en,"[53, 80]",False
+1373198,Twisted,Twisted,5.5411,4.7,53,2026-02-06,en,"[27, 53]",False
+1645368,Forsaken,L'abandon,5.5145,7.592,65,2026-05-13,fr,[18],False
+1268609,Pavane,파반느,5.49,7.3,67,2026-02-19,ko,"[10749, 18]",False
+1461254,Salmokji: Whispering Water,살목지,5.4758,6.1,29,2026-04-08,ko,"[27, 53]",False
+1440304,Tough Luck,Mauvaise Pioche,5.4726,5.951,41,2026-04-01,fr,[35],False
+1705729,Man of War,Man of War,5.469,6.586,35,2026-07-03,en,"[28, 53, 10752]",False
+1449400,Reckless,Reckless,5.4458,6.4,29,2026-02-07,en,"[28, 35, 80, 53]",False
+1658982,The Roast of Kevin Hart,The Roast of Kevin Hart,5.3839,6.141,32,2026-05-10,en,[35],False
+1484913,Ikka,Ikka,5.3823,5.738,21,2026-07-10,hi,"[18, 53]",False
+1364953,Mārama,Mārama,5.3575,6.4,41,2026-04-17,en,"[27, 18, 9648]",False
+1398486,Maigret and the Dead Lover,Maigret et le mort amoureux,5.3466,5.936,39,2026-02-18,fr,"[9648, 18, 80]",False
+1465557,"Our Hero, Balthazar","Our Hero, Balthazar",5.3156,6.6,20,2026-03-27,en,"[18, 35]",False
+1572073,The Deadly Little Mermaid,The Deadly Little Mermaid,4.9303,4.759,27,2026-03-06,en,[27],False
+1366906,The Gates,The Gates,5.2307,7.66,100,2026-03-13,en,[53],False
+1464883,The President's Cake,The President's Cake,5.2259,7.4,113,2026-01-22,en,[18],False
+1432547,ALL YOU NEED IS KILL,ALL YOU NEED IS KILL,5.2086,6.389,36,2026-01-09,ja,"[16, 28, 9648, 878]",False
+1446616,Tu Yaa Main,तू या मैं,5.1817,6.393,61,2026-02-11,hi,"[53, 10749]",False
+1642859,Iron Maiden: Burning Ambition,Iron Maiden: Burning Ambition,5.1609,8.541,73,2026-05-07,en,"[99, 10402]",False
+1462229,Pegasus 3,飞驰人生3,5.1573,7.082,49,2026-02-17,zh,"[18, 35]",False
+1239198,My Dearest Señorita,Mi querida señorita,5.1516,6.558,43,2026-04-17,es,"[18, 10749]",False
+1243741,Ballistic,Ballistic,5.1491,5.771,83,2026-04-17,en,"[53, 18]",False
+1618945,Yoh! Bestie,Yoh! Bestie,5.1193,6.26,48,2026-02-06,en,"[10749, 35]",False
+1290792,One Spoon of Chocolate,One Spoon of Chocolate,5.1173,5.708,24,2026-05-01,en,"[28, 18, 53]",False
+1601797,¿Quieres ser mi novia?,¿Quieres ser mi novia?,5.1142,8.629,202,2026-02-12,es,"[35, 10749]",False
+1725116,Simpsley,Simpsley,5.0936,8.082,79,2026-07-03,en,"[16, 35, 80]",False
+1128377,In Cold Light,In Cold Light,5.0775,5.853,58,2026-01-23,en,"[53, 80]",False
+1146344,Misdirection,Misdirection,5.0568,6.232,99,2026-02-10,en,"[28, 80, 53]",False
+1297446,Slanted,Slanted,5.026,5.8,60,2026-03-13,en,"[27, 35, 878]",False
+1684240,Jamie Vardy,Jamie Vardy,4.9904,7.5,37,2026-05-12,en,[99],False
+1628116,BTS: THE RETURN,BTS: 더 리턴,4.9685,8.577,52,2026-03-27,ko,"[99, 10402]",False
+1339210,Affection,Affection,4.9668,5.744,45,2026-05-08,en,"[27, 878]",False
+1339210,Affection,Affection,4.9668,5.744,45,2026-05-08,en,"[27, 878]",False
+1641961,Untold: The Death & Life of Lamar Odom,Untold: The Death & Life of Lamar Odom,4.961,6.729,24,2026-03-31,en,[99],False
+1320660,Pati Patni Aur Woh Do,पति पत्नी और वो दो,4.9509,6.0,20,2026-05-15,hi,"[35, 18, 10749]",False
+1482168,"The Rise of the Red Hot Chili Peppers: Our Brother, Hillel","The Rise of the Red Hot Chili Peppers: Our Brother, Hillel",4.9341,7.25,44,2026-03-13,en,"[99, 10402]",False
+1476614,All of a Sudden,急に具合が悪くなる,4.8999,7.981,52,2026-06-19,ja,[18],False
+1458215,The Gentleman Thief,The Gentleman Thief,4.8813,5.7,22,2026-07-31,en,"[28, 80, 53]",False
+1628367,Kartavya,कर्त्तव्य,4.862,7.0,34,2026-05-15,hi,"[80, 18, 53]",False
+1601082,Cheetahs Up Close with Bertie Gregory,Cheetahs Up Close with Bertie Gregory,4.8083,7.833,27,2026-01-01,en,[99],False
+1217505,You're Dating a Narcissist!,You're Dating a Narcissist!,4.7968,7.0,20,2026-03-27,en,"[35, 10749]",False
+1534530,The Whisper,El susurro,4.7854,7.2,42,2026-01-22,es,[27],False
+1610418,The House on Haunted Grounds,The House on Haunted Grounds,4.7706,6.1,28,2026-01-09,en,[27],False
+1392469,Cocktail 2,कॉकटेल २,4.6979,5.597,36,2026-06-19,hi,"[10749, 35]",False
+1413097,Melania,Melania,4.6711,3.5,184,2026-01-30,en,[99],False
+1376043,Mata,Mata,4.6678,6.2,22,2026-05-27,fr,"[53, 18]",False
+1477170,LOL 2.0: Anne’s Golden Hour,LOL 2.0,4.6385,6.0,63,2026-02-11,fr,[35],False
+1341422,The Eyes of Others,Gli occhi degli altri,4.6314,5.8,29,2026-03-19,it,"[18, 53]",False
+1639398,Mexican Psycho,Psicópata: El Asesino del Conejo Blanco,4.6225,7.162,105,2026-03-19,es,"[53, 27]",False
+1684226,Bride of the Year,Bruid van die Jaar,4.6043,6.958,36,2026-05-15,af,"[35, 10749, 10751]",False
+1684246,Untold UK: Vinnie Jones,Untold UK: Vinnie Jones,4.5969,6.466,29,2026-05-26,en,"[36, 99]",False
+1599090,Skyscraper Live,Skyscraper Live,4.5929,7.443,44,2026-01-23,en,"[12, 99]",False
+1501018,A Family of Bastards,Une Famille De Bâtards,4.5153,5.601,74,2026-06-12,fr,"[35, 80]",False
+1389149,Accused,अक्यूज़्ड,4.5006,5.688,77,2026-02-27,hi,"[53, 9648, 18]",False
+1308553,Hai Jawani Toh Ishq Hona Hai,है जवानी तो इश्क होना है,4.4931,5.3,30,2026-06-04,hi,"[10749, 35]",False
+1450257,Clika,Clika,4.4827,8.244,45,2026-01-22,en,"[10402, 18]",False
+1431068,Main Vaapas Aaunga,मैं वापस आऊंगा,4.4757,7.16,25,2026-06-11,hi,"[10749, 18, 9648]",False
+1177767,Mile End Kicks,Mile End Kicks,4.4515,5.684,38,2026-04-17,en,"[35, 10749, 18]",False
+1401542,Project Y,프로젝트 Y,4.4385,6.0,20,2026-01-21,ko,"[80, 18]",False
+1645164,Serpenti,Serpenti,4.4123,6.413,23,2026-09-10,it,"[18, 35]",False
+1616400,#SKYKING,#SKYKING,4.3809,7.3,25,2026-03-12,en,[99],False
+1602727,Night King,夜王,4.3419,6.926,27,2026-02-14,cn,"[35, 18]",False
+1404684,Just an Illusion,Juste une illusion,4.32,7.325,209,2026-04-15,fr,"[35, 18]",False
+1184941,Blue Heron,Blue Heron,4.2896,6.6,45,2026-03-21,en,[18],False
+1260643,Man on the Run,Man on the Run,4.2395,7.472,36,2026-02-19,en,"[99, 10402]",False
+1631485,Strangers in the Park,Parque Lezama,4.2145,6.514,36,2026-02-19,es,"[35, 18]",False
+1632812,Nothing Between Us,Nada entre los dos,4.2071,5.692,26,2026-05-21,es,"[10749, 35]",False
+1602705,A Letter to My Youth,Surat untuk Masa Mudaku,4.2049,7.9,27,2026-01-29,id,[18],False
+1305715,Unexpected Family,过家家,4.2039,7.944,45,2026-01-01,zh,"[35, 18]",False
+1487320,The Giant Falls,El último gigante,4.1813,7.379,29,2026-04-01,es,[18],False
+1391074,Busboys,Busboys,4.1749,4.563,24,2026-04-17,en,[35],False
+1499071,Cold War 1994,寒戰1994,4.1546,6.5,22,2026-05-01,cn,"[28, 18, 80]",False
+1258181,A Woman's Life,La vie d'une femme,4.1462,6.55,30,2026-09-09,fr,"[18, 35]",False
+1591834,Familia a la deriva,Familia a la deriva,4.0601,8.328,116,2026-01-22,es,"[10751, 35]",False
+1629369,The Truth and Tragedy of Moriah Wilson,The Truth and Tragedy of Moriah Wilson,4.0468,7.444,54,2026-03-19,en,"[99, 80]",False
+1613335,Miracle: The Boys of '80,Miracle: The Boys of '80,4.032,7.295,22,2026-01-30,en,"[99, 36]",False
+1439660,Fukushima: A Nuclear Nightmare,Fukushima: A Nuclear Nightmare,4.0185,7.0,32,2026-02-20,en,"[99, 18, 36]",False
+1180417,The Dutchman,The Dutchman,4.0099,5.229,59,2026-01-02,pt,"[18, 53]",False
+1433929,N121 Bus de nuit,N121 Bus de nuit,4.005,6.104,24,2026-02-04,fr,[53],False
+1710008,Nothing to Lose,Jusqu'au bout,3.9832,7.178,76,2026-07-08,fr,"[28, 18]",False
+1362786,Old Bandits,Velhos Bandidos,3.9748,6.984,31,2026-03-26,pt,"[35, 28, 80]",False
+1022453,The Rajasaab,ది రాజాసాబ్,3.9744,5.0,34,2026-01-08,te,"[35, 27, 14, 28]",False
+1668499,Vertiginous,Le Vertige,3.9575,6.0,47,2026-06-10,fr,"[16, 35, 878]",False
+1641962,Untold: Chess Mates,Untold: Chess Mates,3.9336,6.886,35,2026-04-07,en,[99],False
+1365378,The American Dream,Le rêve américain,3.9152,7.372,145,2026-02-18,fr,[35],False
+1477836,Bone Keeper,Bone Keeper,3.8933,5.1,24,2026-04-02,en,"[27, 12, 878]",False
+1418709,Bagarre,Bagarre,3.8576,5.173,26,2026-04-15,fr,[35],False
+1359005,Per Aspera Ad Astra,星河入梦,3.8539,7.984,63,2026-02-17,zh,"[878, 18, 12]",False
+1618784,Fight Against Evil 3,东北警察故事3,3.8495,6.6,21,2026-01-30,zh,"[28, 80, 35, 18]",False
+1564831,Tombé du ciel,Tombé du ciel,3.8407,6.3,29,2026-08-12,fr,"[35, 10751]",False
+1496491,Comédie-Française,De la Comédie-Française,3.8183,6.941,102,2026-07-22,fr,[35],False
+1620991,The Investigation of Lucy Letby,The Investigation of Lucy Letby,3.7977,6.307,75,2026-02-04,en,"[99, 80]",False
+1620682,Love in Slow Motion,أحبك من زمان,3.7973,6.4,28,2026-07-23,ar,"[10749, 35]",False
+1473878,Speed Demon,Speed Demon,3.7539,4.833,24,2026-05-20,en,[27],False
+1437939,Cocorico 2,Cocorico 2,3.7342,5.265,51,2026-04-08,fr,[35],False
+1404604,Compostelle,Compostelle,3.6983,6.9,44,2026-04-01,fr,"[18, 35]",False
+1370123,"Aida, the Movie",Aída y vuelta,3.6744,6.841,82,2026-01-30,es,[35],False
+1399525,Rose of Nevada,Rose of Nevada,3.6533,6.4,32,2026-04-24,en,"[9648, 18]",False
+1295722,Les K d'Or,Les K d'Or,3.6506,4.225,71,2026-03-11,fr,[35],False
+1454680,Hugo,Victor comme tout le monde,3.6267,6.5,24,2026-03-11,fr,"[18, 35]",False
+1558796,Never Change!,Never Change!,3.5909,5.8,20,2026-06-09,en,[35],False
+1357449,Idols,Ídolos,3.563,6.8,60,2026-01-23,es,"[18, 10749]",False
+1336770,Vaazha II,വാഴ II,3.5602,7.591,22,2026-04-02,ml,"[35, 18]",False
+1416391,Toaster,टोस्टर,3.5107,5.986,37,2026-04-15,hi,"[35, 80, 28]",False
+1570282,This Is I,This is I,3.4888,7.1,23,2026-02-09,ja,"[18, 10402]",False
+1628448,Maa Behen,माँ बहन,3.4884,6.8,23,2026-06-04,hi,"[35, 53, 18]",False
+1536559,Double Happiness,雙囍,3.4595,6.4,20,2026-02-17,zh,[18],False
+1396749,Wild Sing,와일드 씽,3.4433,6.3,24,2026-06-03,ko,"[35, 10402]",False
+1617908,Taylor Tomlinson: Prodigal Daughter,Taylor Tomlinson: Prodigal Daughter,3.4178,7.091,33,2026-02-24,en,[35],False
+1442908,The Singers,The Singers,3.4096,6.8,82,2026-02-17,en,"[10402, 18, 35]",False
+1473635,Things We Don't Say,Le cose non dette,3.3712,6.9,157,2026-01-29,it,[18],False
+1430820,At Work,À pied d’œuvre,3.2647,6.578,77,2026-02-04,fr,[18],False
+1430820,At Work,À pied d’œuvre,3.2647,6.578,77,2026-02-04,fr,[18],False
+677561,The Legendaries,Les Légendaires,3.231,5.964,28,2026-01-28,fr,"[16, 28, 12, 35, 10751, 14]",False
+1395353,Gioia,La gioia,3.2193,6.7,36,2026-02-12,it,[18],False
+1395661,Feels Like Home,Itt érzem magam otthon,3.2004,7.196,23,2026-02-05,hu,"[18, 53]",False
+1218412,Promised Sky,Promis le ciel,3.1878,6.0,21,2026-01-28,fr,[18],False
+1427838,The Holy Grill,Extrawurst,3.1601,6.592,50,2026-01-15,de,"[35, 18]",False
+1196946,Ikkis,इक्कीस,3.1398,6.521,24,2026-01-01,hi,"[36, 10752, 18]",False
+1337592,Erupcja,Erupcja,3.1317,6.05,20,2026-04-17,en,"[18, 35]",False
+1442922,A Year of School,Un anno di scuola,3.1274,6.953,32,2026-04-09,it,[18],False
+1538718,Disneyland Handcrafted,Disneyland Handcrafted,3.1272,7.2,30,2026-01-22,en,[99],False
+1684244,Untold UK: Liverpool's Miracle of Istanbul,Untold UK: Liverpool's Miracle of Istanbul,3.0981,7.0,21,2026-05-19,en,"[99, 36]",False
+1449709,Agata Christian: Murder on the Snow,Agata Christian - Delitto sulle nevi,3.0727,5.216,111,2026-02-05,it,"[35, 9648]",False
+1498047,My Amazing Grandma,Abuela tremenda,3.0601,7.015,33,2026-01-01,es,"[35, 10751]",False
+1397373,Cena di classe,Cena di classe,3.0467,6.005,101,2026-03-26,it,"[35, 18]",False
+1155818,Satluj,ਸਤਲੁਜ,3.039,7.9,21,2026-07-03,hi,"[80, 18, 36]",False
+1641966,Untold: The Shooting at Hawthorne Hill,Untold: The Shooting at Hawthorne Hill,3.0367,6.175,20,2026-04-21,en,[99],False
+1235303,Baise-en-ville,Baise-en-ville,3.0354,6.484,31,2026-01-28,fr,[35],False
+1511549,Still Sexy,Ancora più sexy,3.0165,5.257,35,2026-06-12,it,"[35, 10749]",False
+1436061,Fabian and the Deadly Wedding,Fabian und die mörderische Hochzeit,3.0077,6.359,46,2026-02-06,de,"[35, 80, 9648]",False
+1248723,The Golden Key: A New Pinocchio Story,Буратино,3.0002,6.9,69,2026-01-01,ru,"[10751, 18, 12, 14]",False
+1454741,The Confession,The Confession,2.9778,5.727,33,2026-01-08,en,[27],False
+847742,Drishyam 3,ദൃശ്യം 3,2.9566,6.643,21,2026-05-21,ml,"[80, 18, 53]",False
+1678844,The Bus: A French Football Mutiny,Le Bus : Les Bleus en grève,2.9468,6.862,58,2026-05-13,fr,[99],False
+1680516,WHO,WHO,2.9437,4.804,23,2026-05-28,fr,[53],False
+1356484,"Ach, diese Lücke, diese entsetzliche Lücke","Ach, diese Lücke, diese entsetzliche Lücke",2.9297,7.697,38,2026-01-29,de,"[35, 18]",False
+1693346,Apple Music Live: Lady Gaga MAYHEM Requiem,Apple Music Live: Lady Gaga MAYHEM Requiem,2.9249,8.3,37,2026-05-14,en,[10402],False
+1608982,From the Ashes: The Pit,جرس إنذار: الحفرة,2.9241,4.22,25,2026-01-21,ar,"[53, 18]",False
+1577457,Franco Battiato: The Long Journey,Franco Battiato: Il lungo viaggio,2.9168,7.102,49,2026-02-02,it,"[18, 10770]",False
+1611398,Un hombre por semana,Un hombre por semana,2.8964,7.522,67,2026-01-08,es,"[35, 10749, 18]",False
+1641965,Untold: Jail Blazers,Untold: Jail Blazers,2.8961,6.841,22,2026-04-14,en,[99],False
+1309400,The Children of the Resistance,Les Enfants de la Résistance,2.8941,6.538,66,2026-02-11,fr,"[12, 18, 36, 10751]",False
+1462146,S4: The Bob Lazar Story,S4: The Bob Lazar Story,2.882,8.298,46,2026-04-03,en,[99],False
+1376412,The Price to Pay,La Guerre des prix,2.8558,6.52,25,2026-03-18,fr,"[53, 18]",False
+1315843,Daddy's in Trouble,Um Pai em Apuros,2.8471,7.292,24,2026-04-23,pt,[35],False
+1288246,The Huntsman,The Huntsman,2.8212,6.2,31,2026-02-06,en,"[53, 9648]",False
+1369286,What is Love?,C’est quoi l’amour ?,2.7945,6.063,48,2026-05-06,fr,"[35, 18]",False
+1318417,A Place for Her,La Maison des Femmes,2.7905,8.278,45,2026-03-01,fr,[18],False
+1600421,Stray Kids: The dominATE Experience,스트레이 키즈: 더 도미네이트 익스피리언스,2.7699,9.102,64,2026-02-04,ko,"[10402, 99]",False
+972232,K-Pops!,K-Pops!,2.7691,6.5,21,2026-02-27,en,"[35, 18, 10402]",False
+1130875,Operation Taco Gary's,Operation Taco Gary's,2.748,6.375,20,2026-02-27,en,"[35, 878, 28]",False
+1130875,Operation Taco Gary's,Operation Taco Gary's,2.748,6.375,20,2026-02-27,en,"[35, 878, 28]",False
+1397055,Love In Separate Beds,2 cuori e 2 capanne,2.7401,5.951,61,2026-01-22,it,[35],False
+1339173,Honey Bunch,Honey Bunch,2.7354,5.789,45,2026-01-23,en,"[14, 27, 878, 53]",False
+1420742,L'Infiltrée,L'Infiltrée,2.6984,5.305,41,2026-02-11,fr,[35],False
+1693002,The Murder of Rachel Nickell,The Murder of Rachel Nickell,2.6683,6.2,36,2026-06-04,en,"[99, 80]",False
+1426451,Risa and the Wind Phone,Risa y la cabina del viento,2.6581,8.343,51,2026-04-16,es,"[18, 14]",False
+1472636,A Beautiful Day,Un bel giorno,2.6335,5.847,108,2026-03-05,it,[35],False
+1314829,Monkey’s Magic Merry Go Round,Monkey’s Magic Merry Go Round,2.6177,7.939,41,2026-05-14,en,[27],False
+1002109,Flashback to the 80s,Police Flash 80,2.6043,6.045,66,2026-03-18,fr,"[35, 80]",False
+1578018,Blessed Heart,Bendito corazón,2.5625,7.819,36,2026-01-22,es,[18],False
+1368830,Chers parents,Chers parents,2.5156,6.2,54,2026-02-25,fr,[35],False
+1666433,Trevor Noah: Joy in the Trenches,Trevor Noah: Joy in the Trenches,2.509,6.848,23,2026-04-13,en,[35],False
+1566481,Marave,Marave,2.4897,4.75,20,2026-07-07,fr,"[35, 28]",False
+1290436,Summer Beats,Ma frère,2.4858,7.1,58,2026-01-07,fr,[35],False
+1474294,The God of Love,Il Dio dell'Amore,2.4817,5.813,24,2026-03-26,it,"[35, 878, 18, 10749]",False
+1599078,Marcello Hernández: American Boy,Marcello Hernández: American Boy,2.441,7.152,23,2026-01-07,en,[35],False
+1549128,Twin Stars,Stella gemella,2.3849,5.66,25,2026-05-14,it,[35],False
+1508564,With Love,வித் லவ்,2.3406,6.78,25,2026-02-06,ta,"[10749, 35]",False
+1662958,Louis C.K.: Ridiculous,Louis C.K.: Ridiculous,2.2268,6.013,38,2026-06-30,en,[35],False
+1493021,Lavoreremo da grandi,Lavoreremo da grandi,2.2193,5.39,68,2026-02-05,it,[35],False
+947502,In Waves,In Waves,2.1722,7.1,31,2026-07-01,fr,"[16, 10749, 18]",False
+1483319,Shana,Shana,2.1524,5.8,20,2026-06-17,fr,"[18, 35]",False
+862739,The Virgin of the Quarry Lake,La virgen de la tosquera,2.1218,5.81,42,2026-01-15,es,"[27, 53]",False
+1550740,Classmates,Domani interrogo,2.0512,6.5,21,2026-02-19,it,[18],False
+1554631,A Neighborhood Family,La Familia Del Barrio: La Maldición del Quinto Partido,2.0166,9.16,50,2026-04-23,es,"[35, 16]",False
+1421963,Whatever It Takes,Ceux qui comptent,1.9821,6.268,41,2026-03-25,fr,"[35, 18]",False
+1669929,The Gold Trail,La huella del oro,1.9812,7.0,24,2026-04-13,es,"[16, 28, 18]",False
+1493024,The Greater Good,Il Bene Comune,1.9472,6.163,49,2026-03-12,it,"[35, 18]",False
+1380279,The Plastic Men,The Plastic Men,1.9338,6.694,36,2026-05-07,en,"[10752, 18, 27]",False
+1492288,La chaleur,La chaleur,1.9206,6.25,20,2026-07-08,fr,"[18, 53]",False
+1466123,Crescendo,L'Objet du délit,1.8112,6.7,32,2026-05-27,fr,"[35, 18, 10402]",False
+1601083,I Call Him Dog,Hond & ik,1.7722,8.024,21,2026-01-15,nl,"[18, 35]",False
+772506,Love is Love,Amor es amor,1.7637,7.333,21,2026-08-07,es,"[35, 10749]",False
+1508701,God Forgives Everyone,...che Dio perdona a tutti,1.6432,6.4,33,2026-04-02,it,"[35, 18]",False
+1663996,L'amore sta bene su tutto,L'amore sta bene su tutto,1.6026,5.5,29,2026-05-06,it,[35],False
+1439713,Mana ShankaraVaraPrasad Garu,మన శంకర వరప్రసాద్ గారు,1.5068,6.2,22,2026-01-11,te,"[28, 35, 9648]",False
+1219542,The Three Investigators: Isle of Death,Die drei ??? – Toteninsel,1.4235,6.63,23,2026-01-22,de,"[12, 10751, 80]",False
+1457938,The Lesson,La lezione,1.3037,5.233,45,2026-03-05,it,[18],False
+1638740,WWE Clash in Italy Preshow,WWE Clash in Italy Preshow,1.243,6.545,22,2026-05-31,en,"[28, 18, 35]",False
+1000879,The Site,Grand Ciel,1.1646,5.625,20,2026-01-21,fr,"[53, 14]",False
+1466662,Madame,Le Triangle d'or,1.151,6.7,23,2026-07-29,fr,[18],False
+1523070,Prendiamoci una pausa,Prendiamoci una pausa,1.0354,5.535,44,2026-01-15,it,[35],False

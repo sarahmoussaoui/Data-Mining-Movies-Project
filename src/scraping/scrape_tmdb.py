@@ -8,20 +8,14 @@ load_dotenv()
 API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
 
-# minimum de votes pour qu'un film soit considere comme ayant une existence reelle
-# (evite de recuperer des milliers de films inconnus jamais suivis par le public)
-MIN_VOTE_COUNT = 20
 
-
-def get_movies_page(year, page, min_vote_count=MIN_VOTE_COUNT):
-    """Recupere une page de resultats pour les films sortis une annee donnee,
-    en ne gardant que ceux ayant un minimum de votes (filtre de pertinence)."""
+def get_movies_page(year, page):
+    """Recupere une page de resultats pour les films sortis une annee donnee (sans filtre)."""
     url = f"{BASE_URL}/discover/movie"
     params = {
         "api_key": API_KEY,
         "primary_release_year": year,
         "sort_by": "popularity.desc",
-        "vote_count.gte": min_vote_count,
         "page": page,
     }
     response = requests.get(url, params=params)
@@ -30,13 +24,13 @@ def get_movies_page(year, page, min_vote_count=MIN_VOTE_COUNT):
 
 
 def build_tmdb_dataset(year=2026, max_pages=None):
-    """Recupere tous les films d'une annee donnee ayant au moins MIN_VOTE_COUNT votes."""
+    """Recupere tous les films d'une annee donnee, sans filtre de pertinence."""
     first_page = get_movies_page(year, 1)
     total_pages = min(first_page["total_pages"], 500)  # limite dure de l'API TMDB
     if max_pages:
         total_pages = min(total_pages, max_pages)
 
-    print(f"Total apres filtre (vote_count >= {MIN_VOTE_COUNT}) : {first_page['total_results']} films sur {total_pages} pages")
+    print(f"Total trouve : {first_page['total_results']} films sur {total_pages} pages a recuperer")
 
     rows = []
     for page in range(1, total_pages + 1):

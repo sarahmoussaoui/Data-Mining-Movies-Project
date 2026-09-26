@@ -33,7 +33,7 @@ def get_text(soup, tag, attrs):
 films = []
 tmdb_films =  pd.read_csv("data/processed/tmdb_clean.csv")
 c=1
-for film in tmdb_films["title"]:
+for film in tmdb_films["title"][30076:]:
     href = normalize_string(film)
     print("href",href)
     
@@ -110,8 +110,8 @@ for film in tmdb_films["title"]:
 
 
 
-os.makedirs("data/raw/rotten_tomatoes", exist_ok=True)
+#os.makedirs("data/raw/rotten_tomatoes", exist_ok=True)
 # Saving to csv file
 # utf-8-sig is used because there's foreign movie titles
-df.to_csv("data/raw/rotten_tomatoes/rotten_tomatoes_raw.csv", index=False, encoding="utf-8-sig")
+#df.to_csv("data/raw/rotten_tomatoes/rotten_tomatoes_raw.csv", index=False, encoding="utf-8-sig")
 print("Saved to data/raw/numbers/rotten_tomatoes_raw.csv")

@@ -23,14 +23,12 @@ def get_movies_page(year, page):
     return response.json()
 
 
-def build_tmdb_dataset(year=2026, max_pages=None):
-    """Recupere tous les films d'une annee donnee, sans filtre de pertinence."""
+def scrape_year(year):
+    """Recupere tous les films d'une annee donnee (jusqu'a 500 pages / 10000 films max)."""
     first_page = get_movies_page(year, 1)
-    total_pages = min(first_page["total_pages"], 500)  # limite dure de l'API TMDB
-    if max_pages:
-        total_pages = min(total_pages, max_pages)
+    total_pages = min(first_page["total_pages"], 500)
 
-    print(f"Total trouve : {first_page['total_results']} films sur {total_pages} pages a recuperer")
+    print(f"\n=== Annee {year} : {first_page['total_results']} films trouves, {total_pages} pages a recuperer ===")
 
     rows = []
     for page in range(1, total_pages + 1):
@@ -49,17 +47,38 @@ def build_tmdb_dataset(year=2026, max_pages=None):
                 "adult": movie.get("adult"),
             })
 
-        if page % 20 == 0:
-            print(f"Page {page}/{total_pages} traitee...")
+        if page % 50 == 0:
+            print(f"  Page {page}/{total_pages} traitee...")
         time.sleep(0.05)
 
     return pd.DataFrame(rows)
 
 
 if __name__ == "__main__":
-    df_tmdb = build_tmdb_dataset(year=2026)
-
     os.makedirs("data/raw/tmdb", exist_ok=True)
-    df_tmdb.to_csv("data/raw/tmdb/tmdb_raw.csv", index=False)
+    output_path = "data/raw/tmdb/tmdb_raw_2019_2026.csv"
 
-    print(f"{len(df_tmdb)} films sauvegardes dans data/raw/tmdb/tmdb_raw.csv")
+    # reprise : on charge ce qui existe deja, et on identifie les annees deja faites
+    if os.path.exists(output_path):
+        df_existing = pd.read_csv(output_path)
+        annees_deja_faites = set(pd.to_datetime(df_existing["release_date"], errors="coerce").dt.year.dropna().astype(int))
+        print(f"Reprise : annees deja scrapees = {sorted(annees_deja_faites)}")
+    else:
+        df_existing = pd.DataFrame()
+        annees_deja_faites = set()
+
+    all_years_df = [df_existing] if not df_existing.empty else []
+
+    for year in range(2019, 2027):
+        if year in annees_deja_faites:
+            print(f"\n=== Annee {year} deja scrapee, on saute ===")
+            continue
+
+        df_year = scrape_year(year)
+        all_years_df.append(df_year)
+
+        df_so_far = pd.concat(all_years_df, ignore_index=True)
+        df_so_far.to_csv(output_path, index=False)
+        print(f"  -> Sauvegarde intermediaire : {len(df_so_far)} films au total jusqu'ici")
+
+    print(f"\nTERMINE : {len(df_so_far)} films sauvegardes dans {output_path}")

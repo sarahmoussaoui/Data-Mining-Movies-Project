@@ -24,7 +24,7 @@ def get_text(soup, tag, attrs):
     return element.get_text(strip=True)
 
 films = []
-
+c=0
 for film in list(list_of_films_hrefs):
     href = film["href"]
     
@@ -88,10 +88,14 @@ for film in list(list_of_films_hrefs):
         details[title] = value
 
     
-    films.append(details)
+    #films.append(details)
+    df = pd.concat([df, pd.DataFrame([details])],ignore_index=True)   
+    df.to_csv("data/raw/rotten_tomatoes/rotten_tomatoes_raw.csv", index=False, encoding="utf-8-sig")
+
+   
     
         
-df = pd.DataFrame(films)
+
 
 
 

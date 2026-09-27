@@ -33,7 +33,7 @@ def get_text(soup, tag, attrs):
 films = []
 tmdb_films =  pd.read_csv("data/processed/tmdb_clean.csv")
 c=1
-for film in tmdb_films["title"][30076:]:
+for film in tmdb_films["title"][67037:]:
     href = normalize_string(film)
     print("href",href)
     

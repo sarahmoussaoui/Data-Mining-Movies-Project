@@ -21,7 +21,9 @@ numbers_df = pd.read_csv(
 )
 
 rotten_df = pd.read_csv(
-    "data/processed/rotten_tomatoes_cleaned.csv"
+    "data/processed/rotten_tomatoes_cleaned.csv",
+    dtype={"aspect_ratio": "string"},
+    low_memory=False
 )
 
 
@@ -72,8 +74,9 @@ tmdb_df = tmdb_df.rename(
 )
 
 rotten_df = rotten_df.rename(
-    columns={'release_date_streaming_year': 'year'}
+    columns={'release_date_theaters_year': 'year'}
 )
+
 
 
 # ============================================================
@@ -581,7 +584,136 @@ print(
     all_three_100_merged.shape
 )
 
+# ============================================================
+# CLEAN MERGED DATASETS BEFORE SAVING
+# ============================================================
 
+columns_to_drop_all_three = [
+    "tmdb_index",
+    "numbers_index",
+    "rotten_index",
+    "tmdb_title",
+    "numbers_title",
+    "title_numbers",
+    "title_rotten",
+    "tmdb_year",
+    "year_numbers",
+    "year_rotten",
+    "similarity_tmdb_numbers",
+    "similarity_tmdb_rotten",
+    "similarity_numbers_rotten",
+    "title_normalized",
+    "title_normalized_numbers",
+    "title_normalized_rotten",
+    "tmdb_normalized",
+    "numbers_normalized",
+    "rotten_normalized",
+    "url",
+    "genre_ids",
+    "original_language",
+    "box office (gross usa)",
+    # rotten either repetitive or empty
+    "release_date_streaming",
+    "rerelease date (theaters)",
+    "release date (streaming)",
+    "box office (gross usa)",
+    "release date (tv)",
+    "release date (dvd)",
+    "release_date_theaters_year",
+    "release_date_theaters_month",
+    "release_date_theaters_day"
+]
+
+columns_to_drop_numbers_rotten = [
+    "numbers_index",
+    "rotten_index",
+    "numbers_title",
+    "rotten_title",
+    "numbers_normalized",
+    "rotten_normalized",
+    "numbers_year",
+    "rotten_year",
+    "similarity",
+    "title_normalized",
+    "title_normalized_rotten",
+    "url",
+    "box office (gross usa)",
+    # rotten either repetitive or empty
+    "release_date_streaming",
+    "rerelease date (theaters)",
+    "release date (streaming)",
+    "box office (gross usa)",
+    "release date (tv)",
+    "release date (dvd)",
+    "release_date_theaters_year",
+    "release_date_theaters_month",
+    "release_date_theaters_day"    
+]
+
+columns_to_drop_tmdb_rotten = [
+    "tmdb_index",
+    "rotten_index",
+    "tmdb_title",
+    "rotten_title",
+    "tmdb_normalized",
+    "rotten_normalized",
+    "tmdb_year",
+    "rotten_year",
+    "similarity",
+    "title_normalized",
+    "title_normalized_rotten",
+    "genre_ids",
+    "original_language",
+    "box office (gross usa)",
+# rotten either repetitive or empty
+    "release_date_streaming",
+    "rerelease date (theaters)",
+    "release date (streaming)",
+    "box office (gross usa)",
+    "release date (tv)",
+    "release date (dvd)",
+    "release_date_theaters_year",
+    "release_date_theaters_month",
+    "release_date_theaters_day"
+]
+
+columns_to_drop_tmdb_numbers = [
+    "tmdb_index",
+    "numbers_index",
+    "tmdb_title",
+    "tmdb_normalized",
+    "tmdb_year",
+    "numbers_title",
+    "numbers_normalized",
+    "numbers_year",
+    "similarity",
+    "title_normalized",
+    "title_numbers",
+    "year_numbers",
+    "url",
+    "genre_ids",
+    "original_language"
+]
+
+tmdb_numbers_100_merged = tmdb_numbers_100_merged.drop(
+    columns=columns_to_drop_tmdb_numbers,
+    errors="ignore"
+)
+
+numbers_rotten_100_merged = numbers_rotten_100_merged.drop(
+    columns=columns_to_drop_numbers_rotten,
+    errors="ignore"
+)
+
+tmdb_rotten_100_merged = tmdb_rotten_100_merged.drop(
+    columns=columns_to_drop_tmdb_rotten,
+    errors="ignore"
+)
+
+all_three_100_merged = all_three_100_merged.drop(
+    columns=columns_to_drop_all_three,
+    errors="ignore"
+)
 # ============================================================
 # 16. Save 100% MERGED datasets
 # ============================================================

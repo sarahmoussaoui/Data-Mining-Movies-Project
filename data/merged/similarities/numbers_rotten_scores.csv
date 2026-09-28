@@ -1,701 +1,801 @@
 numbers_index,rotten_index,numbers_title,numbers_normalized,numbers_year,rotten_title,rotten_normalized,rotten_year,similarity
-0,57,Avengers: Endgame,avengers endgame,2019,Avengers: Endgame,avengers endgame,2019,100.0
-679,58,Hokum,hokum,2026,Hokum,hokum,2026,100.0
-656,32,The Invite,the invite,2026,The Invite,the invite,2026,100.0
-689,125,undertone,undertone,2026,undertone,undertone,2026,100.0
-681,48,Pressure,pressure,2026,Pressure,pressure,2026,100.0
-678,67,One Night Only,one night only,2026,One Night Only,one night only,2026,100.0
-693,121,The Breadwinner,the breadwinner,2026,The Breadwinner,the breadwinner,2026,100.0
-696,35,Tony,tony,2026,Tony,tony,2026,100.0
-670,83,Passenger,passenger,2026,Passenger,passenger,2026,100.0
-672,73,Mutiny,mutiny,2026,Mutiny,mutiny,2026,100.0
-648,124,28 Years Later: The Bone Temple,years later the bone temple,2026,28 Years Later: The Bone Temple,years later the bone temple,2026,100.0
-657,82,The Furious (火遮眼),the furious,2026,The Furious,the furious,2026,100.0
-646,110,Crime 101,crime,2026,Crime 101,crime,2026,100.0
-647,81,Evil Dead Burn,evil dead burn,2026,Evil Dead Burn,evil dead burn,2026,100.0
-666,4,The Magic Faraway Tree,the magic faraway tree,2026,The Magic Faraway Tree,the magic faraway tree,2026,100.0
-602,93,Toy Story 5,toy story,2026,Toy Story 5,toy story,2026,100.0
-573,122,The Long Walk,the long walk,2025,The Long Walk,the long walk,2025,100.0
-610,47,Backrooms,backrooms,2026,Backrooms,backrooms,2026,100.0
-612,74,Star Wars: The Mandalorian and Grogu,star wars the mandalorian and grogu,2026,Star Wars: The Mandalorian and Grogu,star wars the mandalorian and grogu,2026,100.0
-613,95,Moana,moana,2026,Moana,moana,2026,100.0
-605,123,The Devil Wears Prada 2,the devil wears prada,2026,The Devil Wears Prada 2,the devil wears prada,2026,100.0
-603,96,Michael,michael,2026,Michael,michael,2026,100.0
-606,60,Project Hail Mary,project hail mary,2026,Project Hail Mary,project hail mary,2026,100.0
-608,107,Minions & Monsters,minions monsters,2026,Minions & Monsters,minions monsters,2026,100.0
-609,34,Obsession,obsession,2026,Obsession,obsession,2026,100.0
-620,90,Scary Movie,scary movie,2026,Scary Movie,scary movie,2026,100.0
-629,71,The Sheep Detectives,the sheep detectives,2026,The Sheep Detectives,the sheep detectives,2026,100.0
-619,51,Disclosure Day,disclosure day,2026,Disclosure Day,disclosure day,2026,100.0
-639,114,Lee Cronin’s The Mummy,lee cronins the mummy,2026,Lee Cronin's The Mummy,lee cronins the mummy,2026,100.0
-638,78,Send Help,send help,2026,Send Help,send help,2026,100.0
-632,44,Supergirl,supergirl,2026,Supergirl,supergirl,2026,100.0
-634,31,The End of Oak Street,the end of oak street,2026,The End of Oak Street,the end of oak street,2026,100.0
-636,75,The Drama,the drama,2026,The Drama,the drama,2026,100.0
-635,113,Masters of the Universe,masters of the universe,2026,Masters of the Universe,masters of the universe,2026,100.0
-527,127,One Battle After Another,one battle after another,2025,One Battle After Another,one battle after another,2025,100.0
-521,52,Weapons,weapons,2025,Weapons,weapons,2025,100.0
-519,92,Sinners,sinners,2025,Sinners,sinners,2025,100.0
-545,137,Mickey 17,mickey,2025,Mickey 17,mickey,2025,100.0
-276,63,Barbarian,barbarian,2022,Barbarian,barbarian,2022,100.0
-509,103,Superman,superman,2025,Superman,superman,2025,100.0
-682,119,The Bride!,the bride,2026,The Rip,the rip,2026,66.66666666666667
-616,8,Dear You (给阿嬷的情书),dear you,2026,Dead Souls,dead souls,2026,60.0
-658,110,Primate,primate,2026,Crime 101,crime,2026,57.14285714285714
-601,19,The Odyssey,the odyssey,2026,The Deputy,the deputy,2026,54.54545454545454
-624,90,Scare Out (惊蛰无声),scare out,2026,Scary Movie,scary movie,2026,54.54545454545454
-179,91,The Night House,the night house,2020,His House,his house,2020,53.333333333333336
-443,131,The Prosecutor (误判),the prosecutor,2024,The Iron Claw,the iron claw,2024,50.0
-633,22,The King’s Warden (왕과 사는 남자),the kings warden,2026,The Living Tree,the living tree,2026,50.0
-477,131,The First Omen,the first omen,2024,The Iron Claw,the iron claw,2024,50.0
-669,73,Buratino (Буратино),buratino,2026,Mutiny,mutiny,2026,50.0
-649,35,Colony (군체),colony,2026,Tony,tony,2026,50.0
-661,101,The Dog Stars,the dog stars,2026,The Last Sunrise,the last sunrise,2026,50.0
-685,20,A Part of Me (想你了),a part of me,2026,The Taste of Tea,the taste of tea,2026,50.0
-641,60,Practical Magic 2,practical magic,2026,Project Hail Mary,project hail mary,2026,47.05882352941176
-114,80,The Invisible Man,the invisible man,2020,The Gentlemen,the gentlemen,2020,47.05882352941176
-565,122,The King of Kings,the king of kings,2025,The Long Walk,the long walk,2025,47.05882352941176
-568,122,The Running Man,the running man,2025,The Long Walk,the long walk,2025,46.666666666666664
-697,29,Fall 2: Deadpoint,fall deadpoint,2026,Kill. Bury. Print.,kill bury print,2026,46.666666666666664
-516,122,The Housemaid,the housemaid,2025,The Long Walk,the long walk,2025,46.15384615384615
-571,122,The Monkey,the monkey,2025,The Long Walk,the long walk,2025,46.15384615384615
-149,80,The Witches,the witches,2020,The Gentlemen,the gentlemen,2020,46.15384615384615
-197,80,The Hunt,the hunt,2020,The Gentlemen,the gentlemen,2020,46.15384615384615
-144,80,The Father,the father,2020,The Gentlemen,the gentlemen,2020,46.15384615384615
-643,75,Cheburashka 2 (Чебурашка 2),cheburashka,2026,The Drama,the drama,2026,45.45454545454546
-652,83,Shelter,shelter,2026,Passenger,passenger,2026,44.44444444444444
-660,18,Border 2,border,2026,Unabomber,unabomber,2026,44.44444444444444
-262,63,Babylon,babylon,2022,Barbarian,barbarian,2022,44.44444444444444
-578,122,The Dumpling Queen (水饺皇后),the dumpling queen,2025,The Long Walk,the long walk,2025,44.44444444444444
-579,122,She’s Got No Name (酱园弄·悬案),shes got no name,2025,The Long Walk,the long walk,2025,43.75
-622,43,Blades of the Guardians (镖人：风起大漠),blades of the guardians,2026,Best of the Best,best of the best,2026,43.47826086956522
-604,4,The Super Mario Galaxy Movie,the super mario galaxy movie,2026,The Magic Faraway Tree,the magic faraway tree,2026,42.85714285714286
-690,43,Hadestown: The Musical,hadestown the musical,2026,Best of the Best,best of the best,2026,42.85714285714286
-570,122,The Fire Raven (匿杀),the fire raven,2025,The Long Walk,the long walk,2025,42.85714285714286
-773,128,In the Heights,in the heights,2021,Run Hide Fight,run hide fight,2021,42.85714285714286
-655,67,Night King (夜王),night king,2026,One Night Only,one night only,2026,42.85714285714286
-488,131,The Strangers: Chapter 1,the strangers chapter,2024,The Iron Claw,the iron claw,2024,42.85714285714286
-618,32,“Wuthering Heights”,wuthering heights,2026,The Invite,the invite,2026,41.17647058823529
-569,122,The Legend of Hei 2 (罗小黑战记2),the legend of hei,2025,The Long Walk,the long walk,2025,41.17647058823529
-627,124,PAW Patrol: The Dino Movie,paw patrol the dino movie,2026,28 Years Later: The Bone Temple,years later the bone temple,2026,40.74074074074075
-688,37,Salmokji: Whispering Water (살목지),salmokji whispering water,2026,The Whisper Man,the whisper man,2026,40.0
-654,58,Hope (호프),hope,2026,Hokum,hokum,2026,40.0
-674,109,Solo Mio,solo mio,2026,Motor City,motor city,2026,40.0
-563,122,The Lychee Road (长安的荔枝),the lychee road,2025,The Long Walk,the long walk,2025,40.0
-206,63,The Batman,the batman,2022,Barbarian,barbarian,2022,40.0
-407,139,Godzilla x Kong: The New Empire,godzilla x kong the new empire,2024,Godzilla Minus One,godzilla minus one,2024,40.0
-650,109,Mercy,mercy,2026,Motor City,motor city,2026,40.0
-623,95,GOAT,goat,2026,Moana,moana,2026,40.0
-607,8,Pegasus 3 (飞驰人生3),pegasus,2026,Dead Souls,dead souls,2026,40.0
-136,80,The New Mutants,the new mutants,2020,The Gentlemen,the gentlemen,2020,40.0
-645,56,Vanishing Point (消失的人),vanishing point,2026,Finding Emily,finding emily,2026,40.0
-625,43,Insidious: Out of the Further,insidious out of the further,2026,Best of the Best,best of the best,2026,39.28571428571429
-698,90,I Can Only Imagine 2,i can only imagine,2026,Scary Movie,scary movie,2026,38.888888888888886
-169,80,The Turning,the turning,2020,The Gentlemen,the gentlemen,2020,38.46153846153846
-524,122,The Bad Guys 2,the bad guys,2025,The Long Walk,the long walk,2025,38.46153846153846
-631,56,Resident Evil,resident evil,2026,Finding Emily,finding emily,2026,38.46153846153846
-621,1,Scream 7,scream,2026,Ice Cream Man,ice cream man,2026,38.46153846153846
-581,122,The Stage (戏台),the stage,2025,The Long Walk,the long walk,2025,38.46153846153846
-580,122,The Roses,the roses,2025,The Long Walk,the long walk,2025,38.46153846153846
-433,131,The Fall Guy,the fall guy,2024,The Iron Claw,the iron claw,2024,38.46153846153846
-482,131,The Brutalist,the brutalist,2024,The Iron Claw,the iron claw,2024,38.46153846153846
-595,50,The Phoenician Scheme,the phoenician scheme,2025,The Perfect Neighbor,the perfect neighbor,2025,38.095238095238095
-662,111,Han Zhan 1994 (寒戰1994),han zhan,2026,Wasteman,wasteman,2026,37.5
-695,111,Awarapan 2,awarapan,2026,Wasteman,wasteman,2026,37.5
-596,130,Nobody 2,nobody,2025,Good Boy,good boy,2025,37.5
-539,103,Dog Man,dog man,2025,Superman,superman,2025,37.5
-513,122,The Conjuring: Last Rites,the conjuring last rites,2025,The Long Walk,the long walk,2025,37.5
-532,122,The Shadow’s Edge,the shadows edge,2025,The Long Walk,the long walk,2025,37.5
-526,130,Nobody (浪浪山小妖怪),nobody,2025,Good Boy,good boy,2025,37.5
-544,52,Anaconda,anaconda,2025,Weapons,weapons,2025,37.5
-659,48,Crossing (四渡),crossing,2026,Pressure,pressure,2026,37.5
-626,124,Dhurandhar: The Revenge,dhurandhar the revenge,2026,28 Years Later: The Bone Temple,years later the bone temple,2026,37.03703703703704
-663,138,Panda Plan 2: The Magical Tribe (熊猫计划之部落奇遇记),panda plan the magical tribe,2026,Avatar Aang: The Last Airbender,avatar aang the last airbender,2026,36.66666666666667
-781,79,Xiong Shi Shao Nian (雄狮少年),xiong shi shao nian,2021,Those Who Wish Me Dead,those who wish me dead,2021,36.36363636363637
-546,52,Black Phone 2,black phone,2025,Weapons,weapons,2025,36.36363636363637
-719,79,Wo He Wo De Fu Be,wo he wo de fu be,2021,Those Who Wish Me Dead,those who wish me dead,2021,36.36363636363637
-739,79,The King’s Man,the kings man,2021,Those Who Wish Me Dead,those who wish me dead,2021,36.36363636363637
-644,15,Coyote vs. Acme,coyote vs acme,2026,Everyone Calls Me Mike,everyone calls me mike,2026,36.36363636363637
-726,79,The Suicide Squad,the suicide squad,2021,Those Who Wish Me Dead,those who wish me dead,2021,36.36363636363637
-611,6,Hoppers,hoppers,2026,Super Troopers 3,super troopers,2026,35.71428571428571
-614,18,Kung Fu Soccer (功夫女足),kung fu soccer,2026,Unabomber,unabomber,2026,35.71428571428571
-422,131,The Wild Robot,the wild robot,2024,The Iron Claw,the iron claw,2024,35.71428571428571
-161,80,The Photograph,the photograph,2020,The Gentlemen,the gentlemen,2020,35.71428571428571
-686,93,To Your Island (去你的岛),to your island,2026,Toy Story 5,toy story,2026,35.71428571428571
-554,122,The Accountant 2,the accountant,2025,The Long Walk,the long walk,2025,35.71428571428571
-101,80,The Eight Hundred (八佰),the eight hundred,2020,The Gentlemen,the gentlemen,2020,35.29411764705882
-405,131,Mufasa: The Lion King,mufasa the lion king,2024,The Iron Claw,the iron claw,2024,35.0
-617,20,All Wishes Come True! (八仙！),all wishes come true,2026,The Taste of Tea,the taste of tea,2026,35.0
-556,50,The Amateur,the amateur,2025,The Perfect Neighbor,the perfect neighbor,2025,35.0
-558,50,Regretting You,regretting you,2025,The Perfect Neighbor,the perfect neighbor,2025,35.0
-555,50,The Naked Gun,the naked gun,2025,The Perfect Neighbor,the perfect neighbor,2025,35.0
-640,113,Reminders of Him,reminders of him,2026,Masters of the Universe,masters of the universe,2026,34.78260869565217
-653,59,Young Washington,young washington,2026,You+Me - Against the World,youme against the world,2026,34.78260869565217
-552,50,Boonie Bears: Future Reborn (熊出没·重启未来),boonie bears future reborn,2025,The Perfect Neighbor,the perfect neighbor,2025,34.61538461538461
-478,131,White Snake: Afloat (白蛇：浮生),white snake afloat,2024,The Iron Claw,the iron claw,2024,33.333333333333336
-232,63,Morbius,morbius,2022,Barbarian,barbarian,2022,33.333333333333336
-540,92,Tron: Ares,tron ares,2025,Sinners,sinners,2025,33.333333333333336
-518,92,Thunderbolts*,thunderbolts,2025,Sinners,sinners,2025,33.333333333333336
-425,131,The Garfield Movie,the garfield movie,2024,The Iron Claw,the iron claw,2024,33.333333333333336
-512,127,The Fantastic Four: First Steps,the fantastic four first steps,2025,One Battle After Another,one battle after another,2025,33.333333333333336
-424,139,A Quiet Place: Day One,a quiet place day one,2024,Godzilla Minus One,godzilla minus one,2024,33.333333333333336
-442,139,Transformers One,transformers one,2024,Godzilla Minus One,godzilla minus one,2024,33.333333333333336
-511,112,Wicked: For Good,wicked for good,2025,Good Fortune,good fortune,2025,33.333333333333336
-118,91,Soul,soul,2020,His House,his house,2020,33.333333333333336
-574,112,Row to Win (浪浪人生),row to win,2025,Good Fortune,good fortune,2025,33.333333333333336
-599,127,No Other Choice (어쩔수가없다),no other choice,2025,One Battle After Another,one battle after another,2025,33.333333333333336
-597,84,M3GAN 2.0,mgan,2025,Companion,companion,2025,33.333333333333336
-55,57,The Angry Birds Movie 2,the angry birds movie,2019,Avengers: Endgame,avengers endgame,2019,33.333333333333336
-667,138,"Torrente, Presidente",torrente presidente,2026,Avatar Aang: The Last Airbender,avatar aang the last airbender,2026,33.333333333333336
-762,128,Ron’s Gone Wrong,rons gone wrong,2021,Run Hide Fight,run hide fight,2021,33.333333333333336
-754,128,West Side Story,west side story,2021,Run Hide Fight,run hide fight,2021,33.333333333333336
-692,26,How to Make a Killing,how to make a killing,2026,How Hard Can It Be?,how hard can it be,2026,33.333333333333336
-694,22,They Will Kill You,they will kill you,2026,The Living Tree,the living tree,2026,33.333333333333336
-699,78,Keep Real (特立独行),keep real,2026,Send Help,send help,2026,33.333333333333336
-665,99,Return to Silent Hill,return to silent hill,2026,Drawn Together,drawn together,2026,33.333333333333336
-677,33,Buddy,buddy,2026,Mayday,mayday,2026,33.333333333333336
-720,79,The Conjuring: The Devil Made Me Do It,the conjuring the devil made me do it,2021,Those Who Wish Me Dead,those who wish me dead,2021,32.432432432432435
-683,124,Stray Kids: The DominATE experience,stray kids the dominate experience,2026,28 Years Later: The Bone Temple,years later the bone temple,2026,32.35294117647059
-564,122,The Volunteers: Peace at Last (志愿军浴血和平),the volunteers peace at last,2025,The Long Walk,the long walk,2025,32.14285714285714
-630,41,Mortal Kombat II,mortal kombat ii,2026,The Rivals of Amziah King,the rivals of amziah king,2026,31.999999999999996
-799,79,The Last Duel,the last duel,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.818181818181824
-763,79,Sheng xia wei lai,sheng xia wei lai,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.818181818181824
-753,79,The Forever Purge,the forever purge,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.818181818181824
-462,131,The Roundup: Punishment (범죄도시4),the roundup punishment,2024,The Iron Claw,the iron claw,2024,31.818181818181824
-517,42,Dead To Rights (南京照相馆),dead to rights,2025,Lesbian Space Princess,lesbian space princess,2025,31.818181818181824
-761,79,Sao Hei Jue Zhan,sao hei jue zhan,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.818181818181824
-671,101,Greenland 2: Migration,greenland migration,2026,The Last Sunrise,the last sunrise,2026,31.57894736842105
-742,128,Ren Chao Xiong Yong,ren chao xiong yong,2021,Run Hide Fight,run hide fight,2021,31.57894736842105
-589,127,Springsteen: Deliver Me From Nowhere,springsteen deliver me from nowhere,2025,One Battle After Another,one battle after another,2025,31.428571428571427
-615,40,Once Upon A Time In The Middle East (欢迎来龙餐馆),once upon a time in the middle east,2026,Run Hide Fight: Infidels,run hide fight infidels,2026,31.428571428571427
-637,107,Meitantei Conan: Highway no Datenshi,meitantei conan highway no datenshi,2026,Minions & Monsters,minions monsters,2026,31.428571428571427
-774,79,Rurôni Kenshin: Sai shûshô - The Final,ruroni kenshin sai shusho the final,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.428571428571427
-70,57,The Gentlemen,the gentlemen,2019,Avengers: Endgame,avengers endgame,2019,31.25
-95,57,White Snake (白蛇：缘起),white snake,2019,Avengers: Endgame,avengers endgame,2019,31.25
-85,57,A Dog’s Way Home,a dogs way home,2019,Avengers: Endgame,avengers endgame,2019,31.25
-54,57,Yesterday,yesterday,2019,Avengers: Endgame,avengers endgame,2019,31.25
-734,128,Yang Ming Li Wan (扬名立万),yang ming li wan,2021,Run Hide Fight,run hide fight,2021,31.25
-651,107,Iron Lung,iron lung,2026,Minions & Monsters,minions monsters,2026,31.25
-63,57,Wonder Park,wonder park,2019,Avengers: Endgame,avengers endgame,2019,31.25
-499,139,Horizon: An American Saga Chapter 1,horizon an american saga chapter,2024,Godzilla Minus One,godzilla minus one,2024,31.25
-684,121,EPiC: Elvis Presley in Concert,epic elvis presley in concert,2026,The Breadwinner,the breadwinner,2026,31.034482758620683
-733,79,The Boss Baby: Family Business,the boss baby family business,2021,Those Who Wish Me Dead,those who wish me dead,2021,31.034482758620683
-676,13,Billie Eilish: Hit Me Hard and Soft—The Tour,billie eilish hit me hard and softthe tour,2026,Nimesh Patel: Buy the Dip,nimesh patel buy the dip,2026,30.952380952380953
-664,4,The Amazing Digital Circus: The Last Act,the amazing digital circus the last act,2026,The Magic Faraway Tree,the magic faraway tree,2026,30.76923076923077
-103,80,Tenet,tenet,2020,The Gentlemen,the gentlemen,2020,30.76923076923077
-142,80,Greenland,greenland,2020,The Gentlemen,the gentlemen,2020,30.76923076923077
-155,91,Gretel & Hansel,gretel hansel,2020,His House,his house,2020,30.76923076923077
-176,80,Hiteumaen,hiteumaen,2020,The Gentlemen,the gentlemen,2020,30.76923076923077
-562,103,A Working Man,a working man,2025,Superman,superman,2025,30.76923076923077
-451,131,Conclave,conclave,2024,The Iron Claw,the iron claw,2024,30.76923076923077
-187,80,Nightlife,nightlife,2020,The Gentlemen,the gentlemen,2020,30.76923076923077
-180,80,The Way Back,the way back,2020,The Gentlemen,the gentlemen,2020,30.76923076923077
-464,131,The Substance,the substance,2024,The Iron Claw,the iron claw,2024,30.76923076923077
-474,131,Heretic,heretic,2024,The Iron Claw,the iron claw,2024,30.76923076923077
-438,131,The Beekeeper,the beekeeper,2024,The Iron Claw,the iron claw,2024,30.76923076923077
-673,113,Jackass: Best and Last,jackass best and last,2026,Masters of the Universe,masters of the universe,2026,30.434782608695656
-600,51,Spider-Man: Brand New Day,spiderman brand new day,2026,Disclosure Day,disclosure day,2026,30.434782608695656
-628,17,Boonie Bears: The Hidden Protector (熊出沒·年年有熊),boonie bears the hidden protector,2026,Go Deep: The DeSean Jackson Story,go deep the desean jackson story,2026,30.303030303030297
-119,80,The Call of the Wild,the call of the wild,2020,The Gentlemen,the gentlemen,2020,30.000000000000004
-38,57,Annabelle Comes Home,annabelle comes home,2019,Avengers: Endgame,avengers endgame,2019,30.000000000000004
-33,117,Terminator: Dark Fate,terminator dark fate,2019,Ready or Not,ready or not,2019,30.000000000000004
-137,80,The War with Grandpa,the war with grandpa,2020,The Gentlemen,the gentlemen,2020,30.000000000000004
-577,130,Gezhi Town (得闲谨制),gezhi town,2025,Good Boy,good boy,2025,30.000000000000004
-124,80,Zhong Guo he huo ren,zhong guo he huo ren,2020,The Gentlemen,the gentlemen,2020,30.000000000000004
-128,80,Stand by Me Doraemon 2,stand by me doraemon,2020,The Gentlemen,the gentlemen,2020,30.000000000000004
-680,118,It’s OK (我，许可),its ok,2026,Signal One,signal one,2026,30.000000000000004
-675,138,Skazka o tsare Saltane (Сказка о царе Салтане),skazka o tsare saltane,2026,Avatar Aang: The Last Airbender,avatar aang the last airbender,2026,30.000000000000004
-214,63,Black Adam,black adam,2022,Barbarian,barbarian,2022,30.000000000000004
-427,46,Ghostbusters: Frozen Empire,ghostbusters frozen empire,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,29.729729729729726
-758,79,The Hitman’s Wife’s Bodyguard,the hitmans wifes bodyguard,2021,Those Who Wish Me Dead,those who wish me dead,2021,29.629629629629626
-140,80,After We Collided,after we collided,2020,The Gentlemen,the gentlemen,2020,29.411764705882348
-797,128,The Little Things,the little things,2021,Run Hide Fight,run hide fight,2021,29.411764705882348
-530,52,Predator: Badlands,predator badlands,2025,Weapons,weapons,2025,29.411764705882348
-166,91,Brahms: The Boy II,brahms the boy ii,2020,His House,his house,2020,29.411764705882348
-575,127,Den of Thieves 2: Pantera,den of thieves pantera,2025,One Battle After Another,one battle after another,2025,29.166666666666664
-502,127,Avatar: Fire and Ash,avatar fire and ash,2025,One Battle After Another,one battle after another,2025,29.166666666666664
-582,127,One of Them Days,one of them days,2025,One Battle After Another,one battle after another,2025,29.166666666666664
-447,131,Octopus with Broken Arms (误杀3),octopus with broken arms,2024,The Iron Claw,the iron claw,2024,29.166666666666664
-537,127,28 Years Later,years later,2025,One Battle After Another,one battle after another,2025,29.166666666666664
-744,79,Clifford the Big Red Dog,clifford the big red dog,2021,Those Who Wish Me Dead,those who wish me dead,2021,29.166666666666664
-504,127,A Minecraft Movie,a minecraft movie,2025,One Battle After Another,one battle after another,2025,29.166666666666664
-746,79,Meitantei Konan Hiiro no Dangan,meitantei konan hiiro no dangan,2021,Those Who Wish Me Dead,those who wish me dead,2021,29.032258064516125
-448,46,Haikyu!! The Movie: Decisive Battle at the Garbage Dump (劇場版ハイキュー!! ゴミ捨て場の決戦),haikyu the movie decisive battle at the garbage dump,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,28.846153846153843
-535,52,Elio,elio,2025,Weapons,weapons,2025,28.57142857142857
-548,92,Smurfs,smurfs,2025,Sinners,sinners,2025,28.57142857142857
-550,92,Hamnet,hamnet,2025,Sinners,sinners,2025,28.57142857142857
-113,80,Jin gang chuan,jin gang chuan,2020,The Gentlemen,the gentlemen,2020,28.57142857142857
-766,128,Man in Love (當男人戀愛時),man in love,2021,Run Hide Fight,run hide fight,2021,28.57142857142857
-796,128,Licorice Pizza,licorice pizza,2021,Run Hide Fight,run hide fight,2021,28.57142857142857
-175,91,Adieu les cons,adieu les cons,2020,His House,his house,2020,28.57142857142857
-668,48,Prostokvashino (Простоквашино),prostokvashino,2026,Pressure,pressure,2026,28.57142857142857
-576,122,Song Sung Blue,song sung blue,2025,The Long Walk,the long walk,2025,28.57142857142857
-274,63,Brahmastra Part 1: Shiva,brahmastra part shiva,2022,Barbarian,barbarian,2022,28.57142857142857
-687,9,"You, Me & Tuscany",you me tuscany,2026,Mistura,mistura,2026,28.57142857142857
-598,92,Bring Her Back,bring her back,2025,Sinners,sinners,2025,28.57142857142857
-135,91,Monster Hunter,monster hunter,2020,His House,his house,2020,28.57142857142857
-437,46,The Volunteers: The Battle of Life and Death (志愿军：存亡之战),the volunteers the battle of life and death,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,27.906976744186053
-475,139,We Live in Time,we live in time,2024,Godzilla Minus One,godzilla minus one,2024,27.77777777777778
-105,80,Sonic The Hedgehog,sonic the hedgehog,2020,The Gentlemen,the gentlemen,2020,27.77777777777778
-471,139,Honey Money Phony (骗骗喜欢你),honey money phony,2024,Godzilla Minus One,godzilla minus one,2024,27.77777777777778
-430,139,Red One,red one,2024,Godzilla Minus One,godzilla minus one,2024,27.77777777777778
-468,139,GO FOR BROKE (重生),go for broke,2024,Godzilla Minus One,godzilla minus one,2024,27.77777777777778
-704,79,F9: The Fast Saga,f the fast saga,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-702,79,No Time to Die,no time to die,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-731,79,House of Gucci,house of gucci,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-737,79,Wo de jie jie,wo de jie jie,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-560,42,Buen Camino,buen camino,2025,Lesbian Space Princess,lesbian space princess,2025,27.27272727272727
-785,79,The Door Lock (门锁),the door lock,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-588,92,Flight Risk,flight risk,2025,Sinners,sinners,2025,27.27272727272727
-783,79,Tokyo Revengers (東京リベンジャーズ),tokyo revengers,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-740,79,The Addams Family 2,the addams family,2021,Those Who Wish Me Dead,those who wish me dead,2021,27.27272727272727
-503,42,Lilo & Stitch,lilo stitch,2025,Lesbian Space Princess,lesbian space princess,2025,27.27272727272727
-528,42,Disney’s Snow White,disneys snow white,2025,Lesbian Space Princess,lesbian space princess,2025,27.27272727272727
-153,91,Like a Boss,like a boss,2020,His House,his house,2020,27.27272727272727
-458,46,"The Pig, the Snake and the Pigeon (周处除三害)",the pig the snake and the pigeon,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,27.027027027027028
-410,46,Venom: The Last Dance,venom the last dance,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,27.027027027027028
-497,46,The Best Christmas Pageant Ever,the best christmas pageant ever,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,27.027027027027028
-542,50,From the World of John Wick: Ballerina,from the world of john wick ballerina,2025,The Perfect Neighbor,the perfect neighbor,2025,27.027027027027028
-561,127,Legends of the Condor Heroes: The Gallants (射雕英雄传：侠之大者),legends of the condor heroes the gallants,2025,One Battle After Another,one battle after another,2025,26.82926829268293
-46,57,The LEGO Movie 2: The Second Part,the lego movie the second part,2019,Avengers: Endgame,avengers endgame,2019,26.66666666666667
-587,52,Operation Hadal (蛟龙行动),operation hadal,2025,Weapons,weapons,2025,26.66666666666667
-553,122,Downton Abbey: The Grand Finale,downton abbey the grand finale,2025,The Long Walk,the long walk,2025,26.66666666666667
-786,79,Yi Nian Wei Dan Wei De Lian Ai (以年为单位的恋爱),yi nian wei dan wei de lian ai,2021,Those Who Wish Me Dead,those who wish me dead,2021,26.66666666666667
-246,63,Ming ri zhan ji,ming ri zhan ji,2022,Barbarian,barbarian,2022,26.66666666666667
-66,117,Dora and the Lost City of Gold,dora and the lost city of gold,2019,Ready or Not,ready or not,2019,26.66666666666667
-43,117,Weathering with You (天気の子),weathering with you,2019,Ready or Not,ready or not,2019,26.315789473684216
-12,117,The Wandering Earth (流浪地球),the wandering earth,2019,Ready or Not,ready or not,2019,26.315789473684216
-705,128,Detective Chinatown 3 (唐人街探案3),detective chinatown,2021,Run Hide Fight,run hide fight,2021,26.315789473684216
-434,131,Bob Marley: One Love,bob marley one love,2024,The Iron Claw,the iron claw,2024,26.315789473684216
-691,5,Johnny Keep Walking! 2 (年会不能停！2),johnny keep walking,2026,Spa Weekend,spa weekend,2026,26.315789473684216
-531,42,The SpongeBob Movie: Search for Squarepants,the spongebob movie search for squarepants,2025,Lesbian Space Princess,lesbian space princess,2025,26.190476190476186
-16,57,The Secret Life of Pets 2,the secret life of pets,2019,Avengers: Endgame,avengers endgame,2019,26.086956521739136
-749,79,Bai She 2: Qing She jie qi (白蛇2：青蛇劫起),bai she qing she jie qi,2021,Those Who Wish Me Dead,those who wish me dead,2021,26.086956521739136
-3,117,Spider-Man: Far From Home,spiderman far from home,2019,Ready or Not,ready or not,2019,26.086956521739136
-557,122,Endless Journey of Love (时间之子),endless journey of love,2025,The Long Walk,the long walk,2025,26.086956521739136
-529,127,Chainsaw Man — The Movie: Reze Arc (チェンソーマン レゼ篇),chainsaw man the movie reze arc,2025,One Battle After Another,one battle after another,2025,25.806451612903224
-515,50,Captain America: Brave New World,captain america brave new world,2025,The Perfect Neighbor,the perfect neighbor,2025,25.806451612903224
-67,117,Meitantei Conan: Konjo no Fisuto,meitantei conan konjo no fisuto,2019,Ready or Not,ready or not,2019,25.806451612903224
-88,57,Tyler Perry’s A Madea Family Funeral,tyler perrys a madea family funeral,2019,Avengers: Endgame,avengers endgame,2019,25.71428571428571
-547,130,Kokuho,kokuho,2025,Good Boy,good boy,2025,25.0
-543,50,Dhurandhar,dhurandhar,2025,The Perfect Neighbor,the perfect neighbor,2025,25.0
-743,128,Raya and the Last Dragon,raya and the last dragon,2021,Run Hide Fight,run hide fight,2021,25.0
-28,117,Crazy Alien (疯狂的外星人),crazy alien,2019,Ready or Not,ready or not,2019,25.0
-17,117,"My People, My Country (我和我的祖国)",my people my country,2019,Ready or Not,ready or not,2019,25.0
-23,57,Zhongguo jizhang,zhongguo jizhang,2019,Avengers: Endgame,avengers endgame,2019,25.0
-81,117,Rambo: Last Blood,rambo last blood,2019,Ready or Not,ready or not,2019,25.0
-416,139,Bad Boys: Ride or Die,bad boys ride or die,2024,Godzilla Minus One,godzilla minus one,2024,25.0
-117,91,Zhong Guo Nu Pai,zhong guo nu pai,2020,His House,his house,2020,25.0
-11,57,Ne Zha (哪吒之魔童降世),ne zha,2019,Avengers: Endgame,avengers endgame,2019,25.0
-8,117,Aladdin,aladdin,2019,Ready or Not,ready or not,2019,25.0
-514,127,Detective Chinatown 1900 (唐人街探案1900),detective chinatown,2025,One Battle After Another,one battle after another,2025,25.0
-261,63,The Northman,the northman,2022,Barbarian,barbarian,2022,25.0
-508,127,F1: The Movie,f the movie,2025,One Battle After Another,one battle after another,2025,25.0
-520,42,Final Destination: Bloodlines,final destination bloodlines,2025,Lesbian Space Princess,lesbian space princess,2025,25.0
-244,63,Shen Tan Da Zhan (神探大战),shen tan da zhan,2022,Barbarian,barbarian,2022,25.0
-148,91,Honest Thief,honest thief,2020,His House,his house,2020,25.0
-551,52,Materialists,materialists,2025,Weapons,weapons,2025,25.0
-220,63,Bullet Train,bullet train,2022,Barbarian,barbarian,2022,25.0
-522,84,Evil Unbound (731),evil unbound,2025,Companion,companion,2025,25.0
-501,112,Zootopia 2,zootopia,2025,Good Fortune,good fortune,2025,25.0
-58,57,Angel Has Fallen,angel has fallen,2019,Avengers: Endgame,avengers endgame,2019,25.0
-50,57,Pan Deng Zhe,pan deng zhe,2019,Avengers: Endgame,avengers endgame,2019,25.0
-191,91,Jeongsang hoidam,jeongsang hoidam,2020,His House,his house,2020,25.0
-57,117,Ad Astra,ad astra,2019,Ready or Not,ready or not,2019,25.0
-53,117,Escape Room,escape room,2019,Ready or Not,ready or not,2019,25.0
-61,57,The Upside,the upside,2019,Avengers: Endgame,avengers endgame,2019,25.0
-97,117,Cold Pursuit,cold pursuit,2019,Ready or Not,ready or not,2019,25.0
-72,57,Pet Sematary,pet sematary,2019,Avengers: Endgame,avengers endgame,2019,25.0
-75,57,Chong Ai,chong ai,2019,Avengers: Endgame,avengers endgame,2019,25.0
-436,131,Pushpa: The Rule — Part 2,pushpa the rule part,2024,The Iron Claw,the iron claw,2024,25.0
-109,80,The Croods: A New Age,the croods a new age,2020,The Gentlemen,the gentlemen,2020,25.0
-592,103,Bugonia,bugonia,2025,Superman,superman,2025,25.0
-594,122,Back to the Past (寻秦记),back to the past,2025,The Long Walk,the long walk,2025,25.0
-79,57,Five Feet Apart,five feet apart,2019,Avengers: Endgame,avengers endgame,2019,25.0
-86,57,A Dog’s Journey,a dogs journey,2019,Avengers: Endgame,avengers endgame,2019,25.0
-89,57,Charlie’s Angels,charlies angels,2019,Avengers: Endgame,avengers endgame,2019,25.0
-586,127,Taylor Swift | The Official Release Party of a Showgirl,taylor swift the official release party of a showgirl,2025,One Battle After Another,one battle after another,2025,24.52830188679245
-480,46,Kingdom 4: Return of the Great General (キングダム 大将軍の帰還),kingdom return of the great general,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,24.32432432432432
-459,46,Twilight of the Warriors: Walled In (九龙城寨之围城),twilight of the warriors walled in,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,24.32432432432432
-435,46,Furiosa: A Mad Max Saga,furiosa a mad max saga,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,24.32432432432432
-417,46,Kingdom of the Planet of the Apes,kingdom of the planet of the apes,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,24.32432432432432
-510,42,Mission: Impossible—The Final Reckoning,mission impossiblethe final reckoning,2025,Lesbian Space Princess,lesbian space princess,2025,24.32432432432432
-534,122,Detective Conan: One-eyed Flashback (名探偵コナン　隻眼の残像（フラッシュバック）),detective conan oneeyed flashback,2025,The Long Walk,the long walk,2025,24.242424242424242
-74,117,Scary Stories to Tell in the Dark,scary stories to tell in the dark,2019,Ready or Not,ready or not,2019,24.242424242424242
-748,128,Evangelion: 3.0+1.01 Thrice Upon a Time (シン・エヴァンゲリオン劇場版),evangelion thrice upon a time,2021,Run Hide Fight,run hide fight,2021,24.13793103448276
-792,128,Snake Eyes: G.I. Joe Origins,snake eyes gi joe origins,2021,Run Hide Fight,run hide fight,2021,24.0
-167,91,Promising Young Woman,promising young woman,2020,His House,his house,2020,23.809523809523814
-62,117,Zombieland: Double Tap,zombieland double tap,2019,Ready or Not,ready or not,2019,23.809523809523814
-104,80,Wo He Wo De Jia Xiang,wo he wo de jia xiang,2020,The Gentlemen,the gentlemen,2020,23.809523809523814
-724,128,Xuan Ya Zhi Shang (悬崖之上),xuan ya zhi shang,2021,Run Hide Fight,run hide fight,2021,23.529411764705888
-583,52,A Writer’s Odyssey 2 (刺杀小说家2),a writers odyssey,2025,Weapons,weapons,2025,23.529411764705888
-52,57,Spies in Disguise,spies in disguise,2019,Avengers: Endgame,avengers endgame,2019,23.529411764705888
-41,117,The Addams Family,the addams family,2019,Ready or Not,ready or not,2019,23.529411764705888
-496,139,Crayon Shinchan: Our Dinosaur Diary ( 映画 クレヨンしんちゃん オラたちの恐竜日記),crayon shinchan our dinosaur diary,2024,Godzilla Minus One,godzilla minus one,2024,23.529411764705888
-479,131,"I, The Executioner (베테랑2)",i the executioner,2024,The Iron Claw,the iron claw,2024,23.529411764705888
-470,131,Tiger Wolf Rabbit (浴火之路),tiger wolf rabbit,2024,The Iron Claw,the iron claw,2024,23.529411764705888
-102,91,Bad Boys For Life,bad boys for life,2020,His House,his house,2020,23.529411764705888
-194,91,News of the World,news of the world,2020,His House,his house,2020,23.529411764705888
-732,128,Chuan Guo Han Dong Yong Bao Ni (穿过寒冬拥抱你),chuan guo han dong yong bao ni,2021,Run Hide Fight,run hide fight,2021,23.33333333333333
-162,91,Eiga Entotsu Machi no Poupelle,eiga entotsu machi no poupelle,2020,His House,his house,2020,23.33333333333333
-445,131,Kalki 2898-AD,kalki ad,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-444,131,Civil War,civil war,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-461,131,Trap,trap,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-591,122,Black Bag,black bag,2025,The Long Walk,the long walk,2025,23.076923076923073
-585,84,Dongji Island (东极岛),dongji island,2025,Companion,companion,2025,23.076923076923073
-584,122,Until Dawn,until dawn,2025,The Long Walk,the long walk,2025,23.076923076923073
-492,131,Kholop 2 (Холоп 2),kholop,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-494,131,Panda Plan (熊猫计划),panda plan,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-421,131,Article 20 (第二十条),article,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-419,131,Alien: Romulus,alien romulus,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-106,80,Dolittle,dolittle,2020,The Gentlemen,the gentlemen,2020,23.076923076923073
-112,80,Wonder Woman 1984,wonder woman,2020,The Gentlemen,the gentlemen,2020,23.076923076923073
-456,131,Big World (小小的我),big world,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-454,131,Her Story (好东西),her story,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-49,117,The White Storm 2: Drug Lords,the white storm drug lords,2019,Ready or Not,ready or not,2019,23.076923076923073
-486,131,Tarot,tarot,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-706,79,Venom: Let There be Carnage,venom let there be carnage,2021,Those Who Wish Me Dead,those who wish me dead,2021,23.076923076923073
-500,122,Ne Zha 2 (哪吒之魔童闹海),ne zha,2025,The Long Walk,the long walk,2025,23.076923076923073
-483,131,Back to Black,back to black,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-164,91,Yi miao zhong,yi miao zhong,2020,His House,his house,2020,23.076923076923073
-184,80,Firestarter,firestarter,2020,The Gentlemen,the gentlemen,2020,23.076923076923073
-278,63,The Fabelmans,the fabelmans,2022,Barbarian,barbarian,2022,23.076923076923073
-538,103,Marty Supreme,marty supreme,2025,Superman,superman,2025,23.076923076923073
-160,80,Hamilton,hamilton,2020,The Gentlemen,the gentlemen,2020,23.076923076923073
-465,131,Terrifier 3,terrifier,2024,The Iron Claw,the iron claw,2024,23.076923076923073
-91,117,What Men Want,what men want,2019,Ready or Not,ready or not,2019,23.076923076923073
-236,63,Boonie Bears: Back to Earth (熊出没·重返地球),boonie bears back to earth,2022,Barbarian,barbarian,2022,23.076923076923073
-767,79,Escape Room: Tournament of Champions,escape room tournament of champions,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.857142857142854
-92,117,A Beautiful Day in the Neighborhood,a beautiful day in the neighborhood,2019,Ready or Not,ready or not,2019,22.857142857142854
-745,79,Wrath of Man,wrath of man,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-771,79,The French Dispatch,the french dispatch,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-775,79,Spirit Untamed,spirit untamed,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-798,79,The Unholy,the unholy,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-793,79,Ai Qing Shen Hua (爱情神话),ai qing shen hua,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-525,42,Five Nights at Freddy’s 2,five nights at freddys,2025,Lesbian Space Princess,lesbian space princess,2025,22.72727272727273
-727,79,Space Jam: A New Legacy,space jam a new legacy,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-787,79,Da Hong Bao,da hong bao,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-759,79,Wu Xian Shen Du,wu xian shen du,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-147,91,Daman Akeseo Guhasoseo,daman akeseo guhasoseo,2020,His House,his house,2020,22.72727272727273
-736,79,Tom and Jerry,tom and jerry,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.72727272727273
-9,117,Jumanji: The Next Level,jumanji the next level,2019,Ready or Not,ready or not,2019,22.72727272727273
-572,112,I Know What You Did Last Summer,i know what you did last summer,2025,Good Fortune,good fortune,2025,22.580645161290324
-7,57,Star Wars: The Rise of Skywalker,star wars the rise of skywalker,2019,Avengers: Endgame,avengers endgame,2019,22.580645161290324
-541,50,Bridget Jones: Mad About The Boy,bridget jones mad about the boy,2025,The Perfect Neighbor,the perfect neighbor,2025,22.580645161290324
-708,128,Shang-Chi and the Legend of the Ten Rings,shangchi and the legend of the ten rings,2021,Run Hide Fight,run hide fight,2021,22.499999999999996
-96,57,Eiga Doraemon: Nobita no Getsumen Tansaki,eiga doraemon nobita no getsumen tansaki,2019,Avengers: Endgame,avengers endgame,2019,22.499999999999996
-795,79,Posledniy bogatyr. Koren’ Zla,posledniy bogatyr koren zla,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.22222222222222
-210,63,Moon Man (独行月球),moon man,2022,Barbarian,barbarian,2022,22.22222222222222
-559,84,David,david,2025,Companion,companion,2025,22.22222222222222
-235,63,RRR,rrr,2022,Barbarian,barbarian,2022,22.22222222222222
-747,128,Fan Tan Feng Bao (G風暴),fan tan feng bao g,2021,Run Hide Fight,run hide fight,2021,22.22222222222222
-533,127,Creation of the Gods II: Demonic Confrontation (封神第二部：战火西岐),creation of the gods ii demonic confrontation,2025,One Battle After Another,one battle after another,2025,22.22222222222222
-150,91,Scoob!,scoob,2020,His House,his house,2020,22.22222222222222
-229,63,M3GAN,mgan,2022,Barbarian,barbarian,2022,22.22222222222222
-271,63,Ambulance,ambulance,2022,Barbarian,barbarian,2022,22.22222222222222
-14,57,Maleficent: Mistress of Evil,maleficent mistress of evil,2019,Avengers: Endgame,avengers endgame,2019,22.22222222222222
-212,63,Uncharted,uncharted,2022,Barbarian,barbarian,2022,22.22222222222222
-193,80,Samjingeurup yeongeotoikban,samjingeurup yeongeotoikban,2020,The Gentlemen,the gentlemen,2020,22.22222222222222
-265,63,Beast,beast,2022,Barbarian,barbarian,2022,22.22222222222222
-171,80,"Ensemble, c’est tout",ensemble cest tout,2020,The Gentlemen,the gentlemen,2020,22.22222222222222
-239,63,Scream,scream,2022,Barbarian,barbarian,2022,22.22222222222222
-172,91,Kaiji: Fainaru gêmu,kaiji fainaru gemu,2020,His House,his house,2020,22.22222222222222
-293,63,TÁR,tar,2022,Barbarian,barbarian,2022,22.22222222222222
-291,63,Amsterdam,amsterdam,2022,Barbarian,barbarian,2022,22.22222222222222
-282,63,Duan . Qiao (断·桥),duan qiao,2022,Barbarian,barbarian,2022,22.22222222222222
-491,139,Imaginary,imaginary,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-36,117,Lie huo ying xiong,lie huo ying xiong,2019,Ready or Not,ready or not,2019,22.22222222222222
-567,92,Nuremberg,nuremberg,2025,Sinners,sinners,2025,22.22222222222222
-498,139,Last Mile (ラストマイル),last mile,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-84,57,One Piece: Stampede (劇場版),one piece stampede,2019,Avengers: Endgame,avengers endgame,2019,22.22222222222222
-411,139,Gladiator II,gladiator ii,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-426,131,Joker: Folie à Deux,joker folie a deux,2024,The Iron Claw,the iron claw,2024,22.22222222222222
-453,139,Madame Web,madame web,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-116,91,Warm Hug (温暖的抱抱),warm hug,2020,His House,his house,2020,22.22222222222222
-400,139,Inside Out 2,inside out,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-429,131,Paddington in Peru,paddington in peru,2024,The Iron Claw,the iron claw,2024,22.22222222222222
-401,139,Deadpool & Wolverine,deadpool wolverine,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-403,139,Despicable Me 4,despicable me,2024,Godzilla Minus One,godzilla minus one,2024,22.22222222222222
-120,91,Xiong Chu Mo: Kuang Ye Da Lu,xiong chu mo kuang ye da lu,2020,His House,his house,2020,22.22222222222222
-122,80,Miracle In Cell No. 7,miracle in cell no,2020,The Gentlemen,the gentlemen,2020,22.22222222222222
-178,91,Red Dog,red dog,2020,His House,his house,2020,22.22222222222222
-523,112,Now You See Me: Now You Don’t,now you see me now you dont,2025,Good Fortune,good fortune,2025,22.22222222222222
-254,63,New Gods: Yang Jian (新神榜：杨戬),new gods yang jian,2022,Barbarian,barbarian,2022,22.22222222222222
-251,63,Don’t Worry Darling,dont worry darling,2022,Barbarian,barbarian,2022,22.22222222222222
-703,79,The Battle at Lake Changjin,the battle at lake changjin,2021,Those Who Wish Me Dead,those who wish me dead,2021,22.22222222222222
-188,91,Dam bo,dam bo,2020,His House,his house,2020,22.22222222222222
-273,63,Marry Me,marry me,2022,Barbarian,barbarian,2022,22.22222222222222
-186,80,The Personal History of David Copperfield,the personal history of david copperfield,2020,The Gentlemen,the gentlemen,2020,21.95121951219512
-489,139,Doraemon the Movie: Nobita’s Earth Symphony (映画ドラえもん　のび太の地球交響楽),doraemon the movie nobitas earth symphony,2024,Godzilla Minus One,godzilla minus one,2024,21.95121951219512
-71,57,Boonie Bears: Blast Into The Past,boonie bears blast into the past,2019,Avengers: Endgame,avengers endgame,2019,21.875
-784,79,Jin Qian Di Guo Zhui: Hu Qin Long,jin qian di guo zhui hu qin long,2021,Those Who Wish Me Dead,those who wish me dead,2021,21.875
-506,42,Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle,demon slayer kimetsu no yaiba the movie infinity castle,2025,Lesbian Space Princess,lesbian space princess,2025,21.818181818181813
-65,57,The Curse of La Llorona,the curse of la llorona,2019,Avengers: Endgame,avengers endgame,2019,21.739130434782606
-423,139,Boonie Bears: Time Twist (熊出没·逆转时空),boonie bears time twist,2024,Godzilla Minus One,godzilla minus one,2024,21.739130434782606
-776,79,Resident Evil: Welcome to Raccoon City,resident evil welcome to raccoon city,2021,Those Who Wish Me Dead,those who wish me dead,2021,21.62162162162162
-467,46,Moments We Shared (云边有个小卖部),moments we shared,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,21.62162162162162
-472,46,Kraven the Hunter,kraven the hunter,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,21.62162162162162
-717,128,Jungle Cruise,jungle cruise,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-280,63,The Invitation,the invitation,2022,Barbarian,barbarian,2022,21.42857142857143
-769,128,Belfast,belfast,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-789,128,Respect,respect,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-777,128,Boku no Hero Academia: World Heroes’ Mission,boku no hero academia world heroes mission,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-713,128,Free Guy,free guy,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-39,117,Ford v. Ferrari,ford v ferrari,2019,Ready or Not,ready or not,2019,21.42857142857143
-794,128,Mi Mi Fang Ke,mi mi fang ke,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-772,128,Don’t Breathe 2,dont breathe,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-718,128,Nou fo,nou fo,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-701,128,"Hi, Mom (你好, 李焕英)",hi mom,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-709,128,Dune,dune,2021,Run Hide Fight,run hide fight,2021,21.42857142857143
-484,46,Demon Slayer: Kimetsu no Yaiba—To the Hashira Training (鬼滅の刃 柱稽古編),demon slayer kimetsu no yaibato the hashira training,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,21.153846153846157
-757,128,Gu Dong Ju Zhong Ju (古董局中局),gu dong ju zhong ju,2021,Run Hide Fight,run hide fight,2021,21.052631578947366
-174,80,The Story of Xi Bao,the story of xi bao,2020,The Gentlemen,the gentlemen,2020,21.052631578947366
-192,80,Feng ping lang jing,feng ping lang jing,2020,The Gentlemen,the gentlemen,2020,21.052631578947366
-439,131,Detective Conan: The Million-Dollar Pentagram,detective conan the milliondollar pentagram,2024,The Iron Claw,the iron claw,2024,20.93023255813954
-728,79,The Matrix Resurrections,the matrix resurrections,2021,Those Who Wish Me Dead,those who wish me dead,2021,20.833333333333336
-593,42,Ready or Not 2: Here I Come,ready or not here i come,2025,Lesbian Space Princess,lesbian space princess,2025,20.833333333333336
-590,50,Jujutsu Kaisen: Execution,jujutsu kaisen execution,2025,The Perfect Neighbor,the perfect neighbor,2025,20.833333333333336
-536,127,Freakier Friday,freakier friday,2025,One Battle After Another,one battle after another,2025,20.833333333333336
-507,84,How to Train Your Dragon,how to train your dragon,2025,Companion,companion,2025,20.833333333333336
-549,127,Karate Kid: Legends,karate kid legends,2025,One Battle After Another,one battle after another,2025,20.833333333333336
-20,57,Godzilla: King of the Monsters,godzilla king of the monsters,2019,Avengers: Endgame,avengers endgame,2019,20.68965517241379
-205,63,Black Panther: Wakanda Forever,black panther wakanda forever,2022,Barbarian,barbarian,2022,20.68965517241379
-294,63,The Unbearable Weight of Massive Talent,the unbearable weight of massive talent,2022,Barbarian,barbarian,2022,20.512820512820518
-177,80,I Still Believe,i still believe,2020,The Gentlemen,the gentlemen,2020,19.999999999999996
-233,63,The Black Phone,the black phone,2022,Barbarian,barbarian,2022,19.999999999999996
-123,91,Jin Ji Jiu Yuan,jin ji jiu yuan,2020,His House,his house,2020,19.999999999999996
-111,91,Shock Wave 2 (拆彈專家2),shock wave,2020,His House,his house,2020,19.999999999999996
-37,117,Shao Nian De Ni,shao nian de ni,2019,Ready or Not,ready or not,2019,19.999999999999996
-18,57,Pokémon: Detective Pikachu,pokemon detective pikachu,2019,Avengers: Endgame,avengers endgame,2019,19.999999999999996
-258,63,jackass forever,jackass forever,2022,Barbarian,barbarian,2022,19.999999999999996
-183,80,Takizawa Enbujo Zero,takizawa enbujo zero,2020,The Gentlemen,the gentlemen,2020,19.999999999999996
-738,128,Halloween Kills,halloween kills,2021,Run Hide Fight,run hide fight,2021,19.999999999999996
-770,79,I Fell in Love Like a Flower Bouquet,i fell in love like a flower bouquet,2021,Those Who Wish Me Dead,those who wish me dead,2021,19.444444444444443
-125,80,Wo Zai Shi Jian Jin Tou Deng Ni,wo zai shi jian jin tou deng ni,2020,The Gentlemen,the gentlemen,2020,19.354838709677423
-31,117,Men in Black: International,men in black international,2019,Ready or Not,ready or not,2019,19.23076923076923
-566,112,Gabby’s Dollhouse: The Movie,gabbys dollhouse the movie,2025,Good Fortune,good fortune,2025,19.23076923076923
-449,46,Desperate for Money at the End of the Road (末路狂花钱),desperate for money at the end of the road,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,19.047619047619047
-107,80,Legend of Deification (姜子牙),legend of deification,2020,The Gentlemen,the gentlemen,2020,19.047619047619047
-714,128,A Quiet Place: Part II,a quiet place part ii,2021,Run Hide Fight,run hide fight,2021,19.047619047619047
-756,128,New Gods: Nezha Reborn (新神榜：哪吒重生),new gods nezha reborn,2021,Run Hide Fight,run hide fight,2021,19.047619047619047
-420,46,It Ends With Us,it ends with us,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,18.918918918918916
-408,46,Kung Fu Panda 4,kung fu panda,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,18.918918918918916
-440,46,A Complete Unknown,a complete unknown,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,18.918918918918916
-412,46,Beetlejuice Beetlejuice,beetlejuice beetlejuice,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,18.918918918918916
-10,57,Fast & Furious Presents: Hobbs & Shaw,fast furious presents hobbs shaw,2019,Avengers: Endgame,avengers endgame,2019,18.75
-127,91,Yin-Yang Master I,yinyang master i,2020,His House,his house,2020,18.75
-201,63,Top Gun: Maverick,top gun maverick,2022,Barbarian,barbarian,2022,18.75
-59,117,Yin He Bu Xi Ban,yin he bu xi ban,2019,Ready or Not,ready or not,2019,18.75
-295,63,Dú Shé Dà Zhuàng (毒舌大状),du she da zhuang,2022,Barbarian,barbarian,2022,18.75
-51,57,Gemini Man,gemini man,2019,Avengers: Endgame,avengers endgame,2019,18.75
-56,57,Hustlers,hustlers,2019,Avengers: Endgame,avengers endgame,2019,18.75
-69,57,Fan Tan Feng Bao 4,fan tan feng bao,2019,Avengers: Endgame,avengers endgame,2019,18.75
-77,57,The Hustle,the hustle,2019,Avengers: Endgame,avengers endgame,2019,18.75
-40,57,Little Women,little women,2019,Avengers: Endgame,avengers endgame,2019,18.75
-48,57,Abominable,abominable,2019,Avengers: Endgame,avengers endgame,2019,18.75
-1,57,The Lion King,the lion king,2019,Avengers: Endgame,avengers endgame,2019,18.75
-2,57,Frozen II,frozen ii,2019,Avengers: Endgame,avengers endgame,2019,18.75
-27,57,Knives Out,knives out,2019,Avengers: Endgame,avengers endgame,2019,18.75
-24,57,Shazam!,shazam,2019,Avengers: Endgame,avengers endgame,2019,18.75
-83,57,Qu'est-ce qu'on a encore fait au bon dieu?,questce quon a encore fait au bon dieu,2019,Avengers: Endgame,avengers endgame,2019,18.42105263157895
-735,79,A Writer’s Odyssey (刺杀小说家),a writers odyssey,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-707,79,Godzilla vs. Kong,godzilla vs kong,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-712,79,Black Widow,black widow,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-722,79,Chinese Doctors,chinese doctors,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-779,79,King Richard,king richard,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-428,131,A Place Called Silence (默杀),a place called silence,2024,The Iron Claw,the iron claw,2024,18.181818181818176
-505,92,Jurassic World Rebirth,jurassic world rebirth,2025,Sinners,sinners,2025,18.181818181818176
-782,79,Nomadland,nomadland,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-751,79,Mortal Kombat,mortal kombat,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-721,79,Ghostbusters: Afterlife,ghostbusters afterlife,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-730,79,PAW Patrol: The Movie,paw patrol the movie,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-725,79,Fireflies in the Sun (误杀2),fireflies in the sun,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-788,79,Posledniy bogatyr 3,posledniy bogatyr,2021,Those Who Wish Me Dead,those who wish me dead,2021,18.181818181818176
-100,80,Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train (劇場版「鬼滅の刃」 無限列車編),demon slayer kimetsu no yaibathe movie mugen train,2020,The Gentlemen,the gentlemen,2020,18.000000000000004
-156,80,Digimon Adventure: Last Evolution Kizuna,digimon adventure last evolution kizuna,2020,The Gentlemen,the gentlemen,2020,17.948717948717952
-165,80,Gekijouban Violet Evergarden,gekijouban violet evergarden,2020,The Gentlemen,the gentlemen,2020,17.85714285714286
-26,57,John Wick: Chapter 3 — Parabellum,john wick chapter parabellum,2019,Avengers: Endgame,avengers endgame,2019,17.85714285714286
-22,117,Once Upon a Time…in Hollywood,once upon a timein hollywood,2019,Ready or Not,ready or not,2019,17.85714285714286
-133,91,Trolls: World Tour,trolls world tour,2020,His House,his house,2020,17.647058823529417
-29,57,Fei Chi Ren Sheng,fei chi ren sheng,2019,Avengers: Endgame,avengers endgame,2019,17.647058823529417
-275,63,Orphan: First Kill,orphan first kill,2022,Barbarian,barbarian,2022,17.647058823529417
-76,57,Shi Tu Xing Zhe 2 Die Ying Xing Dong,shi tu xing zhe die ying xing dong,2019,Avengers: Endgame,avengers endgame,2019,17.647058823529417
-94,117,Happy Death Day 2U,happy death day u,2019,Ready or Not,ready or not,2019,17.647058823529417
-250,63,Zui Leng De Qiang (狙击手),zui leng de qiang,2022,Barbarian,barbarian,2022,17.647058823529417
-299,63,Sǎo Hēi Xíng Dòng (扫黑行动),sao hei xing dong,2022,Barbarian,barbarian,2022,17.647058823529417
-99,57,Playing with Fire,playing with fire,2019,Avengers: Endgame,avengers endgame,2019,17.647058823529417
-238,63,Where the Crawdads Sing,where the crawdads sing,2022,Barbarian,barbarian,2022,17.391304347826086
-249,63,Downton Abbey: A New Era,downton abbey a new era,2022,Barbarian,barbarian,2022,17.391304347826086
-200,63,Avatar: The Way of Water,avatar the way of water,2022,Barbarian,barbarian,2022,17.391304347826086
-765,79,Wo Yao Wo Men Zai Yi Qi,wo yao wo men zai yi qi,2021,Those Who Wish Me Dead,those who wish me dead,2021,17.391304347826086
-202,63,Jurassic World: Dominion,jurassic world dominion,2022,Barbarian,barbarian,2022,17.391304347826086
-13,117,How to Train Your Dragon: The Hidden World,how to train your dragon the hidden world,2019,Ready or Not,ready or not,2019,17.07317073170732
-32,117,Parasite (기생충),parasite,2019,Ready or Not,ready or not,2019,16.666666666666664
-219,63,The Bad Guys,the bad guys,2022,Barbarian,barbarian,2022,16.666666666666664
-729,79,Peter Rabbit 2: The Runaway,peter rabbit the runaway,2021,Those Who Wish Me Dead,those who wish me dead,2021,16.666666666666664
-415,139,Pegasus 2 (飞驰人生2),pegasus,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-406,139,Dune: Part Two,dune part two,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-45,117,Yip Man 4,yip man,2019,Ready or Not,ready or not,2019,16.666666666666664
-47,117,Rocketman,rocketman,2019,Ready or Not,ready or not,2019,16.666666666666664
-35,117,Dark Phoenix,dark phoenix,2019,Ready or Not,ready or not,2019,16.666666666666664
-267,63,Hansan Yongeui Chulhyeon (한산: 용의 출현),hansan yongeui chulhyeon,2022,Barbarian,barbarian,2022,16.666666666666664
-446,139,Longlegs,longlegs,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-402,139,Moana 2,moana,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-457,139,Challengers,challengers,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-198,80,Agent Backkom: King’s Bear,agent backkom kings bear,2020,The Gentlemen,the gentlemen,2020,16.666666666666664
-432,139,Nosferatu,nosferatu,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-82,117,Jojo Rabbit,jojo rabbit,2019,Ready or Not,ready or not,2019,16.666666666666664
-110,80,Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn),birds of prey and the fantabulous emancipation of one harley quinn,2020,The Gentlemen,the gentlemen,2020,16.666666666666664
-208,63,The Battle at Lake Changjin II (长津湖之水门桥),the battle at lake changjin ii,2022,Barbarian,barbarian,2022,16.666666666666664
-455,139,Argylle,argylle,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-476,139,Night Swim,night swim,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-139,91,Ji Xian Feng,ji xian feng,2020,His House,his house,2020,16.666666666666664
-441,139,Smile 2,smile,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-473,139,Anora,anora,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-260,63,Li Mao Huan Tai Zi (李茂换太子),li mao huan tai zi,2022,Barbarian,barbarian,2022,16.666666666666664
-263,63,Someday or One Day (想见你),someday or one day,2022,Barbarian,barbarian,2022,16.666666666666664
-413,139,YOLO (热辣滚烫),yolo,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-409,131,Sonic the Hedgehog 3,sonic the hedgehog,2024,The Iron Claw,the iron claw,2024,16.666666666666664
-290,63,Mrs. Harris Goes to Paris,mrs harris goes to paris,2022,Barbarian,barbarian,2022,16.666666666666664
-73,117,Good Boys,good boys,2019,Ready or Not,ready or not,2019,16.666666666666664
-6,117,Toy Story 4,toy story,2019,Ready or Not,ready or not,2019,16.666666666666664
-231,63,Ticket to Paradise,ticket to paradise,2022,Barbarian,barbarian,2022,16.666666666666664
-19,57,Alita: Battle Angel,alita battle angel,2019,Avengers: Endgame,avengers endgame,2019,16.666666666666664
-25,117,Dumbo,dumbo,2019,Ready or Not,ready or not,2019,16.666666666666664
-487,139,Blink Twice,blink twice,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-493,139,Abigail,abigail,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-466,131,Formed Police Unit (维和防暴队),formed police unit,2024,The Iron Claw,the iron claw,2024,16.666666666666664
-159,80,Jiko Bukken: Kowai Madori,jiko bukken kowai madori,2020,The Gentlemen,the gentlemen,2020,16.666666666666664
-450,139,Mean Girls,mean girls,2024,Godzilla Minus One,godzilla minus one,2024,16.666666666666664
-157,80,New Interpretations Records of the Three Kingdoms,new interpretations records of the three kingdoms,2020,The Gentlemen,the gentlemen,2020,16.326530612244895
-418,46,Twisters,twisters,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,16.216216216216218
-463,46,Speak No Evil,speak no evil,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,16.216216216216218
-190,80,Gekijouban Poketto monsutâ: koko,gekijouban poketto monsuta koko,2020,The Gentlemen,the gentlemen,2020,16.129032258064512
-131,80,Ru Guo Sheng Yin Bu Ji De,ru guo sheng yin bu ji de,2020,The Gentlemen,the gentlemen,2020,16.000000000000004
-270,63,The Banshees of Inisherin,the banshees of inisherin,2022,Barbarian,barbarian,2022,16.000000000000004
-286,63,Triangle of Sadness,triangle of sadness,2022,Barbarian,barbarian,2022,15.789473684210531
-138,91,Yi Dian Jiu Dao Jia,yi dian jiu dao jia,2020,His House,his house,2020,15.789473684210531
-287,63,Píng Fán Yīng Xióng (平凡英雄),ping fan ying xiong,2022,Barbarian,barbarian,2022,15.789473684210531
-218,63,The First Slam Dunk,the first slam dunk,2022,Barbarian,barbarian,2022,15.789473684210531
-185,80,Ogon,ogon,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-460,131,Exhuma (파묘),exhuma,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-145,80,Peninsula,peninsula,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-134,91,I’m From Today!,im from today,2020,His House,his house,2020,15.384615384615385
-130,80,Tolo Tolo,tolo tolo,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-195,80,Come Play,come play,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-196,80,Dogol,dogol,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-404,131,Wicked,wicked,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-126,80,Mulan,mulan,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-121,80,Chu bao,chu bao,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-151,80,Soul Snatcher,soul snatcher,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-173,80,Stillwater,stillwater,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-152,80,Emma.,emma,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-469,131,Babygirl,babygirl,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-485,131,Upstream (逆行人生),upstream,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-490,131,Decoded (解密),decoded,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-495,131,High Forces (危机航线),high forces,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-68,117,Geukhanjikeob,geukhanjikeob,2019,Ready or Not,ready or not,2019,15.384615384615385
-298,63,Shi Nian Yi Pin Wen Ru Yan (十年一品温如言),shi nian yi pin wen ru yan,2022,Barbarian,barbarian,2022,15.384615384615385
-143,80,Unhinged,unhinged,2020,The Gentlemen,the gentlemen,2020,15.384615384615385
-481,131,Bureau 749 (749局),bureau,2024,The Iron Claw,the iron claw,2024,15.384615384615385
-146,80,Namsaneui Bujangdeul,namsaneui bujangdeul,2020,The Gentlemen,the gentlemen,2020,15.000000000000002
-182,80,Padre no hay más que uno 2: La llegada de la suegra,padre no hay mas que uno la llegada de la suegra,2020,The Gentlemen,the gentlemen,2020,14.583333333333337
-207,63,Thor: Love and Thunder,thor love and thunder,2022,Barbarian,barbarian,2022,14.28571428571429
-129,91,Mu Yu Zhi Wang,mu yu zhi wang,2020,His House,his house,2020,14.28571428571429
-132,91,Fantasy Island,fantasy island,2020,His House,his house,2020,14.28571428571429
-752,128,Candyman,candyman,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-4,117,Captain Marvel,captain marvel,2019,Ready or Not,ready or not,2019,14.28571428571429
-723,128,Jujutsu Kaisen 0,jujutsu kaisen,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-741,128,My Love (你的婚礼),my love,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-15,117,It: Chapter Two,it chapter two,2019,Ready or Not,ready or not,2019,14.28571428571429
-791,128,Malignant,malignant,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-790,128,Antlers,antlers,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-764,128,Nobody,nobody,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-141,80,Eiga Doraemon: Nobita no shin kyôryû,eiga doraemon nobita no shin kyoryu,2020,The Gentlemen,the gentlemen,2020,14.28571428571429
-710,128,Sing 2,sing,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-247,63,Dragon Ball Super: Super Hero (ラゴンボール超 スーパーヒーロー),dragon ball super super hero,2022,Barbarian,barbarian,2022,14.28571428571429
-245,63,Halloween Ends,halloween ends,2022,Barbarian,barbarian,2022,14.28571428571429
-716,128,Cruella,cruella,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-248,63,The Woman King,the woman king,2022,Barbarian,barbarian,2022,14.28571428571429
-700,128,Spider-Man: No Way Home,spiderman no way home,2021,Run Hide Fight,run hide fight,2021,14.28571428571429
-64,117,Last Christmas,last christmas,2019,Ready or Not,ready or not,2019,14.28571428571429
-108,91,Song Ni Yi Duo Xiao Hong Hua,song ni yi duo xiao hong hua,2020,His House,his house,2020,14.28571428571429
-780,79,Spiral,spiral,2021,Those Who Wish Me Dead,those who wish me dead,2021,13.636363636363635
-778,79,Nightmare Alley,nightmare alley,2021,Those Who Wish Me Dead,those who wish me dead,2021,13.636363636363635
-283,63,The Bob’s Burgers Movie,the bobs burgers movie,2022,Barbarian,barbarian,2022,13.636363636363635
-269,63,gongjo 2 inteonaesyeonal (공조2:인터내셔날),gongjo inteonaesyeonal,2022,Barbarian,barbarian,2022,13.636363636363635
-452,46,Stree 2,stree,2024,The Ministry of Ungentlemanly Warfare,the ministry of ungentlemanly warfare,2024,13.513513513513509
-284,63,Detective Conan: The Bride of Halloween,detective conan the bride of halloween,2022,Barbarian,barbarian,2022,13.157894736842103
-168,80,Gekijouban Fate/Stay Night: Heaven’s Feel — III. Spring Song,gekijouban fatestay night heavens feel iii spring song,2020,The Gentlemen,the gentlemen,2020,12.962962962962965
-281,63,Roald Dahl’s Matilda The Musical,roald dahls matilda the musical,2022,Barbarian,barbarian,2022,12.903225806451612
-279,63,Paws of Fury: The Legend of Hank,paws of fury the legend of hank,2022,Barbarian,barbarian,2022,12.903225806451612
-60,57,Midway,midway,2019,Avengers: Endgame,avengers endgame,2019,12.5
-34,57,Glass,glass,2019,Avengers: Endgame,avengers endgame,2019,12.5
-42,57,Wu Sha,wu sha,2019,Avengers: Endgame,avengers endgame,2019,12.5
-5,57,Joker,joker,2019,Avengers: Endgame,avengers endgame,2019,12.5
-80,57,Crawl,crawl,2019,Avengers: Endgame,avengers endgame,2019,12.5
-98,57,Bombshell,bombshell,2019,Avengers: Endgame,avengers endgame,2019,12.5
-93,57,ek-si-teu,eksiteu,2019,Avengers: Endgame,avengers endgame,2019,12.5
-90,57,Doctor Sleep,doctor sleep,2019,Avengers: Endgame,avengers endgame,2019,12.5
-44,57,Downton Abbey,downton abbey,2019,Avengers: Endgame,avengers endgame,2019,12.5
-237,63,Everything Everywhere All At Once,everything everywhere all at once,2022,Barbarian,barbarian,2022,12.121212121212121
-285,63,Wai tai kong de mo zha te,wai tai kong de mo zha te,2022,Barbarian,barbarian,2022,12.0
-241,63,A Man Called Otto,a man called otto,2022,Barbarian,barbarian,2022,11.764705882352944
-78,57,Xīn xǐjù zhī wáng,xin xiju zhi wang,2019,Avengers: Endgame,avengers endgame,2019,11.764705882352944
-240,63,Death on the Nile,death on the nile,2022,Barbarian,barbarian,2022,11.764705882352944
-203,63,Doctor Strange in the Multiverse of Madness,doctor strange in the multiverse of madness,2022,Barbarian,barbarian,2022,11.627906976744185
-199,91,Ducobu 3,ducobu,2020,His House,his house,2020,11.111111111111116
-209,63,Puss in Boots: The Last Wish,puss in boots the last wish,2022,Barbarian,barbarian,2022,11.111111111111116
-158,91,Druk,druk,2020,His House,his house,2020,11.111111111111116
-181,91,Minari,minari,2020,His House,his house,2020,11.111111111111116
-642,62,V (空枪),v,2026,Leviticus,leviticus,2026,11.111111111111116
-154,91,Lyod 2,lyod,2020,His House,his house,2020,11.111111111111116
-414,139,Successor (抓娃娃),successor,2024,Godzilla Minus One,godzilla minus one,2024,11.111111111111116
-297,63,Olppaemi (올빼미),olppaemi,2022,Barbarian,barbarian,2022,11.111111111111116
-222,63,Lightyear,lightyear,2022,Barbarian,barbarian,2022,11.111111111111116
-224,63,Smile,smile,2022,Barbarian,barbarian,2022,11.111111111111116
-217,63,Elvis,elvis,2022,Barbarian,barbarian,2022,11.111111111111116
-226,63,Nice View (奇迹・笨小孩),nice view,2022,Barbarian,barbarian,2022,11.111111111111116
-292,63,Tadeo Jones 3: la maldición de la momia,tadeo jones la maldicion de la momia,2022,Barbarian,barbarian,2022,11.111111111111116
-255,63,"Ge, ni hao (哥，你好)",ge ni hao,2022,Barbarian,barbarian,2022,11.111111111111116
-242,63,"Lyle, Lyle, Crocodile",lyle lyle crocodile,2022,Barbarian,barbarian,2022,10.526315789473683
-289,63,BTS Permission to Dance on Stage Seoul — Live Viewing,bts permission to dance on stage seoul live viewing,2022,Barbarian,barbarian,2022,9.80392156862745
-211,63,Fantastic Beasts: The Secrets of Dumbledore,fantastic beasts the secrets of dumbledore,2022,Barbarian,barbarian,2022,9.523809523809524
-296,63,Operation Fortune: Ruse de guerre,operation fortune ruse de guerre,2022,Barbarian,barbarian,2022,9.375
-264,63,Whitney Houston: I Wanna Dance With Somebody,whitney houston i wanna dance with somebody,2022,Barbarian,barbarian,2022,9.302325581395355
-711,79,Eternals,eternals,2021,Those Who Wish Me Dead,those who wish me dead,2021,9.090909090909093
-234,63,K.G.F: Chapter 2,kgf chapter,2022,Barbarian,barbarian,2022,9.090909090909093
-750,79,Old,old,2021,Those Who Wish Me Dead,those who wish me dead,2021,9.090909090909093
-760,79,Belle (竜とそばかすの姫),belle,2021,Those Who Wish Me Dead,those who wish me dead,2021,9.090909090909093
-223,63,Home Coming (万里归途),home coming,2022,Barbarian,barbarian,2022,9.090909090909093
-243,63,The Roundup (범죄도시2),the roundup,2022,Barbarian,barbarian,2022,9.090909090909093
-204,63,Minions: The Rise of Gru,minions the rise of gru,2022,Barbarian,barbarian,2022,8.695652173913048
-225,63,DC League of Super Pets,dc league of super pets,2022,Barbarian,barbarian,2022,8.695652173913048
-87,117,Cats,cats,2019,Ready or Not,ready or not,2019,8.333333333333337
-215,63,Ji Su Shi Ke (这个杀手不太冷静),ji su shi ke,2022,Barbarian,barbarian,2022,8.333333333333337
-170,80,Freaky,freaky,2020,The Gentlemen,the gentlemen,2020,7.692307692307687
-163,80,Yarn,yarn,2020,The Gentlemen,the gentlemen,2020,7.692307692307687
-257,63,Violent Night,violent night,2022,Barbarian,barbarian,2022,7.692307692307687
-259,63,Strange World,strange world,2022,Barbarian,barbarian,2022,7.692307692307687
-115,80,Onward,onward,2020,The Gentlemen,the gentlemen,2020,7.692307692307687
-431,131,IF,if,2024,The Iron Claw,the iron claw,2024,7.692307692307687
-228,63,The Lost City,the lost city,2022,Barbarian,barbarian,2022,7.692307692307687
-768,128,Luca,luca,2021,Run Hide Fight,run hide fight,2021,7.14285714285714
-221,63,Rénshēng dàshì (人生大事),rensheng dashi,2022,Barbarian,barbarian,2022,7.14285714285714
-715,128,Encanto,encanto,2021,Run Hide Fight,run hide fight,2021,7.14285714285714
-272,63,Jué Wàng Zhǔ Fū (绝望主夫),jue wang zhu fu,2022,Barbarian,barbarian,2022,6.666666666666665
-30,57,Us,us,2019,Avengers: Endgame,avengers endgame,2019,6.25
-277,63,Prey for the Devil,prey for the devil,2022,Barbarian,barbarian,2022,5.555555555555558
-227,63,One Piece Film: Red,one piece film red,2022,Barbarian,barbarian,2022,5.555555555555558
-252,63,Nian Qing De Gu Shi (四海),nian qing de gu shi,2022,Barbarian,barbarian,2022,5.263157894736848
-189,80,#salaissda,salaissda,2020,The Gentlemen,the gentlemen,2020,0.0
-288,63,heonteu (헌트),heonteu,2022,Barbarian,barbarian,2022,0.0
-268,63,The Whale,the whale,2022,Barbarian,barbarian,2022,0.0
-266,63,Moonfall,moonfall,2022,Barbarian,barbarian,2022,0.0
-256,63,The Menu,the menu,2022,Barbarian,barbarian,2022,0.0
-253,63,Dog,dog,2022,Barbarian,barbarian,2022,0.0
-230,63,Nope,nope,2022,Barbarian,barbarian,2022,0.0
-213,63,Sonic the Hedgehog 2,sonic the hedgehog,2022,Barbarian,barbarian,2022,0.0
-755,79,1921,,2021,Those Who Wish Me Dead,those who wish me dead,2021,0.0
-216,63,Suzume (すずめの戸締まり),suzume,2022,Barbarian,barbarian,2022,0.0
-21,57,1917,,2019,Avengers: Endgame,avengers endgame,2019,0.0
+0,0,Avengers: Endgame,avengers endgame,2019,Avengers: Endgame,avengers endgame,2019.0,100.0
+362,2661,Poor Things,poor things,2023,Poor Things,poor things,2023.0,100.0
+41,51,The Addams Family,the addams family,2019,The Addams Family,the addams family,2019.0,100.0
+39,13,Ford v. Ferrari,ford v ferrari,2019,Ford v Ferrari,ford v ferrari,2019.0,100.0
+38,65,Annabelle Comes Home,annabelle comes home,2019,Annabelle Comes Home,annabelle comes home,2019.0,100.0
+35,19,Dark Phoenix,dark phoenix,2019,Dark Phoenix,dark phoenix,2019.0,100.0
+33,24,Terminator: Dark Fate,terminator dark fate,2019,Terminator: Dark Fate,terminator dark fate,2019.0,100.0
+55,49,The Angry Birds Movie 2,the angry birds movie,2019,The Angry Birds Movie 2,the angry birds movie,2019.0,100.0
+48,71,Abominable,abominable,2019,Abominable,abominable,2019.0,100.0
+46,32,The LEGO Movie 2: The Second Part,the lego movie the second part,2019,The LEGO Movie 2: The Second Part,the lego movie the second part,2019.0,100.0
+44,121,Downton Abbey,downton abbey,2019,Downton Abbey,downton abbey,2019.0,100.0
+52,28,Spies in Disguise,spies in disguise,2019,Spies in Disguise,spies in disguise,2019.0,100.0
+79,70,Five Feet Apart,five feet apart,2019,Five Feet Apart,five feet apart,2019.0,100.0
+111,5311,Shock Wave 2 (拆彈專家2),shock wave,2020,Shock Wave 2,shock wave,2020.0,100.0
+486,3914,Tarot,tarot,2024,Tarot,tarot,2024.0,100.0
+74,34,Scary Stories to Tell in the Dark,scary stories to tell in the dark,2019,Scary Stories to Tell in the Dark,scary stories to tell in the dark,2019.0,100.0
+66,48,Dora and the Lost City of Gold,dora and the lost city of gold,2019,Dora and the Lost City of Gold,dora and the lost city of gold,2019.0,100.0
+63,61,Wonder Park,wonder park,2019,Wonder Park,wonder park,2019.0,100.0
+413,34371,YOLO (热辣滚烫),yolo,2024,YOLO,yolo,2024.0,100.0
+62,60,Zombieland: Double Tap,zombieland double tap,2019,Zombieland: Double Tap,zombieland double tap,2019.0,100.0
+61,91,The Upside,the upside,2019,The Upside,the upside,2019.0,100.0
+58,26,Angel Has Fallen,angel has fallen,2019,Angel Has Fallen,angel has fallen,2019.0,100.0
+57,114,Ad Astra,ad astra,2019,Ad Astra,ad astra,2019.0,100.0
+103,5029,Tenet,tenet,2020,Tenet,tenet,2020.0,100.0
+106,5040,Dolittle,dolittle,2020,Dolittle,dolittle,2020.0,100.0
+109,5036,The Croods: A New Age,the croods a new age,2020,The Croods: A New Age,the croods a new age,2020.0,100.0
+110,5031,Birds of Prey (And the Fantabulous Emancipation of One Harley Quinn),birds of prey and the fantabulous emancipation of one harley quinn,2020,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),birds of prey and the fantabulous emancipation of one harley quinn,2020.0,100.0
+604,33171,The Super Mario Galaxy Movie,the super mario galaxy movie,2026,The Super Mario Galaxy Movie,the super mario galaxy movie,2026.0,100.0
+112,5033,Wonder Woman 1984,wonder woman,2020,Wonder Woman 1984,wonder woman,2020.0,100.0
+97,42,Cold Pursuit,cold pursuit,2019,Cold Pursuit,cold pursuit,2019.0,100.0
+102,5032,Bad Boys For Life,bad boys for life,2020,Bad Boys for Life,bad boys for life,2020.0,100.0
+94,96,Happy Death Day 2U,happy death day u,2019,Happy Death Day 2U,happy death day u,2019.0,100.0
+95,316,White Snake (白蛇：缘起),white snake,2019,White Snake,white snake,2019.0,100.0
+90,46,Doctor Sleep,doctor sleep,2019,Doctor Sleep,doctor sleep,2019.0,100.0
+92,79,A Beautiful Day in the Neighborhood,a beautiful day in the neighborhood,2019,A Beautiful Day in the Neighborhood,a beautiful day in the neighborhood,2019.0,100.0
+86,80,A Dog’s Journey,a dogs journey,2019,A Dog's Journey,a dogs journey,2019.0,100.0
+85,95,A Dog’s Way Home,a dogs way home,2019,A Dog's Way Home,a dogs way home,2019.0,100.0
+603,33177,Michael,michael,2026,Michael,michael,2026.0,100.0
+602,33135,Toy Story 5,toy story,2026,Toy Story 5,toy story,2026.0,100.0
+82,36,Jojo Rabbit,jojo rabbit,2019,Jojo Rabbit,jojo rabbit,2019.0,100.0
+81,43,Rambo: Last Blood,rambo last blood,2019,Rambo: Last Blood,rambo last blood,2019.0,100.0
+661,33195,The Dog Stars,the dog stars,2026,The Dog Stars,the dog stars,2026.0,100.0
+660,33585,Border 2,border,2026,Border 2,border,2026.0,100.0
+11,23,Ne Zha (哪吒之魔童降世),ne zha,2019,Ne Zha,ne zha,2019.0,100.0
+9,18,Jumanji: The Next Level,jumanji the next level,2019,Jumanji: The Next Level,jumanji the next level,2019.0,100.0
+8,27,Aladdin,aladdin,2019,Aladdin,aladdin,2019.0,100.0
+7,8,Star Wars: The Rise of Skywalker,star wars the rise of skywalker,2019,Star Wars: The Rise of Skywalker,star wars the rise of skywalker,2019.0,100.0
+694,33287,They Will Kill You,they will kill you,2026,They Will Kill You,they will kill you,2026.0,100.0
+167,5044,Promising Young Woman,promising young woman,2020,Promising Young Woman,promising young woman,2020.0,100.0
+170,5059,Freaky,freaky,2020,Freaky,freaky,2020.0,100.0
+674,33391,Solo Mio,solo mio,2026,Solo Mio,solo mio,2026.0,100.0
+679,33249,Hokum,hokum,2026,Hokum,hokum,2026.0,100.0
+671,33215,Greenland 2: Migration,greenland migration,2026,Greenland 2: Migration,greenland migration,2026.0,100.0
+684,33460,EPiC: Elvis Presley in Concert,epic elvis presley in concert,2026,EPiC: Elvis Presley in Concert,epic elvis presley in concert,2026.0,100.0
+683,34074,Stray Kids: The DominATE experience,stray kids the dominate experience,2026,Stray Kids: The dominATE Experience,stray kids the dominate experience,2026.0,100.0
+624,33469,Scare Out (惊蛰无声),scare out,2026,Scare Out,scare out,2026.0,100.0
+625,33184,Insidious: Out of the Further,insidious out of the further,2026,Insidious: Out of the Further,insidious out of the further,2026.0,100.0
+626,33447,Dhurandhar: The Revenge,dhurandhar the revenge,2026,Dhurandhar: The Revenge,dhurandhar the revenge,2026.0,100.0
+627,33150,PAW Patrol: The Dino Movie,paw patrol the dino movie,2026,PAW Patrol: The Dino Movie,paw patrol the dino movie,2026.0,100.0
+628,34100,Boonie Bears: The Hidden Protector (熊出沒·年年有熊),boonie bears the hidden protector,2026,Boonie Bears: The Hidden Protector,boonie bears the hidden protector,2026.0,100.0
+629,33202,The Sheep Detectives,the sheep detectives,2026,The Sheep Detectives,the sheep detectives,2026.0,100.0
+630,33201,Mortal Kombat II,mortal kombat ii,2026,Mortal Kombat II,mortal kombat ii,2026.0,100.0
+148,5051,Honest Thief,honest thief,2020,Honest Thief,honest thief,2020.0,100.0
+689,33313,undertone,undertone,2026,undertone,undertone,2026.0,100.0
+153,5125,Like a Boss,like a boss,2020,Like a Boss,like a boss,2020.0,100.0
+688,33694,Salmokji: Whispering Water (살목지),salmokji whispering water,2026,Salmokji: Whispering Water,salmokji whispering water,2026.0,100.0
+673,33241,Jackass: Best and Last,jackass best and last,2026,Jackass: Best and Last,jackass best and last,2026.0,100.0
+136,5038,The New Mutants,the new mutants,2020,The New Mutants,the new mutants,2020.0,100.0
+140,5058,After We Collided,after we collided,2020,After We Collided,after we collided,2020.0,100.0
+619,33153,Disclosure Day,disclosure day,2026,Disclosure Day,disclosure day,2026.0,100.0
+621,33218,Scream 7,scream,2026,Scream 7,scream,2026.0,100.0
+617,33532,All Wishes Come True! (八仙！),all wishes come true,2026,All Wishes Come True!,all wishes come true,2026.0,100.0
+695,33529,Awarapan 2,awarapan,2026,Awarapan 2,awarapan,2026.0,100.0
+697,33169,Fall 2: Deadpoint,fall deadpoint,2026,Fall 2: Deadpoint,fall deadpoint,2026.0,100.0
+698,33487,I Can Only Imagine 2,i can only imagine,2026,I Can Only Imagine 2,i can only imagine,2026.0,100.0
+135,5049,Monster Hunter,monster hunter,2020,Monster Hunter,monster hunter,2020.0,100.0
+133,5030,Trolls: World Tour,trolls world tour,2020,Trolls World Tour,trolls world tour,2020.0,100.0
+137,5080,The War with Grandpa,the war with grandpa,2020,The War With Grandpa,the war with grandpa,2020.0,100.0
+616,33437,Dear You (给阿嬷的情书),dear you,2026,Dear You,dear you,2026.0,100.0
+611,33181,Hoppers,hoppers,2026,Hoppers,hoppers,2026.0,100.0
+610,33149,Backrooms,backrooms,2026,Backrooms,backrooms,2026.0,100.0
+615,33367,Once Upon A Time In The Middle East (欢迎来龙餐馆),once upon a time in the middle east,2026,Once Upon a Time in the Middle East,once upon a time in the middle east,2026.0,100.0
+612,33158,Star Wars: The Mandalorian and Grogu,star wars the mandalorian and grogu,2026,Star Wars: The Mandalorian and Grogu,star wars the mandalorian and grogu,2026.0,100.0
+605,33190,The Devil Wears Prada 2,the devil wears prada,2026,The Devil Wears Prada 2,the devil wears prada,2026.0,100.0
+606,33147,Project Hail Mary,project hail mary,2026,Project Hail Mary,project hail mary,2026.0,100.0
+607,33588,Pegasus 3 (飞驰人生3),pegasus,2026,Pegasus 3,pegasus,2026.0,100.0
+115,5034,Onward,onward,2020,Onward,onward,2020.0,100.0
+27,6,Knives Out,knives out,2019,Knives Out,knives out,2019.0,100.0
+26,10,John Wick: Chapter 3 — Parabellum,john wick chapter parabellum,2019,John Wick: Chapter 3 -- Parabellum,john wick chapter parabellum,2019.0,100.0
+31,41,Men in Black: International,men in black international,2019,Men in Black: International,men in black international,2019.0,100.0
+24,33,Shazam!,shazam,2019,Shazam!,shazam,2019.0,100.0
+16,17,The Secret Life of Pets 2,the secret life of pets,2019,The Secret Life of Pets 2,the secret life of pets,2019.0,100.0
+19,22,Alita: Battle Angel,alita battle angel,2019,Alita: Battle Angel,alita battle angel,2019.0,100.0
+21,1083,1917,,2019,3022,,2019.0,100.0
+12,160,The Wandering Earth (流浪地球),the wandering earth,2019,The Wandering Earth,the wandering earth,2019.0,100.0
+15,21,It: Chapter Two,it chapter two,2019,It: Chapter Two,it chapter two,2019.0,100.0
+14,29,Maleficent: Mistress of Evil,maleficent mistress of evil,2019,Maleficent: Mistress of Evil,maleficent mistress of evil,2019.0,100.0
+13,25,How to Train Your Dragon: The Hidden World,how to train your dragon the hidden world,2019,How to Train Your Dragon: The Hidden World,how to train your dragon the hidden world,2019.0,100.0
+6,4,Toy Story 4,toy story,2019,Toy Story 4,toy story,2019.0,100.0
+653,33356,Young Washington,young washington,2026,Young Washington,young washington,2026.0,100.0
+651,32251,Iron Lung,iron lung,2026,Iron Lung,iron lung,2026.0,100.0
+649,33133,Colony (군체),colony,2026,Colony,colony,2026.0,100.0
+648,33239,28 Years Later: The Bone Temple,years later the bone temple,2026,28 Years Later: The Bone Temple,years later the bone temple,2026.0,100.0
+217,2342,Elvis,elvis,2022,Elvis,elvis,2022.0,100.0
+2,5,Frozen II,frozen ii,2019,Frozen II,frozen ii,2019.0,100.0
+4,9,Captain Marvel,captain marvel,2019,Captain Marvel,captain marvel,2019.0,100.0
+656,33204,The Invite,the invite,2026,The Invite,the invite,2026.0,100.0
+665,33251,Return to Silent Hill,return to silent hill,2026,Return to Silent Hill,return to silent hill,2026.0,100.0
+666,33303,The Magic Faraway Tree,the magic faraway tree,2026,The Magic Faraway Tree,the magic faraway tree,2026.0,100.0
+239,2029,Scream,scream,2022,Scream,scream,2022.0,100.0
+640,33331,Reminders of Him,reminders of him,2026,Reminders of Him,reminders of him,2026.0,100.0
+634,33128,The End of Oak Street,the end of oak street,2026,The End of Oak Street,the end of oak street,2026.0,100.0
+636,33220,The Drama,the drama,2026,The Drama,the drama,2026.0,100.0
+638,33232,Send Help,send help,2026,Send Help,send help,2026.0,100.0
+639,33209,Lee Cronin’s The Mummy,lee cronins the mummy,2026,Lee Cronin's The Mummy,lee cronins the mummy,2026.0,100.0
+166,5128,Brahms: The Boy II,brahms the boy ii,2020,Brahms: The Boy II,brahms the boy ii,2020.0,100.0
+633,33480,The King’s Warden (왕과 사는 남자),the kings warden,2026,The King's Warden,the kings warden,2026.0,100.0
+186,180,The Personal History of David Copperfield,the personal history of david copperfield,2020,The Personal History of David Copperfield,the personal history of david copperfield,2020.0,100.0
+177,5082,I Still Believe,i still believe,2020,I Still Believe,i still believe,2020.0,100.0
+641,33179,Practical Magic 2,practical magic,2026,Practical Magic 2,practical magic,2026.0,100.0
+194,5072,News of the World,news of the world,2020,News of the World,news of the world,2020.0,100.0
+195,5302,Come Play,come play,2020,Come Play,come play,2020.0,100.0
+644,33129,Coyote vs. Acme,coyote vs acme,2026,Coyote vs. Acme,coyote vs acme,2026.0,100.0
+647,33172,Evil Dead Burn,evil dead burn,2026,Evil Dead Burn,evil dead burn,2026.0,100.0
+22,2,Once Upon a Time…in Hollywood,once upon a timein hollywood,2019,Once Upon a Time... In Hollywood,once upon a time in hollywood,2019.0,96.55172413793103
+676,33509,Billie Eilish: Hit Me Hard and Soft—The Tour,billie eilish hit me hard and softthe tour,2026,Billie Eilish - Hit Me Hard and Soft: The Tour (Live in 3D),billie eilish hit me hard and soft the tour live in d,2026.0,79.24528301886792
+580,32997,The Roses,the roses,2025,The Ruse,the ruse,2025.0,77.77777777777779
+40,279,Little Women,little women,2019,Little Joe,little joe,2019.0,75.0
+485,36741,Upstream (逆行人生),upstream,2024,Stream,stream,2024.0,75.0
+452,36741,Stree 2,stree,2024,Stream,stream,2024.0,66.66666666666667
+658,33206,Primate,primate,2026,Primetime,primetime,2026.0,66.66666666666667
+119,6191,The Call of the Wild,the call of the wild,2020,The Wall of Mexico,the wall of mexico,2020.0,65.0
+77,454,The Hustle,the hustle,2019,The Mustang,the mustang,2019.0,63.63636363636363
+369,33113,12.12: The Day (서울의 봄),the day,2023,The Old Way,the old way,2023.0,63.63636363636363
+655,33925,Night King (夜王),night king,2026,Night Stage,night stage,2026.0,63.63636363636363
+256,2860,The Menu,the menu,2022,The Son,the son,2022.0,62.5
+799,6206,The Last Duel,the last duel,2021,The Last Matinee,the last matinee,2021.0,62.5
+45,915,Yip Man 4,yip man,2019,Wish Man,wish man,2019.0,62.5
+149,499,The Witches,the witches,2020,The Whistlers,the whistlers,2020.0,61.53846153846154
+169,5116,The Turning,the turning,2020,The Silencing,the silencing,2020.0,61.53846153846154
+739,5419,The King’s Man,the kings man,2021,The Water Man,the water man,2021.0,61.53846153846154
+710,4420,Sing 2,sing,2021,99 Songs,songs,2021.0,60.0
+34,75,Glass,glass,2019,Klaus,klaus,2019.0,60.0
+144,885,The Father,the father,2020,The Dare,the dare,2020.0,60.0
+682,33204,The Bride!,the bride,2026,The Invite,the invite,2026.0,60.0
+798,293,The Unholy,the unholy,2021,The Tunnel,the tunnel,2021.0,60.0
+173,35819,Stillwater,stillwater,2020,Still Here,still here,2020.0,60.0
+197,5962,The Hunt,the hunt,2020,The Argument,the argument,2020.0,58.33333333333333
+328,3344,The Nun II,the nun ii,2023,The Mountain,the mountain,2023.0,58.33333333333333
+441,5297,Smile 2,smile,2024,Shirley,shirley,2024.0,57.14285714285714
+686,33266,To Your Island (去你的岛),to your island,2026,Spider Island,spider island,2026.0,57.14285714285714
+613,33713,Moana,moana,2026,Melania,melania,2026.0,57.14285714285714
+654,33181,Hope (호프),hope,2026,Hoppers,hoppers,2026.0,57.14285714285714
+608,33450,Minions & Monsters,minions monsters,2026,I Love Boosters,i love boosters,2026.0,56.25
+594,32552,Back to the Past (寻秦记),back to the past,2025,Down to the Felt,down to the felt,2025.0,56.25
+56,492,Hustlers,hustlers,2019,Dauntless,dauntless,2019.0,55.55555555555556
+581,32997,The Stage (戏台),the stage,2025,The Ruse,the ruse,2025.0,55.55555555555556
+730,5484,PAW Patrol: The Movie,paw patrol the movie,2021,SHIROBAKO The Movie,shirobako the movie,2021.0,55.00000000000001
+657,33216,The Furious (火遮眼),the furious,2026,The Get Out,the get out,2026.0,54.54545454545454
+243,2860,The Roundup (범죄도시2),the roundup,2022,The Son,the son,2022.0,54.54545454545454
+620,33469,Scary Movie,scary movie,2026,Scare Out,scare out,2026.0,54.54545454545454
+70,118,The Gentlemen,the gentlemen,2019,The Kitchen,the kitchen,2019.0,53.84615384615385
+1,139,The Lion King,the lion king,2019,The Good Liar,the good liar,2019.0,53.84615384615385
+516,32997,The Housemaid,the housemaid,2025,The Ruse,the ruse,2025.0,53.84615384615385
+678,34181,One Night Only,one night only,2026,All Night Wrong,all night wrong,2026.0,53.333333333333336
+693,33536,The Breadwinner,the breadwinner,2026,The Dreadful,the dreadful,2026.0,53.333333333333336
+659,36737,Crossing (四渡),crossing,2026,Crossing a Dawn,crossing a dawn,2026.0,53.333333333333336
+754,533,West Side Story,west side story,2021,Wet Season,wet season,2021.0,53.333333333333336
+89,3807,Charlie’s Angels,charlies angels,2019,What Lies Ahead,what lies ahead,2019.0,53.333333333333336
+99,4213,Playing with Fire,playing with fire,2019,Running With Beto,running with beto,2019.0,52.94117647058824
+797,6206,The Little Things,the little things,2021,The Last Matinee,the last matinee,2021.0,52.94117647058824
+690,33679,Hadestown: The Musical,hadestown the musical,2026,The Musical,the musical,2026.0,52.38095238095239
+635,34104,Masters of the Universe,masters of the universe,2026,Winter of the Crow,winter of the crow,2026.0,52.17391304347826
+42,23,Wu Sha,wu sha,2019,Ne Zha,ne zha,2019.0,50.0
+381,33113,The Goldfinger (金手指),the goldfinger,2023,The Old Way,the old way,2023.0,50.0
+415,1746,Pegasus 2 (飞驰人生2),pegasus,2024,Seagrass,seagrass,2024.0,50.0
+461,36741,Trap,trap,2024,Stream,stream,2024.0,50.0
+51,30,Gemini Man,gemini man,2019,The Irishman,the irishman,2019.0,50.0
+75,1540,Chong Ai,chong ai,2019,Changeland,changeland,2019.0,50.0
+492,34371,Kholop 2 (Холоп 2),kholop,2024,YOLO,yolo,2024.0,50.0
+481,36741,Bureau 749 (749局),bureau,2024,Stream,stream,2024.0,50.0
+493,36826,Abigail,abigail,2024,Animalia,animalia,2024.0,50.0
+582,32227,One of Them Days,one of them days,2025,The 8th Day,the th day,2025.0,50.0
+790,5411,Antlers,antlers,2021,Butchers,butchers,2021.0,50.0
+662,33872,Han Zhan 1994 (寒戰1994),han zhan,2026,Haiwaan,haiwaan,2026.0,50.0
+571,2631,The Monkey,the monkey,2025,The Banished,the banished,2025.0,50.0
+113,5772,Jin gang chuan,jin gang chuan,2020,Jiang Ziya,jiang ziya,2020.0,50.0
+532,2631,The Shadow’s Edge,the shadows edge,2025,The Banished,the banished,2025.0,50.0
+87,1552,Cats,cats,2019,Watson,watson,2019.0,50.0
+524,2631,The Bad Guys 2,the bad guys,2025,The Banished,the banished,2025.0,50.0
+601,33132,The Odyssey,the odyssey,2026,The Mongoose,the mongoose,2026.0,50.0
+330,948,Wish,wish,2023,Rise,rise,2023.0,50.0
+752,5842,Candyman,candyman,2021,Minyan,minyan,2021.0,50.0
+73,244,Good Boys,good boys,2019,Cold Blood,cold blood,2019.0,50.0
+669,32825,Buratino (Буратино),buratino,2026,Burt,burt,2026.0,50.0
+261,2860,The Northman,the northman,2022,The Son,the son,2022.0,50.0
+696,33133,Tony,tony,2026,Colony,colony,2026.0,50.0
+128,4847,Stand by Me Doraemon 2,stand by me doraemon,2020,Slay the Dragon,slay the dragon,2020.0,50.0
+118,3159,Soul,soul,2020,Coup 53,coup,2020.0,50.0
+773,500,In the Heights,in the heights,2021,Only the Animals,only the animals,2021.0,50.0
+30,1109,Us,us,2019,63 Up,up,2019.0,50.0
+126,5620,Mulan,mulan,2020,Amulet,amulet,2020.0,50.0
+229,3968,M3GAN,mgan,2022,Men,men,2022.0,50.0
+179,5085,The Night House,the night house,2020,The Midnight Sky,the midnight sky,2020.0,50.0
+163,6112,Yarn,yarn,2020,Nasrin,nasrin,2020.0,50.0
+180,4632,The Way Back,the way back,2020,The Dog Doc,the dog doc,2020.0,50.0
+206,2860,The Batman,the batman,2022,The Son,the son,2022.0,50.0
+650,33262,Mercy,mercy,2026,Verity,verity,2026.0,50.0
+652,34627,Shelter,shelter,2026,The Floaters,the floaters,2026.0,50.0
+758,5540,The Hitman’s Wife’s Bodyguard,the hitmans wifes bodyguard,2021,The Hidden Life of Trees,the hidden life of trees,2021.0,48.14814814814815
+622,33272,Blades of the Guardians (镖人：风起大漠),blades of the guardians,2026,Blades of the Guardians: Wind Rises in the Desert,blades of the guardians wind rises in the desert,2026.0,47.916666666666664
+43,6345,Weathering with You (天気の子),weathering with you,2019,Then Came You,then came you,2019.0,47.36842105263158
+174,272,The Story of Xi Bao,the story of xi bao,2020,The Vast of Night,the vast of night,2020.0,47.36842105263158
+631,33663,Resident Evil,resident evil,2026,The President's Cake,the presidents cake,2026.0,47.36842105263158
+772,5882,Don’t Breathe 2,dont breathe,2021,What Breaks the Ice,what breaks the ice,2021.0,47.36842105263158
+618,33556,“Wuthering Heights”,wuthering heights,2026,40 Dates and 40 Nights,dates and nights,2026.0,47.05882352941176
+479,36848,"I, The Executioner (베테랑2)",i the executioner,2024,The Union,the union,2024.0,47.05882352941176
+101,3450,The Eight Hundred (八佰),the eight hundred,2020,The Last Tree,the last tree,2020.0,47.05882352941176
+114,7,The Invisible Man,the invisible man,2020,The Gentlemen,the gentlemen,2020.0,47.05882352941176
+563,4498,The Lychee Road (长安的荔枝),the lychee road,2025,The Heirloom,the heirloom,2025.0,46.666666666666664
+91,3807,What Men Want,what men want,2019,What Lies Ahead,what lies ahead,2019.0,46.666666666666664
+685,33199,A Part of Me (想你了),a part of me,2026,I Want Your Sex,i want your sex,2026.0,46.666666666666664
+134,5267,I’m From Today!,im from today,2020,I'm Your Woman,im your woman,2020.0,46.15384615384615
+785,152,The Door Lock (门锁),the door lock,2021,The Courier,the courier,2021.0,46.15384615384615
+464,36848,The Substance,the substance,2024,The Union,the union,2024.0,46.15384615384615
+347,5342,Killers of the Flower Moon,killers of the flower moon,2023,Children of the Corn,children of the corn,2023.0,46.15384615384615
+54,1049,Yesterday,yesterday,2019,Western Stars,western stars,2019.0,46.15384615384615
+49,686,The White Storm 2: Drug Lords,the white storm drug lords,2019,The Death of Dick Long,the death of dick long,2019.0,46.15384615384615
+340,671,The Equalizer 3,the equalizer,2023,The Entity,the entity,2023.0,46.15384615384615
+380,3344,The Boogeyman,the boogeyman,2023,The Mountain,the mountain,2023.0,46.15384615384615
+155,5228,Gretel & Hansel,gretel hansel,2020,Hunter Hunter,hunter hunter,2020.0,46.15384615384615
+151,933,Soul Snatcher,soul snatcher,2020,Our Mothers,our mothers,2020.0,46.15384615384615
+482,36848,The Brutalist,the brutalist,2024,The Union,the union,2024.0,46.15384615384615
+573,32227,The Long Walk,the long walk,2025,The 8th Day,the th day,2025.0,46.15384615384615
+670,33473,Passenger,passenger,2026,Paper Tiger,paper tiger,2026.0,45.45454545454546
+556,32997,The Amateur,the amateur,2025,The Ruse,the ruse,2025.0,45.45454545454546
+643,33220,Cheburashka 2 (Чебурашка 2),cheburashka,2026,The Drama,the drama,2026.0,45.45454545454546
+178,4632,Red Dog,red dog,2020,The Dog Doc,the dog doc,2020.0,45.45454545454546
+184,5129,Firestarter,firestarter,2020,First Cow,first cow,2020.0,45.45454545454546
+28,1096,Crazy Alien (疯狂的外星人),crazy alien,2019,Casi fiel,casi fiel,2019.0,45.45454545454546
+327,33113,The Flash,the flash,2023,The Old Way,the old way,2023.0,45.45454545454546
+367,671,The Creator,the creator,2023,The Entity,the entity,2023.0,45.45454545454546
+508,32997,F1: The Movie,f the movie,2025,The Ruse,the ruse,2025.0,45.45454545454546
+383,33113,The Roundup: No Way Out (범죄도시3),the roundup no way out,2023,The Old Way,the old way,2023.0,45.45454545454546
+234,34814,K.G.F: Chapter 2,kgf chapter,2022,Sin Eater,sin eater,2022.0,45.45454545454546
+502,191,Avatar: Fire and Ash,avatar fire and ash,2025,An Officer and a Spy,an officer and a spy,2025.0,44.99999999999999
+17,326,"My People, My Country (我和我的祖国)",my people my country,2019,Wine Country,wine country,2019.0,44.99999999999999
+725,6004,Fireflies in the Sun (误杀2),fireflies in the sun,2021,The Man in the Hat,the man in the hat,2021.0,44.99999999999999
+161,5080,The Photograph,the photograph,2020,The War With Grandpa,the war with grandpa,2020.0,44.99999999999999
+336,34196,Trolls Band Together,trolls band together,2023,Better Together,better together,2023.0,44.99999999999999
+271,3848,Ambulance,ambulance,2022,Aline,aline,2022.0,44.44444444444444
+122,5237,Miracle In Cell No. 7,miracle in cell no,2020,Made in Italy,made in italy,2020.0,44.44444444444444
+646,33206,Crime 101,crime,2026,Primetime,primetime,2026.0,44.44444444444444
+791,5768,Malignant,malignant,2021,MAFIA INC,mafia inc,2021.0,44.44444444444444
+268,2860,The Whale,the whale,2022,The Son,the son,2022.0,44.44444444444444
+282,36633,Duan . Qiao (断·桥),duan qiao,2022,Plan A,plan a,2022.0,44.44444444444444
+145,5163,Peninsula,peninsula,2020,Tesla,tesla,2020.0,44.44444444444444
+105,4847,Sonic The Hedgehog,sonic the hedgehog,2020,Slay the Dragon,slay the dragon,2020.0,44.44444444444444
+276,1267,Barbarian,barbarian,2022,Breaking,breaking,2022.0,44.44444444444444
+98,336,Bombshell,bombshell,2019,Her Smell,her smell,2019.0,44.44444444444444
+176,5242,Hiteumaen,hiteumaen,2020,Fatman,fatman,2020.0,44.44444444444444
+60,14,Midway,midway,2019,Midsommar,midsommar,2019.0,44.44444444444444
+32,742,Parasite (기생충),parasite,2019,Pavarotti,pavarotti,2019.0,44.44444444444444
+47,784,Rocketman,rocketman,2019,Killerman,killerman,2019.0,44.44444444444444
+741,5428,My Love (你的婚礼),my love,2021,Baby Done,baby done,2021.0,44.44444444444444
+760,6069,Belle (竜とそばかすの姫),belle,2021,De Gaulle,de gaulle,2021.0,44.44444444444444
+80,2999,Crawl,crawl,2019,Screwball,screwball,2019.0,44.44444444444444
+130,5040,Tolo Tolo,tolo tolo,2020,Dolittle,dolittle,2020.0,44.44444444444444
+291,2029,Amsterdam,amsterdam,2022,Scream,scream,2022.0,44.44444444444444
+534,32427,Detective Conan: One-eyed Flashback (名探偵コナン　隻眼の残像（フラッシュバック）),detective conan oneeyed flashback,2025,Detective Kien: The Headless Horror,detective kien the headless horror,2025.0,44.11764705882353
+569,32398,The Legend of Hei 2 (罗小黑战记2),the legend of hei,2025,The Shepherd and the Bear,the shepherd and the bear,2025.0,43.99999999999999
+704,6206,F9: The Fast Saga,f the fast saga,2021,The Last Matinee,the last matinee,2021.0,43.75
+386,33113,The Color Purple,the color purple,2023,The Old Way,the old way,2023.0,43.75
+379,2661,No Hard Feelings,no hard feelings,2023,Poor Things,poor things,2023.0,43.75
+64,4835,Last Christmas,last christmas,2019,The Last Whistle,the last whistle,2019.0,43.75
+558,32774,Regretting You,regretting you,2025,Everything to Me,everything to me,2025.0,43.75
+191,5772,Jeongsang hoidam,jeongsang hoidam,2020,Jiang Ziya,jiang ziya,2020.0,43.75
+353,5342,Shazam! Fury of the Gods,shazam fury of the gods,2023,Children of the Corn,children of the corn,2023.0,43.47826086956522
+65,686,The Curse of La Llorona,the curse of la llorona,2019,The Death of Dick Long,the death of dick long,2019.0,43.47826086956522
+521,32345,Weapons,weapons,2025,Eephus,eephus,2025.0,42.85714285714286
+477,36848,The First Omen,the first omen,2024,The Union,the union,2024.0,42.85714285714286
+280,2860,The Invitation,the invitation,2022,The Son,the son,2022.0,42.85714285714286
+107,4548,Legend of Deification (姜子牙),legend of deification,2020,God of the Piano,god of the piano,2020.0,42.85714285714286
+5,239,Joker,joker,2019,Tolkien,tolkien,2019.0,42.85714285714286
+775,5189,Spirit Untamed,spirit untamed,2021,Saint Maud,saint maud,2021.0,42.85714285714286
+365,32196,Pathaan,pathaan,2023,Passion,passion,2023.0,42.85714285714286
+766,4309,Man in Love (當男人戀愛時),man in love,2021,I Am Not Alone,i am not alone,2021.0,42.85714285714286
+677,33813,Buddy,buddy,2026,Busboys,busboys,2026.0,42.85714285714286
+687,35013,"You, Me & Tuscany",you me tuscany,2026,You Can't Leave,you cant leave,2026.0,42.85714285714286
+248,1267,The Woman King,the woman king,2022,Breaking,breaking,2022.0,42.85714285714286
+623,36916,GOAT,goat,2026,Gym Rat,gym rat,2026.0,42.85714285714286
+632,33185,Supergirl,supergirl,2026,Super Troopers 3,super troopers,2026.0,42.85714285714286
+614,33563,Kung Fu Soccer (功夫女足),kung fu soccer,2026,Sunny Dancer,sunny dancer,2026.0,42.85714285714286
+702,5439,No Time to Die,no time to die,2021,Come True,come true,2021.0,42.85714285714286
+121,567,Chu bao,chu bao,2020,The Bra,the bra,2020.0,42.85714285714286
+595,2631,The Phoenician Scheme,the phoenician scheme,2025,The Banished,the banished,2025.0,42.85714285714286
+188,2531,Dam bo,dam bo,2020,The Box,the box,2020.0,42.85714285714286
+570,3339,The Fire Raven (匿杀),the fire raven,2025,Third Act,third act,2025.0,42.85714285714286
+667,33452,"Torrente, Presidente",torrente presidente,2026,Silent Friend,silent friend,2026.0,42.10526315789473
+192,5221,Feng ping lang jing,feng ping lang jing,2020,Four Kids and It,four kids and it,2020.0,42.10526315789473
+72,4,Pet Sematary,pet sematary,2019,Toy Story 4,toy story,2019.0,41.666666666666664
+519,32301,Sinners,sinners,2025,We Strangers,we strangers,2025.0,41.666666666666664
+382,33083,Last Suspect (拯救嫌疑人),last suspect,2023,Subject,subject,2023.0,41.666666666666664
+705,5896,Detective Chinatown 3 (唐人街探案3),detective chinatown,2021,Poupelle of Chimney Town,poupelle of chimney town,2021.0,41.666666666666664
+729,6004,Peter Rabbit 2: The Runaway,peter rabbit the runaway,2021,The Man in the Hat,the man in the hat,2021.0,41.666666666666664
+699,33427,Keep Real (特立独行),keep real,2026,Killer Whale,killer whale,2026.0,41.666666666666664
+430,4744,Red One,red one,2024,Murder Motel,murder motel,2024.0,41.666666666666664
+50,23,Pan Deng Zhe,pan deng zhe,2019,Ne Zha,ne zha,2019.0,41.666666666666664
+355,33113,One and Only (热烈),one and only,2023,The Old Way,the old way,2023.0,41.666666666666664
+312,3344,Elemental,elemental,2023,The Mountain,the mountain,2023.0,41.666666666666664
+338,3344,The Marvels,the marvels,2023,The Mountain,the mountain,2023.0,41.666666666666664
+20,246,Godzilla: King of the Monsters,godzilla king of the monsters,2019,Tell It to the Bees,tell it to the bees,2019.0,41.379310344827594
+127,5068,Yin-Yang Master I,yinyang master i,2020,Love and Monsters,love and monsters,2020.0,41.17647058823529
+29,280,Fei Chi Ren Sheng,fei chi ren sheng,2019,We Die Young,we die young,2019.0,41.17647058823529
+240,36485,Death on the Nile,death on the nile,2022,Dear Father,dear father,2022.0,41.17647058823529
+726,1279,The Suicide Squad,the suicide squad,2021,The Rookies,the rookies,2021.0,41.17647058823529
+763,5419,Sheng xia wei lai,sheng xia wei lai,2021,The Water Man,the water man,2021.0,41.17647058823529
+740,6206,The Addams Family 2,the addams family,2021,The Last Matinee,the last matinee,2021.0,41.17647058823529
+71,304,Boonie Bears: Blast Into The Past,boonie bears blast into the past,2019,We Have Always Lived in the Castle,we have always lived in the castle,2019.0,41.17647058823529
+753,152,The Forever Purge,the forever purge,2021,The Courier,the courier,2021.0,41.17647058823529
+36,686,Lie huo ying xiong,lie huo ying xiong,2019,The Death of Dick Long,the death of dick long,2019.0,40.90909090909091
+703,6004,The Battle at Lake Changjin,the battle at lake changjin,2021,The Man in the Hat,the man in the hat,2021.0,40.74074074074075
+25,2476,Dumbo,dumbo,2019,Cubby,cubby,2019.0,40.0
+212,37039,Uncharted,uncharted,2022,Unsilenced,unsilenced,2022.0,40.0
+511,32801,Wicked: For Good,wicked for good,2025,Breed of Greed,breed of greed,2025.0,40.0
+645,33169,Vanishing Point (消失的人),vanishing point,2026,Fall 2: Deadpoint,fall deadpoint,2026.0,40.0
+214,36633,Black Adam,black adam,2022,Plan A,plan a,2022.0,40.0
+709,4038,Dune,dune,2021,Surge,surge,2021.0,40.0
+123,5379,Jin Ji Jiu Yuan,jin ji jiu yuan,2020,Jiu Jitsu,jiu jitsu,2020.0,40.0
+715,1311,Encanto,encanto,2021,The County,the county,2021.0,40.0
+142,3881,Greenland,greenland,2020,Jungleland,jungleland,2020.0,40.0
+583,191,A Writer’s Odyssey 2 (刺杀小说家2),a writers odyssey,2025,An Officer and a Spy,an officer and a spy,2025.0,40.0
+230,33049,Nope,nope,2022,Poser,poser,2022.0,40.0
+185,760,Ogon,ogon,2020,Recon,recon,2020.0,40.0
+224,3848,Smile,smile,2022,Aline,aline,2022.0,40.0
+233,2860,The Black Phone,the black phone,2022,The Son,the son,2022.0,40.0
+672,33231,Mutiny,mutiny,2026,Motor City,motor city,2026.0,40.0
+150,3159,Scoob!,scoob,2020,Coup 53,coup,2020.0,40.0
+152,5163,Emma.,emma,2020,Tesla,tesla,2020.0,40.0
+129,228,Mu Yu Zhi Wang,mu yu zhi wang,2020,Manou the Swift,manou the swift,2020.0,40.0
+393,5342,The Boys in the Boat,the boys in the boat,2023,Children of the Corn,children of the corn,2023.0,40.0
+500,32227,Ne Zha 2 (哪吒之魔童闹海),ne zha,2025,The 8th Day,the th day,2025.0,40.0
+568,2631,The Running Man,the running man,2025,The Banished,the banished,2025.0,40.0
+555,32259,The Naked Gun,the naked gun,2025,The Baltimorons,the baltimorons,2025.0,40.0
+554,32259,The Accountant 2,the accountant,2025,The Baltimorons,the baltimorons,2025.0,40.0
+535,32315,Elio,elio,2025,Relay,relay,2025.0,40.0
+553,32552,Downton Abbey: The Grand Finale,downton abbey the grand finale,2025,Down to the Felt,down to the felt,2025.0,40.0
+543,32880,Dhurandhar,dhurandhar,2025,Jatadhara,jatadhara,2025.0,40.0
+354,34196,Blue Beetle,blue beetle,2023,Better Together,better together,2023.0,40.0
+37,506,Shao Nian De Ni,shao nian de ni,2019,The Blonde One,the blonde one,2019.0,40.0
+422,3991,The Wild Robot,the wild robot,2024,The Six Triple Eight,the six triple eight,2024.0,40.0
+450,1746,Mean Girls,mean girls,2024,Seagrass,seagrass,2024.0,40.0
+779,5695,King Richard,king richard,2021,Howling Village,howling village,2021.0,40.0
+663,36553,Panda Plan 2: The Magical Tribe (熊猫计划之部落奇遇记),panda plan the magical tribe,2026,Gregg Allman: The Music of My Soul,gregg allman the music of my soul,2026.0,39.39393939393939
+3,334,Spider-Man: Far From Home,spiderman far from home,2019,Spider in the Web,spider in the web,2019.0,39.13043478260869
+600,33266,Spider-Man: Brand New Day,spiderman brand new day,2026,Spider Island,spider island,2026.0,39.13043478260869
+84,156,One Piece: Stampede (劇場版),one piece stampede,2019,Captive State,captive state,2019.0,38.888888888888886
+172,5269,Kaiji: Fainaru gêmu,kaiji fainaru gemu,2020,Kajillionaire,kajillionaire,2020.0,38.888888888888886
+308,33113,The Little Mermaid,the little mermaid,2023,The Old Way,the old way,2023.0,38.888888888888886
+359,5535,Detective Conan: Black Iron Submarine,detective conan black iron submarine,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,38.888888888888886
+541,32754,Bridget Jones: Mad About The Boy,bridget jones mad about the boy,2025,Kygo: Back at the Bowl,kygo back at the bowl,2025.0,38.70967741935484
+143,5228,Unhinged,unhinged,2020,Hunter Hunter,hunter hunter,2020.0,38.46153846153846
+397,33113,Asteroid City,asteroid city,2023,The Old Way,the old way,2023.0,38.46153846153846
+406,32910,Dune: Part Two,dune part two,2024,Separated,separated,2024.0,38.46153846153846
+717,5439,Jungle Cruise,jungle cruise,2021,Come True,come true,2021.0,38.46153846153846
+664,33422,The Amazing Digital Circus: The Last Act,the amazing digital circus the last act,2026,The Cat in the Hat,the cat in the hat,2026.0,38.46153846153846
+737,1095,Wo de jie jie,wo de jie jie,2021,Average Joe,average joe,2021.0,38.46153846153846
+751,5871,Mortal Kombat,mortal kombat,2021,Mogul Mowgli,mogul mowgli,2021.0,38.46153846153846
+257,4296,Violent Night,violent night,2022,Bar Fight!,bar fight,2022.0,38.46153846153846
+278,2860,The Fabelmans,the fabelmans,2022,The Son,the son,2022.0,38.46153846153846
+53,6345,Escape Room,escape room,2019,Then Came You,then came you,2019.0,38.46153846153846
+562,32956,A Working Man,a working man,2025,Leaving Mom,leaving mom,2025.0,38.46153846153846
+228,2860,The Lost City,the lost city,2022,The Son,the son,2022.0,38.46153846153846
+160,5269,Hamilton,hamilton,2020,Kajillionaire,kajillionaire,2020.0,38.46153846153846
+744,5528,Clifford the Big Red Dog,clifford the big red dog,2021,Shepherd: The Story of a Jewish Dog,shepherd the story of a jewish dog,2021.0,38.23529411764706
+514,32427,Detective Chinatown 1900 (唐人街探案1900),detective chinatown,2025,Detective Kien: The Headless Horror,detective kien the headless horror,2025.0,38.23529411764706
+700,4309,Spider-Man: No Way Home,spiderman no way home,2021,I Am Not Alone,i am not alone,2021.0,38.095238095238095
+69,822,Fan Tan Feng Bao 4,fan tan feng bao,2019,Framing John DeLorean,framing john delorean,2019.0,38.095238095238095
+565,32916,The King of Kings,the king of kings,2025,The Addiction of Hope,the addiction of hope,2025.0,38.095238095238095
+578,32916,The Dumpling Queen (水饺皇后),the dumpling queen,2025,The Addiction of Hope,the addiction of hope,2025.0,38.095238095238095
+531,36374,The SpongeBob Movie: Search for Squarepants,the spongebob movie search for squarepants,2025,The Rose: Come Back to Me,the rose come back to me,2025.0,38.095238095238095
+325,3344,The Boy and the Heron (君たちはどう生きるか),the boy and the heron,2023,The Mountain,the mountain,2023.0,38.095238095238095
+104,1814,Wo He Wo De Jia Xiang,wo he wo de jia xiang,2020,House of Cardin,house of cardin,2020.0,38.095238095238095
+720,6004,The Conjuring: The Devil Made Me Do It,the conjuring the devil made me do it,2021,The Man in the Hat,the man in the hat,2021.0,37.83783783783784
+701,3662,"Hi, Mom (你好, 李焕英)",hi mom,2021,The Jump,the jump,2021.0,37.5
+181,1091,Minari,minari,2020,Benjamin,benjamin,2020.0,37.5
+198,1243,Agent Backkom: King’s Bear,agent backkom kings bear,2020,Go Back to China,go back to china,2020.0,37.5
+59,198,Yin He Bu Xi Ban,yin he bu xi ban,2019,The Beach Bum,the beach bum,2019.0,37.5
+509,2760,Superman,superman,2025,Suze,suze,2025.0,37.5
+458,3991,"The Pig, the Snake and the Pigeon (周处除三害)",the pig the snake and the pigeon,2024,The Six Triple Eight,the six triple eight,2024.0,37.5
+527,36070,One Battle After Another,one battle after another,2025,"Little, Big, and Far",little big and far,2025.0,37.5
+451,1663,Conclave,conclave,2024,One Life,one life,2024.0,37.5
+590,32915,Jujutsu Kaisen: Execution,jujutsu kaisen execution,2025,Guns of Redemption,guns of redemption,2025.0,37.5
+579,32227,She’s Got No Name (酱园弄·悬案),shes got no name,2025,The 8th Day,the th day,2025.0,37.5
+210,36633,Moon Man (独行月球),moon man,2022,Plan A,plan a,2022.0,37.5
+711,500,Eternals,eternals,2021,Only the Animals,only the animals,2021.0,37.5
+708,5528,Shang-Chi and the Legend of the Ten Rings,shangchi and the legend of the ten rings,2021,Shepherd: The Story of a Jewish Dog,shepherd the story of a jewish dog,2021.0,37.5
+681,33005,Pressure,pressure,2026,DEVOUR,devour,2026.0,37.5
+196,5040,Dogol,dogol,2020,Dolittle,dolittle,2020.0,37.5
+577,32774,Gezhi Town (得闲谨制),gezhi town,2025,Everything to Me,everything to me,2025.0,37.5
+335,32196,Napoleon,napoleon,2023,Passion,passion,2023.0,37.5
+473,36826,Anora,anora,2024,Animalia,animalia,2024.0,37.5
+23,2279,Zhongguo jizhang,zhongguo jizhang,2019,Ring Ring,ring ring,2019.0,37.5
+783,6343,Tokyo Revengers (東京リベンジャーズ),tokyo revengers,2021,The Paper Tigers,the paper tigers,2021.0,37.5
+743,6206,Raya and the Last Dragon,raya and the last dragon,2021,The Last Matinee,the last matinee,2021.0,37.5
+93,2498,ek-si-teu,eksiteu,2019,Sprinter,sprinter,2019.0,37.5
+728,5419,The Matrix Resurrections,the matrix resurrections,2021,The Water Man,the water man,2021.0,37.5
+668,33356,Prostokvashino (Простоквашино),prostokvashino,2026,Young Washington,young washington,2026.0,37.5
+244,6220,Shen Tan Da Zhan (神探大战),shen tan da zhan,2022,She Said,she said,2022.0,37.5
+265,1267,Beast,beast,2022,Breaking,breaking,2022.0,37.5
+574,32552,Row to Win (浪浪人生),row to win,2025,Down to the Felt,down to the felt,2025.0,37.5
+290,5981,Mrs. Harris Goes to Paris,mrs harris goes to paris,2022,Most Guys Are Losers,most guys are losers,2022.0,37.5
+88,993,Tyler Perry’s A Madea Family Funeral,tyler perrys a madea family funeral,2019,The Meanest Man in Texas,the meanest man in texas,2019.0,37.142857142857146
+767,6231,Escape Room: Tournament of Champions,escape room tournament of champions,2021,Aalto: Architect of Emotions,aalto architect of emotions,2021.0,37.142857142857146
+637,35436,Meitantei Conan: Highway no Datenshi,meitantei conan highway no datenshi,2026,Om Shanti Shanti Shantihi,om shanti shanti shantihi,2026.0,37.142857142857146
+303,5342,Guardians of the Galaxy Vol 3,guardians of the galaxy vol,2023,Children of the Corn,children of the corn,2023.0,37.03703703703704
+358,5535,A Haunting in Venice,a haunting in venice,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,37.03703703703704
+793,3189,Ai Qing Shen Hua (爱情神话),ai qing shen hua,2021,Leaving Afghanistan,leaving afghanistan,2021.0,36.8421052631579
+287,325,Píng Fán Yīng Xióng (平凡英雄),ping fan ying xiong,2022,I'll Find You,ill find you,2022.0,36.8421052631579
+310,671,The Wandering Earth 2 (流浪地球2),the wandering earth,2023,The Entity,the entity,2023.0,36.8421052631579
+771,2624,The French Dispatch,the french dispatch,2021,The Columnist,the columnist,2021.0,36.8421052631579
+734,3189,Yang Ming Li Wan (扬名立万),yang ming li wan,2021,Leaving Afghanistan,leaving afghanistan,2021.0,36.8421052631579
+691,35956,Johnny Keep Walking! 2 (年会不能停！2),johnny keep walking,2026,On a String,on a string,2026.0,36.8421052631579
+157,213,New Interpretations Records of the Three Kingdoms,new interpretations records of the three kingdoms,2020,True History of the Kelly Gang,true history of the kelly gang,2020.0,36.73469387755102
+512,32916,The Fantastic Four: First Steps,the fantastic four first steps,2025,The Addiction of Hope,the addiction of hope,2025.0,36.66666666666667
+147,501,Daman Akeseo Guhasoseo,daman akeseo guhasoseo,2020,Ip Man: Kung Fu Master,ip man kung fu master,2020.0,36.36363636363637
+675,33935,Skazka o tsare Saltane (Сказка о царе Салтане),skazka o tsare saltane,2026,Aída y Vuelta,aida y vuelta,2026.0,36.36363636363637
+712,5428,Black Widow,black widow,2021,Baby Done,baby done,2021.0,36.36363636363637
+223,1267,Home Coming (万里归途),home coming,2022,Breaking,breaking,2022.0,36.36363636363637
+462,36848,The Roundup: Punishment (범죄도시4),the roundup punishment,2024,The Union,the union,2024.0,36.36363636363637
+498,32504,Last Mile (ラストマイル),last mile,2024,Lake George,lake george,2024.0,36.36363636363637
+787,4715,Da Hong Bao,da hong bao,2021,Dachra,dachra,2021.0,36.36363636363637
+560,33829,Buen Camino,buen camino,2025,Tenement,tenement,2025.0,36.36363636363637
+575,32552,Den of Thieves 2: Pantera,den of thieves pantera,2025,Down to the Felt,down to the felt,2025.0,36.36363636363637
+432,1468,Nosferatu,nosferatu,2024,Borderlands,borderlands,2024.0,36.36363636363637
+584,32276,Until Dawn,until dawn,2025,Unholy Song,unholy song,2025.0,36.36363636363637
+588,32997,Flight Risk,flight risk,2025,The Ruse,the ruse,2025.0,36.36363636363637
+537,32763,28 Years Later,years later,2025,Yamla,yamla,2025.0,36.36363636363637
+487,1663,Blink Twice,blink twice,2024,One Life,one life,2024.0,36.36363636363637
+117,5992,Zhong Guo Nu Pai,zhong guo nu pai,2020,The Wrong Wedding Planner,the wrong wedding planner,2020.0,36.0
+156,5543,Digimon Adventure: Last Evolution Kizuna,digimon adventure last evolution kizuna,2020,Disappearance at Clifton Hill,disappearance at clifton hill,2020.0,35.89743589743589
+221,6220,Rénshēng dàshì (人生大事),rensheng dashi,2022,She Said,she said,2022.0,35.71428571428571
+564,36374,The Volunteers: Peace at Last (志愿军浴血和平),the volunteers peace at last,2025,The Rose: Come Back to Me,the rose come back to me,2025.0,35.71428571428571
+796,5696,Licorice Pizza,licorice pizza,2021,Little Girl,little girl,2021.0,35.71428571428571
+132,525,Fantasy Island,fantasy island,2020,Aquaslash,aquaslash,2020.0,35.71428571428571
+373,32196,Moscow Mission (莫斯科行动),moscow mission,2023,Passion,passion,2023.0,35.71428571428571
+443,36848,The Prosecutor (误判),the prosecutor,2024,The Union,the union,2024.0,35.71428571428571
+540,32801,Tron: Ares,tron ares,2025,Breed of Greed,breed of greed,2025.0,35.71428571428571
+731,5501,House of Gucci,house of gucci,2021,Two of Us,two of us,2021.0,35.71428571428571
+175,1486,Adieu les cons,adieu les cons,2020,Desert One,desert one,2020.0,35.71428571428571
+165,4966,Gekijouban Violet Evergarden,gekijouban violet evergarden,2020,African Violet,african violet,2020.0,35.71428571428571
+746,5405,Meitantei Konan Hiiro no Dangan,meitantei konan hiiro no dangan,2021,The Woman Who Ran,the woman who ran,2021.0,35.483870967741936
+529,32393,Chainsaw Man — The Movie: Reze Arc (チェンソーマン レゼ篇),chainsaw man the movie reze arc,2025,Dominic and the Ladies' Purse,dominic and the ladies purse,2025.0,35.483870967741936
+572,34487,I Know What You Did Last Summer,i know what you did last summer,2025,"I Know Catherine, the Log Lady",i know catherine the log lady,2025.0,35.483870967741936
+735,5626,A Writer’s Odyssey (刺杀小说家),a writers odyssey,2021,Wife of a Spy,wife of a spy,2021.0,35.29411764705882
+201,5256,Top Gun: Maverick,top gun maverick,2022,Dinner in America,dinner in america,2022.0,35.29411764705882
+471,6277,Honey Money Phony (骗骗喜欢你),honey money phony,2024,Monkey Man,monkey man,2024.0,35.29411764705882
+472,36848,Kraven the Hunter,kraven the hunter,2024,The Union,the union,2024.0,35.29411764705882
+78,2279,Xīn xǐjù zhī wáng,xin xiju zhi wang,2019,Ring Ring,ring ring,2019.0,35.29411764705882
+164,5583,Yi miao zhong,yi miao zhong,2020,Critical Thinking,critical thinking,2020.0,35.29411764705882
+745,5508,Wrath of Man,wrath of man,2021,PG: Psycho Goreman,pg psycho goreman,2021.0,35.29411764705882
+736,6153,Tom and Jerry,tom and jerry,2021,The Violent Heart,the violent heart,2021.0,35.29411764705882
+530,32644,Predator: Badlands,predator badlands,2025,Retta Thala,retta thala,2025.0,35.29411764705882
+124,844,Zhong Guo he huo ren,zhong guo he huo ren,2020,Those Who Remained,those who remained,2020.0,35.0
+183,5494,Takizawa Enbujo Zero,takizawa enbujo zero,2020,Walkaway Joe,walkaway joe,2020.0,35.0
+395,5342,Knock at the Cabin,knock at the cabin,2023,Children of the Corn,children of the corn,2023.0,35.0
+425,3991,The Garfield Movie,the garfield movie,2024,The Six Triple Eight,the six triple eight,2024.0,35.0
+419,2008,Alien: Romulus,alien romulus,2024,Why Men Are Clueless,why men are clueless,2024.0,35.0
+433,3991,The Fall Guy,the fall guy,2024,The Six Triple Eight,the six triple eight,2024.0,35.0
+314,5342,Lost in the Stars (消失的她),lost in the stars,2023,Children of the Corn,children of the corn,2023.0,35.0
+331,5342,Sound of Freedom,sound of freedom,2023,Children of the Corn,children of the corn,2023.0,35.0
+356,5342,Hidden Blade (无名),hidden blade,2023,Children of the Corn,children of the corn,2023.0,35.0
+749,6004,Bai She 2: Qing She jie qi (白蛇2：青蛇劫起),bai she qing she jie qi,2021,The Man in the Hat,the man in the hat,2021.0,34.78260869565217
+765,464,Wo Yao Wo Men Zai Yi Qi,wo yao wo men zai yi qi,2021,Who You Think I Am,who you think i am,2021.0,34.78260869565217
+719,5506,Wo He Wo De Fu Be,wo he wo de fu be,2021,Days of the Bagnold Summer,days of the bagnold summer,2021.0,34.61538461538461
+329,5342,TAYLOR SWIFT | THE ERAS TOUR,taylor swift the eras tour,2023,Children of the Corn,children of the corn,2023.0,34.61538461538461
+298,5256,Shi Nian Yi Pin Wen Ru Yan (十年一品温如言),shi nian yi pin wen ru yan,2022,Dinner in America,dinner in america,2022.0,34.61538461538461
+706,35584,Venom: Let There be Carnage,venom let there be carnage,2021,Enfant Terrible,enfant terrible,2021.0,34.61538461538461
+236,5981,Boonie Bears: Back to Earth (熊出没·重返地球),boonie bears back to earth,2022,Most Guys Are Losers,most guys are losers,2022.0,34.61538461538461
+566,34342,Gabby’s Dollhouse: The Movie,gabbys dollhouse the movie,2025,Billy Idol Should Be Dead,billy idol should be dead,2025.0,34.61538461538461
+692,33973,How to Make a Killing,how to make a killing,2026,How to Divorce During the War,how to divorce during the war,2026.0,34.48275862068966
+599,34487,No Other Choice (어쩔수가없다),no other choice,2025,"I Know Catherine, the Log Lady",i know catherine the log lady,2025.0,34.48275862068966
+733,5623,The Boss Baby: Family Business,the boss baby family business,2021,The Truffle Hunters,the truffle hunters,2021.0,34.48275862068966
+10,1195,Fast & Furious Presents: Hobbs & Shaw,fast furious presents hobbs shaw,2019,Feast of the Seven Fishes,feast of the seven fishes,2019.0,34.375
+305,5342,Spider-Man: Across the Spider-Verse,spiderman across the spiderverse,2023,Children of the Corn,children of the corn,2023.0,34.375
+120,5349,Xiong Chu Mo: Kuang Ye Da Lu,xiong chu mo kuang ye da lu,2020,10 Things We Should Do Before We Break Up,things we should do before we break up,2020.0,34.210526315789465
+83,59,Qu'est-ce qu'on a encore fait au bon dieu?,questce quon a encore fait au bon dieu,2019,El Camino: A Breaking Bad Movie,el camino a breaking bad movie,2019.0,34.210526315789465
+561,32456,Legends of the Condor Heroes: The Gallants (射雕英雄传：侠之大者),legends of the condor heroes the gallants,2025,Evidence of the Boogeyman,evidence of the boogeyman,2025.0,34.14634146341463
+488,3991,The Strangers: Chapter 1,the strangers chapter,2024,The Six Triple Eight,the six triple eight,2024.0,33.333333333333336
+490,4744,Decoded (解密),decoded,2024,Murder Motel,murder motel,2024.0,33.333333333333336
+491,1746,Imaginary,imaginary,2024,Seagrass,seagrass,2024.0,33.333333333333336
+732,5405,Chuan Guo Han Dong Yong Bao Ni (穿过寒冬拥抱你),chuan guo han dong yong bao ni,2021,The Woman Who Ran,the woman who ran,2021.0,33.333333333333336
+466,1663,Formed Police Unit (维和防暴队),formed police unit,2024,One Life,one life,2024.0,33.333333333333336
+474,5236,Heretic,heretic,2024,Nowhere Special,nowhere special,2024.0,33.333333333333336
+465,1663,Terrifier 3,terrifier,2024,One Life,one life,2024.0,33.333333333333336
+323,32196,Migration,migration,2023,Passion,passion,2023.0,33.333333333333336
+116,6087,Warm Hug (温暖的抱抱),warm hug,2020,You Are My Home,you are my home,2020.0,33.333333333333336
+716,5443,Cruella,cruella,2021,Charlatan,charlatan,2021.0,33.333333333333336
+374,34196,Talk To Me,talk to me,2023,Better Together,better together,2023.0,33.333333333333336
+378,36046,Papa (学爸),papa,2023,Plan C,plan c,2023.0,33.333333333333336
+476,5236,Night Swim,night swim,2024,Nowhere Special,nowhere special,2024.0,33.333333333333336
+341,2661,Under the Light (坚如磐石),under the light,2023,Poor Things,poor things,2023.0,33.333333333333336
+363,32196,Haunted Mansion,haunted mansion,2023,Passion,passion,2023.0,33.333333333333336
+339,34588,PAW Patrol: The Mighty Movie,paw patrol the mighty movie,2023,What Is Love?,what is love,2023.0,33.333333333333336
+738,5402,Halloween Kills,halloween kills,2021,Joe Bell,joe bell,2021.0,33.333333333333336
+322,5188,Bā Jiǎo Lóng Zhōng (八角笼中),ba jiao long zhong,2023,Persian Lessons,persian lessons,2023.0,33.333333333333336
+718,5871,Nou fo,nou fo,2021,Mogul Mowgli,mogul mowgli,2021.0,33.333333333333336
+722,1279,Chinese Doctors,chinese doctors,2021,The Rookies,the rookies,2021.0,33.333333333333336
+724,6004,Xuan Ya Zhi Shang (悬崖之上),xuan ya zhi shang,2021,The Man in the Hat,the man in the hat,2021.0,33.333333333333336
+782,5398,Nomadland,nomadland,2021,Mama Weed,mama weed,2021.0,33.333333333333336
+350,671,The Exorcist: Believer,the exorcist believer,2023,The Entity,the entity,2023.0,33.333333333333336
+780,4038,Spiral,spiral,2021,Surge,surge,2021.0,33.333333333333336
+357,36046,Saw X,saw x,2023,Plan C,plan c,2023.0,33.333333333333336
+762,4309,Ron’s Gone Wrong,rons gone wrong,2021,I Am Not Alone,i am not alone,2021.0,33.333333333333336
+764,843,Nobody,nobody,2021,Mosley,mosley,2021.0,33.333333333333336
+756,533,New Gods: Nezha Reborn (新神榜：哪吒重生),new gods nezha reborn,2021,Wet Season,wet season,2021.0,33.333333333333336
+750,843,Old,old,2021,Mosley,mosley,2021.0,33.333333333333336
+255,36633,"Ge, ni hao (哥，你好)",ge ni hao,2022,Plan A,plan a,2022.0,33.333333333333336
+609,33468,Obsession,obsession,2026,OBEX,obex,2026.0,33.333333333333336
+258,36485,jackass forever,jackass forever,2022,Dear Father,dear father,2022.0,33.333333333333336
+747,2143,Fan Tan Feng Bao (G風暴),fan tan feng bao g,2021,In Full Bloom,in full bloom,2021.0,33.333333333333336
+18,629,Pokémon: Detective Pikachu,pokemon detective pikachu,2019,Anthem of a Teenage Prophet,anthem of a teenage prophet,2019.0,33.333333333333336
+769,555,Belfast,belfast,2021,Held for Ransom,held for ransom,2021.0,33.333333333333336
+768,4715,Luca,luca,2021,Dachra,dachra,2021.0,33.333333333333336
+585,33050,Dongji Island (东极岛),dongji island,2025,Morgan: Killer Doll,morgan killer doll,2025.0,33.333333333333336
+235,32260,RRR,rrr,2022,"""Sr.""",sr,2022.0,33.333333333333336
+231,5256,Ticket to Paradise,ticket to paradise,2022,Dinner in America,dinner in america,2022.0,33.333333333333336
+536,32227,Freakier Friday,freakier friday,2025,The 8th Day,the th day,2025.0,33.333333333333336
+139,530,Ji Xian Feng,ji xian feng,2020,Martin Eden,martin eden,2020.0,33.333333333333336
+370,2661,Shining For One Thing (一闪一闪亮星星),shining for one thing,2023,Poor Things,poor things,2023.0,33.333333333333336
+396,33113,I Did It My Way (潛行),i did it my way,2023,The Old Way,the old way,2023.0,33.333333333333336
+189,5726,#salaissda,salaissda,2020,SamSam,samsam,2020.0,33.333333333333336
+548,2760,Smurfs,smurfs,2025,Suze,suze,2025.0,33.333333333333336
+440,36848,A Complete Unknown,a complete unknown,2024,The Union,the union,2024.0,33.333333333333336
+550,32763,Hamnet,hamnet,2025,Yamla,yamla,2025.0,33.333333333333336
+293,32260,TÁR,tar,2022,"""Sr.""",sr,2022.0,33.333333333333336
+518,3339,Thunderbolts*,thunderbolts,2025,Third Act,third act,2025.0,33.333333333333336
+522,6251,Evil Unbound (731),evil unbound,2025,Cloud,cloud,2025.0,33.333333333333336
+517,32916,Dead To Rights (南京照相馆),dead to rights,2025,The Addiction of Hope,the addiction of hope,2025.0,33.333333333333336
+513,2631,The Conjuring: Last Rites,the conjuring last rites,2025,The Banished,the banished,2025.0,33.333333333333336
+528,32336,Disney’s Snow White,disneys snow white,2025,Diés Iraé,dies irae,2025.0,33.333333333333336
+533,32388,Creation of the Gods II: Demonic Confrontation (封神第二部：战火西岐),creation of the gods ii demonic confrontation,2025,National Theatre Live: Mrs. Warren's Profession,national theatre live mrs warrens profession,2025.0,33.333333333333336
+385,671,The Pope’s Exorcist,the popes exorcist,2023,The Entity,the entity,2023.0,33.333333333333336
+713,5439,Free Guy,free guy,2021,Come True,come true,2021.0,33.333333333333336
+193,5044,Samjingeurup yeongeotoikban,samjingeurup yeongeotoikban,2020,Promising Young Woman,promising young woman,2020.0,33.333333333333336
+199,760,Ducobu 3,ducobu,2020,Recon,recon,2020.0,33.333333333333336
+219,2860,The Bad Guys,the bad guys,2022,The Son,the son,2022.0,33.333333333333336
+587,32227,Operation Hadal (蛟龙行动),operation hadal,2025,The 8th Day,the th day,2025.0,33.333333333333336
+761,6004,Sao Hei Jue Zhan,sao hei jue zhan,2021,The Man in the Hat,the man in the hat,2021.0,33.333333333333336
+426,1663,Joker: Folie à Deux,joker folie a deux,2024,One Life,one life,2024.0,33.333333333333336
+209,5981,Puss in Boots: The Last Wish,puss in boots the last wish,2022,Most Guys Are Losers,most guys are losers,2022.0,33.333333333333336
+220,6220,Bullet Train,bullet train,2022,She Said,she said,2022.0,33.333333333333336
+539,32336,Dog Man,dog man,2025,Diés Iraé,dies irae,2025.0,33.333333333333336
+538,36210,Marty Supreme,marty supreme,2025,Magazine Dreams,magazine dreams,2025.0,33.333333333333336
+454,5236,Her Story (好东西),her story,2024,Nowhere Special,nowhere special,2024.0,33.333333333333336
+544,32880,Anaconda,anaconda,2025,Jatadhara,jatadhara,2025.0,33.333333333333336
+171,3450,"Ensemble, c’est tout",ensemble cest tout,2020,The Last Tree,the last tree,2020.0,33.333333333333336
+545,32580,Mickey 17,mickey,2025,Diesel,diesel,2025.0,33.333333333333336
+680,33445,It’s OK (我，许可),its ok,2026,Is God Is,is god is,2026.0,33.333333333333336
+226,2342,Nice View (奇迹・笨小孩),nice view,2022,Elvis,elvis,2022.0,33.333333333333336
+182,5747,Padre no hay más que uno 2: La llegada de la suegra,padre no hay mas que uno la llegada de la suegra,2020,Max Reload and the Nether Blasters,max reload and the nether blasters,2020.0,33.333333333333336
+187,1361,Nightlife,nightlife,2020,Archive,archive,2020.0,33.333333333333336
+300,948,Barbie,barbie,2023,Rise,rise,2023.0,33.333333333333336
+207,36485,Thor: Love and Thunder,thor love and thunder,2022,Dear Father,dear father,2022.0,33.333333333333336
+567,33829,Nuremberg,nuremberg,2025,Tenement,tenement,2025.0,33.333333333333336
+158,5059,Druk,druk,2020,Freaky,freaky,2020.0,33.333333333333336
+203,613,Doctor Strange in the Multiverse of Madness,doctor strange in the multiverse of madness,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,32.55813953488372
+776,5391,Resident Evil: Welcome to Raccoon City,resident evil welcome to raccoon city,2021,The Evil Next Door,the evil next door,2021.0,32.432432432432435
+319,5535,Indiana Jones and the Dial of Destiny,indiana jones and the dial of destiny,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,32.432432432432435
+542,36374,From the World of John Wick: Ballerina,from the world of john wick ballerina,2025,The Rose: Come Back to Me,the rose come back to me,2025.0,32.432432432432435
+108,611,Song Ni Yi Duo Xiao Hong Hua,song ni yi duo xiao hong hua,2020,The Short History of the Long Road,the short history of the long road,2020.0,32.35294117647059
+76,59,Shi Tu Xing Zhe 2 Die Ying Xing Dong,shi tu xing zhe die ying xing dong,2019,El Camino: A Breaking Bad Movie,el camino a breaking bad movie,2019.0,32.35294117647059
+190,3255,Gekijouban Poketto monsutâ: koko,gekijouban poketto monsuta koko,2020,Just One More Kiss,just one more kiss,2020.0,32.25806451612904
+497,3991,The Best Christmas Pageant Ever,the best christmas pageant ever,2024,The Six Triple Eight,the six triple eight,2024.0,32.25806451612904
+67,226,Meitantei Conan: Konjo no Fisuto,meitantei conan konjo no fisuto,2019,The Song of Names,the song of names,2019.0,32.25806451612904
+317,5342,Transformers: Rise of the Beasts,transformers rise of the beasts,2023,Children of the Corn,children of the corn,2023.0,32.25806451612904
+504,32393,A Minecraft Movie,a minecraft movie,2025,Dominic and the Ladies' Purse,dominic and the ladies purse,2025.0,32.14285714285714
+520,32916,Final Destination: Bloodlines,final destination bloodlines,2025,The Addiction of Hope,the addiction of hope,2025.0,32.14285714285714
+360,33113,Volunteer Soldiers Attack (志愿军：雄兵出击),volunteer soldiers attack,2023,The Old Way,the old way,2023.0,31.999999999999996
+270,5947,The Banshees of Inisherin,the banshees of inisherin,2022,Memories of My Father,memories of my father,2022.0,31.999999999999996
+159,5207,Jiko Bukken: Kowai Madori,jiko bukken kowai madori,2020,The Broken Hearts Gallery,the broken hearts gallery,2020.0,31.999999999999996
+727,5405,Space Jam: A New Legacy,space jam a new legacy,2021,The Woman Who Ran,the woman who ran,2021.0,31.818181818181824
+794,4820,Mi Mi Fang Ke,mi mi fang ke,2021,My Darling Supermarket,my darling supermarket,2021.0,31.818181818181824
+589,32388,Springsteen: Deliver Me From Nowhere,springsteen deliver me from nowhere,2025,National Theatre Live: Mrs. Warren's Profession,national theatre live mrs warrens profession,2025.0,31.818181818181824
+721,5182,Ghostbusters: Afterlife,ghostbusters afterlife,2021,Don't Tell a Soul,dont tell a soul,2021.0,31.818181818181824
+748,6015,Evangelion: 3.0+1.01 Thrice Upon a Time (シン・エヴァンゲリオン劇場版),evangelion thrice upon a time,2021,The Farmer and the Belle: Saving Santaland,the farmer and the belle saving santaland,2021.0,31.707317073170728
+742,1608,Ren Chao Xiong Yong,ren chao xiong yong,2021,Benny Loves You,benny loves you,2021.0,31.57894736842105
+781,500,Xiong Shi Shao Nian (雄狮少年),xiong shi shao nian,2021,Only the Animals,only the animals,2021.0,31.57894736842105
+345,5188,Rén Shēng Lù Bù Shú (人生路不熟),ren sheng lu bu shu,2023,Persian Lessons,persian lessons,2023.0,31.57894736842105
+242,36472,"Lyle, Lyle, Crocodile",lyle lyle crocodile,2022,Life After You,life after you,2022.0,31.57894736842105
+218,2860,The First Slam Dunk,the first slam dunk,2022,The Son,the son,2022.0,31.57894736842105
+390,5188,Jiāo Huàn Rén Shēng (交换人生),jiao huan ren sheng,2023,Persian Lessons,persian lessons,2023.0,31.57894736842105
+138,6168,Yi Dian Jiu Dao Jia,yi dian jiu dao jia,2020,Inside the Rain,inside the rain,2020.0,31.57894736842105
+252,325,Nian Qing De Gu Shi (四海),nian qing de gu shi,2022,I'll Find You,ill find you,2022.0,31.57894736842105
+759,5882,Wu Xian Shen Du,wu xian shen du,2021,What Breaks the Ice,what breaks the ice,2021.0,31.57894736842105
+434,1663,Bob Marley: One Love,bob marley one love,2024,One Life,one life,2024.0,31.57894736842105
+168,1089,Gekijouban Fate/Stay Night: Heaven’s Feel — III. Spring Song,gekijouban fatestay night heavens feel iii spring song,2020,"Scream, Queen! My Nightmare on Elm Street",scream queen my nightmare on elm street,2020.0,31.481481481481477
+141,5268,Eiga Doraemon: Nobita no shin kyôryû,eiga doraemon nobita no shin kyoryu,2020,Wild Mountain Thyme,wild mountain thyme,2020.0,31.428571428571427
+774,5039,Rurôni Kenshin: Sai shûshô - The Final,ruroni kenshin sai shusho the final,2021,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,demon slayer kimetsu no yaiba the movie mugen train,2021.0,31.372549019607842
+723,6206,Jujutsu Kaisen 0,jujutsu kaisen,2021,The Last Matinee,the last matinee,2021.0,31.25
+576,32208,Song Sung Blue,song sung blue,2025,From Ground Zero,from ground zero,2025.0,31.25
+398,32196,Jesus Revolution,jesus revolution,2023,Passion,passion,2023.0,31.25
+707,5557,Godzilla vs. Kong,godzilla vs kong,2021,A Son,a son,2021.0,31.25
+714,2116,A Quiet Place: Part II,a quiet place part ii,2021,"God Exists, Her Name Is Petrunija",god exists her name is petrunija,2021.0,31.25
+295,6220,Dú Shé Dà Zhuàng (毒舌大状),du she da zhuang,2022,She Said,she said,2022.0,31.25
+523,34487,Now You See Me: Now You Don’t,now you see me now you dont,2025,"I Know Catherine, the Log Lady",i know catherine the log lady,2025.0,31.034482758620683
+549,34487,Karate Kid: Legends,karate kid legends,2025,"I Know Catherine, the Log Lady",i know catherine the log lady,2025.0,31.034482758620683
+343,5535,Teenage Mutant Ninja Turtles: Mutant Mayhem,teenage mutant ninja turtles mutant mayhem,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,30.952380952380953
+68,107,Geukhanjikeob,geukhanjikeob,2019,Mouthpiece,mouthpiece,2019.0,30.76923076923077
+394,32199,Mummies,mummies,2023,Remember This,remember this,2023.0,30.76923076923077
+403,5297,Despicable Me 4,despicable me,2024,Shirley,shirley,2024.0,30.76923076923077
+552,32552,Boonie Bears: Future Reborn (熊出没·重启未来),boonie bears future reborn,2025,Down to the Felt,down to the felt,2025.0,30.76923076923077
+321,5342,Creation of the Gods I: Kindom of Storms (封神第一部),creation of the gods i kindom of storms,2023,Children of the Corn,children of the corn,2023.0,30.76923076923077
+326,32199,Creed III,creed iii,2023,Remember This,remember this,2023.0,30.76923076923077
+301,34588,The Super Mario Bros. Movie,the super mario bros movie,2023,What Is Love?,what is love,2023.0,30.76923076923077
+259,2860,Strange World,strange world,2022,The Son,the son,2022.0,30.76923076923077
+377,32199,Cheburashka (Чебурашка),cheburashka,2023,Remember This,remember this,2023.0,30.76923076923077
+483,34671,Back to Black,back to black,2024,Birthmark,birthmark,2024.0,30.76923076923077
+408,6277,Kung Fu Panda 4,kung fu panda,2024,Monkey Man,monkey man,2024.0,30.76923076923077
+438,36848,The Beekeeper,the beekeeper,2024,The Union,the union,2024.0,30.76923076923077
+557,32552,Endless Journey of Love (时间之子),endless journey of love,2025,Down to the Felt,down to the felt,2025.0,30.434782608695656
+200,5947,Avatar: The Way of Water,avatar the way of water,2022,Memories of My Father,memories of my father,2022.0,30.434782608695656
+249,5256,Downton Abbey: A New Era,downton abbey a new era,2022,Dinner in America,dinner in america,2022.0,30.434782608695656
+225,36472,DC League of Super Pets,dc league of super pets,2022,Life After You,life after you,2022.0,30.434782608695656
+586,32432,Taylor Swift | The Official Release Party of a Showgirl,taylor swift the official release party of a showgirl,2025,AUM: The Cult at the End of the World,aum the cult at the end of the world,2025.0,30.188679245283023
+96,209,Eiga Doraemon: Nobita no Getsumen Tansaki,eiga doraemon nobita no getsumen tansaki,2019,Dolemite Is My Name,dolemite is my name,2019.0,30.000000000000004
+100,611,Demon Slayer: Kimetsu no Yaiba—The Movie: Mugen Train (劇場版「鬼滅の刃」 無限列車編),demon slayer kimetsu no yaibathe movie mugen train,2020,The Short History of the Long Road,the short history of the long road,2020.0,30.000000000000004
+786,5305,Yi Nian Wei Dan Wei De Lian Ai (以年为单位的恋爱),yi nian wei dan wei de lian ai,2021,Six Minutes to Midnight,six minutes to midnight,2021.0,30.000000000000004
+494,6277,Panda Plan (熊猫计划),panda plan,2024,Monkey Man,monkey man,2024.0,30.000000000000004
+146,3325,Namsaneui Bujangdeul,namsaneui bujangdeul,2020,The Stranger,the stranger,2020.0,30.000000000000004
+475,3991,We Live in Time,we live in time,2024,The Six Triple Eight,the six triple eight,2024.0,30.000000000000004
+478,2008,White Snake: Afloat (白蛇：浮生),white snake afloat,2024,Why Men Are Clueless,why men are clueless,2024.0,30.000000000000004
+547,32236,Kokuho,kokuho,2025,Skillhouse,skillhouse,2025.0,30.000000000000004
+400,5028,Inside Out 2,inside out,2024,Soul,soul,2024.0,30.000000000000004
+402,6277,Moana 2,moana,2024,Monkey Man,monkey man,2024.0,30.000000000000004
+405,36848,Mufasa: The Lion King,mufasa the lion king,2024,The Union,the union,2024.0,30.000000000000004
+162,3634,Eiga Entotsu Machi no Poupelle,eiga entotsu machi no poupelle,2020,Hearts and Bones,hearts and bones,2020.0,30.000000000000004
+445,6277,Kalki 2898-AD,kalki ad,2024,Monkey Man,monkey man,2024.0,30.000000000000004
+416,1468,Bad Boys: Ride or Die,bad boys ride or die,2024,Borderlands,borderlands,2024.0,30.000000000000004
+262,34113,Babylon,babylon,2022,Last Looks,last looks,2022.0,30.000000000000004
+795,555,Posledniy bogatyr. Koren’ Zla,posledniy bogatyr koren zla,2021,Held for Ransom,held for ransom,2021.0,29.629629629629626
+399,5535,BTS: Yet to Come in Cinemas (방탄소년단 옛 투 컴 인 시네마),bts yet to come in cinemas,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,29.629629629629626
+366,5535,Godzilla Minus One (ゴジラ最新作),godzilla minus one,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,29.629629629629626
+361,5342,Gran Turismo: Based on a True Story,gran turismo based on a true story,2023,Children of the Corn,children of the corn,2023.0,29.411764705882348
+250,5285,Zui Leng De Qiang (狙击手),zui leng de qiang,2022,Rifkin's Festival,rifkins festival,2022.0,29.411764705882348
+593,32427,Ready or Not 2: Here I Come,ready or not here i come,2025,Detective Kien: The Headless Horror,detective kien the headless horror,2025.0,29.411764705882348
+241,2602,A Man Called Otto,a man called otto,2022,Mr. Malcolm's List,mr malcolms list,2022.0,29.411764705882348
+246,5256,Ming ri zhan ji,ming ri zhan ji,2022,Dinner in America,dinner in america,2022.0,29.411764705882348
+546,32941,Black Phone 2,black phone,2025,Lilly Lives Alone,lilly lives alone,2025.0,29.411764705882348
+503,32941,Lilo & Stitch,lilo stitch,2025,Lilly Lives Alone,lilly lives alone,2025.0,29.411764705882348
+788,843,Posledniy bogatyr 3,posledniy bogatyr,2021,Mosley,mosley,2021.0,29.411764705882348
+467,1663,Moments We Shared (云边有个小卖部),moments we shared,2024,One Life,one life,2024.0,29.411764705882348
+275,2602,Orphan: First Kill,orphan first kill,2022,Mr. Malcolm's List,mr malcolms list,2022.0,29.411764705882348
+299,325,Sǎo Hēi Xíng Dòng (扫黑行动),sao hei xing dong,2022,I'll Find You,ill find you,2022.0,29.411764705882348
+470,36154,Tiger Wolf Rabbit (浴火之路),tiger wolf rabbit,2024,A Bit of Light,a bit of light,2024.0,29.411764705882348
+792,5039,Snake Eyes: G.I. Joe Origins,snake eyes gi joe origins,2021,Demon Slayer -Kimetsu no Yaiba- The Movie: Mugen Train,demon slayer kimetsu no yaiba the movie mugen train,2021.0,29.411764705882348
+507,32552,How to Train Your Dragon,how to train your dragon,2025,Down to the Felt,down to the felt,2025.0,29.166666666666664
+598,36374,Bring Her Back,bring her back,2025,The Rose: Come Back to Me,the rose come back to me,2025.0,29.166666666666664
+778,6314,Nightmare Alley,nightmare alley,2021,Through the Glass Darkly,through the glass darkly,2021.0,29.166666666666664
+506,32432,Demon Slayer -Kimetsu no Yaiba- The Movie: Infinity Castle,demon slayer kimetsu no yaiba the movie infinity castle,2025,AUM: The Cult at the End of the World,aum the cult at the end of the world,2025.0,29.09090909090909
+313,3344,Ant-Man and the Wasp: Quantumania,antman and the wasp quantumania,2023,The Mountain,the mountain,2023.0,29.032258064516125
+125,5268,Wo Zai Shi Jian Jin Tou Deng Ni,wo zai shi jian jin tou deng ni,2020,Wild Mountain Thyme,wild mountain thyme,2020.0,29.032258064516125
+515,32469,Captain America: Brave New World,captain america brave new world,2025,To Kill a Wolf,to kill a wolf,2025.0,29.032258064516125
+368,2661,Bǎo Nǐ Píng Ān (保你平安),bao ni ping an,2023,Poor Things,poor things,2023.0,28.57142857142857
+245,3848,Halloween Ends,halloween ends,2022,Aline,aline,2022.0,28.57142857142857
+592,33937,Bugonia,bugonia,2025,Yanuni,yanuni,2025.0,28.57142857142857
+424,36154,A Quiet Place: Day One,a quiet place day one,2024,A Bit of Light,a bit of light,2024.0,28.57142857142857
+309,5535,Mission: Impossible Dead Reckoning Part One,mission impossible dead reckoning part one,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,28.57142857142857
+375,32196,AIR,air,2023,Passion,passion,2023.0,28.57142857142857
+456,36154,Big World (小小的我),big world,2024,A Bit of Light,a bit of light,2024.0,28.57142857142857
+318,671,Meg 2: The Trench,meg the trench,2023,The Entity,the entity,2023.0,28.57142857142857
+154,5175,Lyod 2,lyod,2020,Swallow,swallow,2020.0,28.57142857142857
+351,32196,Jawan,jawan,2023,Passion,passion,2023.0,28.57142857142857
+348,948,Evil Dead Rise,evil dead rise,2023,Rise,rise,2023.0,28.57142857142857
+349,948,Ex File 4 (前任4：英年早婚),ex file,2023,Rise,rise,2023.0,28.57142857142857
+789,843,Respect,respect,2021,Mosley,mosley,2021.0,28.57142857142857
+274,36485,Brahmastra Part 1: Shiva,brahmastra part shiva,2022,Dear Father,dear father,2022.0,28.57142857142857
+211,613,Fantastic Beasts: The Secrets of Dumbledore,fantastic beasts the secrets of dumbledore,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,28.57142857142857
+421,5297,Article 20 (第二十条),article,2024,Shirley,shirley,2024.0,28.57142857142857
+232,2342,Morbius,morbius,2022,Elvis,elvis,2022.0,28.57142857142857
+551,32393,Materialists,materialists,2025,Dominic and the Ladies' Purse,dominic and the ladies purse,2025.0,28.57142857142857
+455,34371,Argylle,argylle,2024,YOLO,yolo,2024.0,28.57142857142857
+404,5297,Wicked,wicked,2024,Shirley,shirley,2024.0,28.57142857142857
+288,3848,heonteu (헌트),heonteu,2022,Aline,aline,2022.0,28.57142857142857
+304,32196,Fast X,fast x,2023,Passion,passion,2023.0,28.57142857142857
+316,5342,Aquaman and the Lost Kingdom,aquaman and the lost kingdom,2023,Children of the Corn,children of the corn,2023.0,28.57142857142857
+784,4309,Jin Qian Di Guo Zhui: Hu Qin Long,jin qian di guo zhui hu qin long,2021,I Am Not Alone,i am not alone,2021.0,28.125
+505,34342,Jurassic World Rebirth,jurassic world rebirth,2025,Billy Idol Should Be Dead,billy idol should be dead,2025.0,28.000000000000004
+131,299,Ru Guo Sheng Yin Bu Ji De,ru guo sheng yin bu ji de,2020,The Painted Bird,the painted bird,2020.0,28.000000000000004
+401,1663,Deadpool & Wolverine,deadpool wolverine,2024,One Life,one life,2024.0,27.77777777777778
+277,5285,Prey for the Devil,prey for the devil,2022,Rifkin's Festival,rifkins festival,2022.0,27.77777777777778
+770,4309,I Fell in Love Like a Flower Bouquet,i fell in love like a flower bouquet,2021,I Am Not Alone,i am not alone,2021.0,27.77777777777778
+251,1267,Don’t Worry Darling,dont worry darling,2022,Breaking,breaking,2022.0,27.77777777777778
+260,2602,Li Mao Huan Tai Zi (李茂换太子),li mao huan tai zi,2022,Mr. Malcolm's List,mr malcolms list,2022.0,27.77777777777778
+409,1663,Sonic the Hedgehog 3,sonic the hedgehog,2024,One Life,one life,2024.0,27.77777777777778
+227,325,One Piece Film: Red,one piece film red,2022,I'll Find You,ill find you,2022.0,27.77777777777778
+213,2860,Sonic the Hedgehog 2,sonic the hedgehog,2022,The Son,the son,2022.0,27.77777777777778
+292,613,Tadeo Jones 3: la maldición de la momia,tadeo jones la maldicion de la momia,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,27.77777777777778
+205,36472,Black Panther: Wakanda Forever,black panther wakanda forever,2022,Life After You,life after you,2022.0,27.586206896551722
+267,613,Hansan Yongeui Chulhyeon (한산: 용의 출현),hansan yongeui chulhyeon,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,27.586206896551722
+757,4820,Gu Dong Ju Zhong Ju (古董局中局),gu dong ju zhong ju,2021,My Darling Supermarket,my darling supermarket,2021.0,27.27272727272727
+269,1043,gongjo 2 inteonaesyeonal (공조2:인터내셔날),gongjo inteonaesyeonal,2022,Offseason,offseason,2022.0,27.27272727272727
+283,2860,The Bob’s Burgers Movie,the bobs burgers movie,2022,The Son,the son,2022.0,27.27272727272727
+596,32276,Nobody 2,nobody,2025,Unholy Song,unholy song,2025.0,27.27272727272727
+457,5297,Challengers,challengers,2024,Shirley,shirley,2024.0,27.27272727272727
+526,32276,Nobody (浪浪山小妖怪),nobody,2025,Unholy Song,unholy song,2025.0,27.27272727272727
+525,32227,Five Nights at Freddy’s 2,five nights at freddys,2025,The 8th Day,the th day,2025.0,27.27272727272727
+446,1468,Longlegs,longlegs,2024,Borderlands,borderlands,2024.0,27.27272727272727
+342,33113,Insidious: The Red Door,insidious the red door,2023,The Old Way,the old way,2023.0,27.27272727272727
+559,32956,David,david,2025,Leaving Mom,leaving mom,2025.0,27.27272727272727
+428,32504,A Place Called Silence (默杀),a place called silence,2024,Lake George,lake george,2024.0,27.27272727272727
+273,1383,Marry Me,marry me,2022,Cave Rescue,cave rescue,2022.0,27.27272727272727
+591,32867,Black Bag,black bag,2025,Vala: Story of a Bangle,vala story of a bangle,2025.0,27.27272727272727
+495,5297,High Forces (危机航线),high forces,2024,Shirley,shirley,2024.0,27.27272727272727
+364,2661,Born to Fly (长空之王),born to fly,2023,Poor Things,poor things,2023.0,27.27272727272727
+469,32504,Babygirl,babygirl,2024,Lake George,lake george,2024.0,27.27272727272727
+391,34588,Magic Mike’s Last Dance,magic mikes last dance,2023,What Is Love?,what is love,2023.0,27.27272727272727
+389,2661,Wǒ Ài Nǐ (我爱你!),wo ai ni,2023,Poor Things,poor things,2023.0,27.27272727272727
+384,2661,Across the Furious Sea (涉过愤怒的海),across the furious sea,2023,Poor Things,poor things,2023.0,27.27272727272727
+597,36210,M3GAN 2.0,mgan,2025,Magazine Dreams,magazine dreams,2025.0,26.66666666666667
+372,32196,Endless Journey (三大队),endless journey,2023,Passion,passion,2023.0,26.66666666666667
+272,325,Jué Wàng Zhǔ Fū (绝望主夫),jue wang zhu fu,2022,I'll Find You,ill find you,2022.0,26.66666666666667
+302,34196,Oppenheimer,oppenheimer,2023,Better Together,better together,2023.0,26.66666666666667
+352,34196,Deep Sea (深海),deep sea,2023,Better Together,better together,2023.0,26.66666666666667
+463,5236,Speak No Evil,speak no evil,2024,Nowhere Special,nowhere special,2024.0,26.66666666666667
+459,2008,Twilight of the Warriors: Walled In (九龙城寨之围城),twilight of the warriors walled in,2024,Why Men Are Clueless,why men are clueless,2024.0,26.470588235294112
+332,33113,Cháng Ān Sān Wàn Lǐ (长安三万里),chang an san wan li,2023,The Old Way,the old way,2023.0,26.315789473684216
+344,3344,Johnny Keep Walking (年会不能停！),johnny keep walking,2023,The Mountain,the mountain,2023.0,26.315789473684216
+286,325,Triangle of Sadness,triangle of sadness,2022,I'll Find You,ill find you,2022.0,26.315789473684216
+777,5073,Boku no Hero Academia: World Heroes’ Mission,boku no hero academia world heroes mission,2021,Violet Evergarden: The Movie,violet evergarden the movie,2021.0,26.190476190476186
+238,1267,Where the Crawdads Sing,where the crawdads sing,2022,Breaking,breaking,2022.0,26.086956521739136
+204,2860,Minions: The Rise of Gru,minions the rise of gru,2022,The Son,the son,2022.0,26.086956521739136
+423,1663,Boonie Bears: Time Twist (熊出没·逆转时空),boonie bears time twist,2024,One Life,one life,2024.0,26.086956521739136
+412,3991,Beetlejuice Beetlejuice,beetlejuice beetlejuice,2024,The Six Triple Eight,the six triple eight,2024.0,26.086956521739136
+376,5535,Cocaine Bear,cocaine bear,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,25.92592592592593
+387,5535,Dì Bā Gè Xián Yí Rén (第八个嫌疑人),di ba ge xian yi ren,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,25.92592592592593
+279,5981,Paws of Fury: The Legend of Hank,paws of fury the legend of hank,2022,Most Guys Are Losers,most guys are losers,2022.0,25.806451612903224
+281,613,Roald Dahl’s Matilda The Musical,roald dahls matilda the musical,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,25.806451612903224
+480,5236,Kingdom 4: Return of the Great General (キングダム 大将軍の帰還),kingdom return of the great general,2024,Nowhere Special,nowhere special,2024.0,25.71428571428571
+294,5947,The Unbearable Weight of Massive Talent,the unbearable weight of massive talent,2022,Memories of My Father,memories of my father,2022.0,25.64102564102564
+437,3991,The Volunteers: The Battle of Life and Death (志愿军：存亡之战),the volunteers the battle of life and death,2024,The Six Triple Eight,the six triple eight,2024.0,25.581395348837212
+266,3968,Moonfall,moonfall,2022,Men,men,2022.0,25.0
+247,36485,Dragon Ball Super: Super Hero (ラゴンボール超 スーパーヒーロー),dragon ball super super hero,2022,Dear Father,dear father,2022.0,25.0
+263,5981,Someday or One Day (想见你),someday or one day,2022,Most Guys Are Losers,most guys are losers,2022.0,25.0
+334,5342,Anyone But You,anyone but you,2023,Children of the Corn,children of the corn,2023.0,25.0
+254,5981,New Gods: Yang Jian (新神榜：杨戬),new gods yang jian,2022,Most Guys Are Losers,most guys are losers,2022.0,25.0
+215,5285,Ji Su Shi Ke (这个杀手不太冷静),ji su shi ke,2022,Rifkin's Festival,rifkins festival,2022.0,25.0
+418,3914,Twisters,twisters,2024,Tarot,tarot,2024.0,25.0
+501,33094,Zootopia 2,zootopia,2025,Loveyapa,loveyapa,2025.0,25.0
+468,1663,GO FOR BROKE (重生),go for broke,2024,One Life,one life,2024.0,25.0
+447,36741,Octopus with Broken Arms (误杀3),octopus with broken arms,2024,Stream,stream,2024.0,25.0
+311,2661,No More Bets (孤注一掷),no more bets,2023,Poor Things,poor things,2023.0,25.0
+499,2008,Horizon: An American Saga Chapter 1,horizon an american saga chapter,2024,Why Men Are Clueless,why men are clueless,2024.0,25.0
+442,1468,Transformers One,transformers one,2024,Borderlands,borderlands,2024.0,25.0
+420,2008,It Ends With Us,it ends with us,2024,Why Men Are Clueless,why men are clueless,2024.0,25.0
+431,1663,IF,if,2024,One Life,one life,2024.0,25.0
+642,33638,V (空枪),v,2026,Vibe,vibe,2026.0,25.0
+410,1468,Venom: The Last Dance,venom the last dance,2024,Borderlands,borderlands,2024.0,25.0
+411,32504,Gladiator II,gladiator ii,2024,Lake George,lake george,2024.0,25.0
+414,4744,Successor (抓娃娃),successor,2024,Murder Motel,murder motel,2024.0,25.0
+436,3991,Pushpa: The Rule — Part 2,pushpa the rule part,2024,The Six Triple Eight,the six triple eight,2024.0,25.0
+296,5256,Operation Fortune: Ruse de guerre,operation fortune ruse de guerre,2022,Dinner in America,dinner in america,2022.0,25.0
+297,2029,Olppaemi (올빼미),olppaemi,2022,Scream,scream,2022.0,25.0
+306,3344,Wonka,wonka,2023,The Mountain,the mountain,2023.0,25.0
+453,2008,Madame Web,madame web,2024,Why Men Are Clueless,why men are clueless,2024.0,25.0
+489,3991,Doraemon the Movie: Nobita’s Earth Symphony (映画ドラえもん　のび太の地球交響楽),doraemon the movie nobitas earth symphony,2024,The Six Triple Eight,the six triple eight,2024.0,24.390243902439025
+510,32393,Mission: Impossible—The Final Reckoning,mission impossiblethe final reckoning,2025,Dominic and the Ladies' Purse,dominic and the ladies purse,2025.0,24.32432432432432
+237,5256,Everything Everywhere All At Once,everything everywhere all at once,2022,Dinner in America,dinner in america,2022.0,24.242424242424242
+417,2008,Kingdom of the Planet of the Apes,kingdom of the planet of the apes,2024,Why Men Are Clueless,why men are clueless,2024.0,24.242424242424242
+388,5535,Demon Slayer: Kimetsu No Yaiba—To the Swordsmith Village,demon slayer kimetsu no yaibato the swordsmith village,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,24.07407407407407
+285,325,Wai tai kong de mo zha te,wai tai kong de mo zha te,2022,I'll Find You,ill find you,2022.0,24.0
+284,5256,Detective Conan: The Bride of Halloween,detective conan the bride of halloween,2022,Dinner in America,dinner in america,2022.0,23.684210526315784
+496,3991,Crayon Shinchan: Our Dinosaur Diary ( 映画 クレヨンしんちゃん オラたちの恐竜日記),crayon shinchan our dinosaur diary,2024,The Six Triple Eight,the six triple eight,2024.0,23.529411764705888
+315,33113,John Wick: Chapter 4,john wick chapter,2023,The Old Way,the old way,2023.0,23.529411764705888
+320,5342,The Hunger Games: The Ballad of Songbirds & Snakes,the hunger games the ballad of songbirds snakes,2023,Children of the Corn,children of the corn,2023.0,23.404255319148938
+407,32504,Godzilla x Kong: The New Empire,godzilla x kong the new empire,2024,Lake George,lake george,2024.0,23.33333333333333
+439,3991,Detective Conan: The Million-Dollar Pentagram,detective conan the milliondollar pentagram,2024,The Six Triple Eight,the six triple eight,2024.0,23.25581395348837
+264,613,Whitney Houston: I Wanna Dance With Somebody,whitney houston i wanna dance with somebody,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,23.25581395348837
+427,3991,Ghostbusters: Frozen Empire,ghostbusters frozen empire,2024,The Six Triple Eight,the six triple eight,2024.0,23.076923076923073
+346,32199,Scream VI,scream vi,2023,Remember This,remember this,2023.0,23.076923076923073
+448,3991,Haikyu!! The Movie: Decisive Battle at the Garbage Dump (劇場版ハイキュー!! ゴミ捨て場の決戦),haikyu the movie decisive battle at the garbage dump,2024,The Six Triple Eight,the six triple eight,2024.0,23.076923076923073
+333,2661,Boonie Bears: Guardian Code (熊出没·伴我“熊芯”),boonie bears guardian code,2023,Poor Things,poor things,2023.0,23.076923076923073
+324,671,Five Nights at Freddy’s,five nights at freddys,2023,The Entity,the entity,2023.0,22.72727272727273
+429,3752,Paddington in Peru,paddington in peru,2024,Dominique,dominique,2024.0,22.22222222222222
+307,5535,Full River Red (满江红),full river red,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,22.22222222222222
+444,34671,Civil War,civil war,2024,Birthmark,birthmark,2024.0,22.22222222222222
+216,34814,Suzume (すずめの戸締まり),suzume,2022,Sin Eater,sin eater,2022.0,22.22222222222222
+460,34671,Exhuma (파묘),exhuma,2024,Birthmark,birthmark,2024.0,22.22222222222222
+337,2661,Dungeons & Dragons: Honor Among Thieves,dungeons dragons honor among thieves,2023,Poor Things,poor things,2023.0,22.22222222222222
+371,5535,Spy x Family Code: White,spy x family code white,2023,Once Upon a Time in Ukraine,once upon a time in ukraine,2023.0,22.22222222222222
+222,2029,Lightyear,lightyear,2022,Scream,scream,2022.0,22.22222222222222
+202,2602,Jurassic World: Dominion,jurassic world dominion,2022,Mr. Malcolm's List,mr malcolms list,2022.0,21.739130434782606
+208,1267,The Battle at Lake Changjin II (长津湖之水门桥),the battle at lake changjin ii,2022,Breaking,breaking,2022.0,19.999999999999996
+253,33049,Dog,dog,2022,Poser,poser,2022.0,19.999999999999996
+289,613,BTS Permission to Dance on Stage Seoul — Live Viewing,bts permission to dance on stage seoul live viewing,2022,Lunana: A Yak in the Classroom,lunana a yak in the classroom,2022.0,19.6078431372549
+449,2008,Desperate for Money at the End of the Road (末路狂花钱),desperate for money at the end of the road,2024,Why Men Are Clueless,why men are clueless,2024.0,19.047619047619047
+435,1468,Furiosa: A Mad Max Saga,furiosa a mad max saga,2024,Borderlands,borderlands,2024.0,18.181818181818176
+484,2008,Demon Slayer: Kimetsu no Yaiba—To the Hashira Training (鬼滅の刃 柱稽古編),demon slayer kimetsu no yaibato the hashira training,2024,Why Men Are Clueless,why men are clueless,2024.0,17.307692307692314
+755,138,1921,,2021,Curiosa,curiosa,2021.0,0.0
+392,671,65,,2023,The Entity,the entity,2023.0,0.0

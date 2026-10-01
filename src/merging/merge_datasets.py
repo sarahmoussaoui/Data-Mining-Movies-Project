@@ -359,6 +359,7 @@ all_three_scores = all_three_scores.merge(
         [
             'tmdb_index',
             'rotten_index',
+            'rotten_title',
             'similarity'
         ]
     ],
@@ -592,6 +593,7 @@ columns_to_drop_all_three = [
     "tmdb_index",
     "numbers_index",
     "rotten_index",
+    "rotten_title"
     "tmdb_title",
     "numbers_title",
     "title_numbers",

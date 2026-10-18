@@ -6649,7 +6649,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 737416,Miss America,Miss America,2019-05-11,2019,[18],1.5481,0.0,0,en
 853766,"Jaś i Małgosia - rodzeństwo, które przeżyło","Jaś i Małgosia - rodzeństwo, które przeżyło",2019-01-20,2019,"[14, 35]",1.548,0.0,0,pl
 649059,cross/film,cross/film,2019-05-16,2019,[18],1.548,0.0,0,en
-596914,Whole,Whole,2019-03-09,2019,[18],1.548,0.0,0,en
 617400,Come Kiss Me at 0:00AM,午前0時、キスしに来てよ,2019-12-06,2019,"[35, 10749]",1.5478,7.919,74,ja
 658023,Epcot International Festival of the Holidays – Candlelight Processional,Epcot International Festival of the Holidays – Candlelight Processional,2019-12-03,2019,[10402],1.5477,0.0,0,en
 629363,It's Here,It's Here,2019-08-06,2019,[27],1.5477,5.0,1,en
@@ -17080,7 +17079,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 713899,Zimmer mit Stall - Feuer unterm Dach,Zimmer mit Stall - Feuer unterm Dach,2020-05-15,2020,[35],1.4313,6.0,1,de
 1016413,Colores,Colores,2020-07-01,2020,[],1.4311,0.0,0,es
 809686,Taffy,Taffy,2020-10-21,2020,[],1.431,6.0,1,en
-701960,S(he),S(he),2020-05-08,2020,"[18, 14]",1.431,0.0,0,uk
 473273,I Hate the Man in My Basement,I Hate the Man in My Basement,2020-03-10,2020,"[10749, 35, 18]",1.4309,6.325,20,en
 733700,Dress Rehearsal,Dress Rehearsal,2020-08-17,2020,[],1.4308,0.0,0,en
 617674,A Dim Valley,A Dim Valley,2020-04-25,2020,"[35, 18, 14]",1.4307,6.4,5,en
@@ -18911,6 +18909,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 728102,The Male Gaze: Strikers & Defenders,The Male Gaze: Strikers & Defenders,2020-07-27,2020,[18],1.3062,3.4,5,en
 782454,Karel Gott – úsměvy nehasnou,Karel Gott – úsměvy nehasnou,2020-12-31,2020,"[10402, 99]",1.2836,10.0,1,cs
 768036,"Music, Money, Madness… Jimi Hendrix Live In Maui","Music, Money, Madness… Jimi Hendrix Live In Maui",2020-11-20,2020,"[99, 10402]",1.2836,6.5,4,en
+896936,Blood-related,Blood-related,2020-01-01,2020,[],1.2835,0.0,0,en
 761542,Castro's Spies,Castro's Spies,2020-11-10,2020,"[99, 53]",1.2835,9.2,4,en
 1688836,PLAY,PLAY,2020-01-13,2020,[18],1.2833,0.0,0,fr
 738383,Pageant,Pageant,2020-08-24,2020,[],1.2833,9.0,1,en
@@ -21587,6 +21586,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 793155,Brothers-In-Law,Cuñados,2021-04-09,2021,"[35, 80]",2.1659,6.0,24,gl
 872322,Kau & Dia,Kau & Dia,2021-09-14,2021,"[18, 10749]",2.1651,9.0,1,en
 838180,For the Love of Chocolate,For the Love of Chocolate,2021-10-27,2021,"[10770, 35, 10749, 10751]",2.1651,6.5,16,en
+1231343,All In,All In,2021-11-07,2021,"[80, 18, 53]",2.1643,0.0,0,en
 888149,Leaving Beginnings Behind,Opouštět Počátky,2021-10-28,2021,[99],2.1643,0.0,0,cs
 845594,Jim Morrison: The End,Jim Morrison : derniers jours à Paris,2021-07-02,2021,"[99, 36, 10402, 10770]",2.1634,7.1,8,fr
 1036060,Amère,Amère,2021-09-21,2021,[18],2.1633,0.0,0,fr
@@ -23492,6 +23492,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 893204,Single Mother by Choice,Single Mother by Choice,2021-11-02,2021,"[35, 18]",1.8258,7.024,42,en
 911984,Altar Boy,Altar Boy,2021-12-02,2021,[18],1.8257,0.0,0,en
 876274,Two Dogs,Two Dogs,2021-10-08,2021,[18],1.8257,0.0,0,fa
+940839,Locked-In,Locked-In,2021-02-17,2021,[18],1.8256,0.0,0,en
 1156080,The Ultimatum,The Ultimatum,2021-12-18,2021,"[18, 80]",1.8255,0.0,1,en
 886794,Autism,Autismo,2021-10-14,2021,[99],1.8255,0.0,0,es
 803018,Kovala,Kovala,2021-09-17,2021,"[18, 10402]",1.8251,5.0,3,tr
@@ -26561,6 +26562,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 987579,White Tiss,White Tiss,2021-12-19,2021,[37],1.5066,0.0,0,fr
 882150,Milked,Milked,2021-11-07,2021,[99],1.5066,8.7,7,en
 821955,The Right Mom,The Right Mom,2021-09-17,2021,[18],1.5066,8.1,12,en
+1341447,Self-Portrait,Self-Portrait,2021-01-01,2021,[],1.5065,0.0,0,en
 959151,When You Do  Pop,Cuando haces pop,2021-06-18,2021,[10402],1.5065,10.0,1,es
 735374,Audionomie,Audionomie,2021-11-18,2021,[27],1.5064,0.0,0,fr
 920184,Ayah Ikhlas,Ayah Ikhlas,2021-05-31,2021,[35],1.5062,0.0,0,id
@@ -28522,7 +28524,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 885341,Light Leak,Light Leak,2021-10-16,2021,[878],1.3464,0.0,0,en
 884582,Pussy Cruising,Pussy Cruising,2021-09-24,2021,[35],1.3464,10.0,1,en
 1000116,Don't Wait for Me,אל תחכי לי,2021-10-21,2021,"[18, 80, 53]",1.3463,7.0,1,he
-913895,Solo,Solo,2021-12-13,2021,[],1.3463,0.0,0,tl
 925820,Equilibre,Equilibre,2021-12-24,2021,"[12, 99]",1.3462,0.0,0,fr
 840332,Pop City,Pop City,2021-06-18,2021,[],1.346,0.0,0,en
 780316,The Pioneer,革命者,2021-07-01,2021,"[18, 36]",1.3459,6.3,6,zh
@@ -29692,7 +29693,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 948333,Into the Deep,Into the Deep,2022-08-26,2022,[53],3.0952,5.5,87,en
 1658043,Les Témoins,Les Témoins,2022-01-05,2022,[99],3.0925,0.0,0,fr
 1289523,Mi Estación,Mi Estación,2022-05-12,2022,[99],3.0917,0.0,0,es
-633374,Remember,리멤버,2022-10-26,2022,"[53, 28, 18]",3.0908,7.56,109,ko
 1612270,Tarot,Tarot,2022-05-13,2022,[18],3.0883,0.0,0,en
 947612,Exploited,Exploited,2022-01-28,2022,"[53, 27, 9648]",3.0876,4.238,40,en
 1036996,Director by Night,Director by Night,2022-11-04,2022,[99],3.0862,6.479,24,en
@@ -31420,7 +31420,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 870487,North Terminal,Terminal Norte,2022-02-14,2022,"[99, 10402]",2.1799,5.684,19,es
 1021494,The Farewells,Las Despedidas,2022-07-20,2022,"[18, 10749]",2.1798,2.0,1,es
 1018031,Şeytanın Kitabı,Şeytanın Kitabı,2022-04-08,2022,[27],2.1798,1.0,1,tr
-1047007,In_visible,In_visible,2022-11-11,2022,[],2.1795,0.0,0,de
 952448,Lungta,Lungta,2022-03-18,2022,[],2.1794,0.0,0,es
 903539,Dikit,Dikit,2022-05-13,2022,"[27, 18]",2.1794,5.0,1,tl
 1003175,PARANÓIA,PARANÓIA,2022-07-22,2022,"[28, 18]",2.1792,10.0,2,pt
@@ -32550,6 +32549,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1541806,Stand-Up,Stand up,2022-06-23,2022,"[35, 18]",1.963,0.0,0,sk
 988459,Sünnet Çocuğu,Sünnet Çocuğu,2022-06-24,2022,[35],1.9629,1.0,1,tr
 1031096,Blue Note,Blue Note,2022-09-23,2022,[],1.9628,6.0,1,en
+1042621,Father.Son,Ojciec.Syn,2022-05-26,2022,[99],1.9625,0.0,0,pl
 893417,Museum of the Revolution,Muzej revolucije,2022-01-24,2022,[99],1.9625,0.0,0,sr
 977866,The Ghosts of Monday,The Ghosts of Monday,2022-08-29,2022,"[27, 53]",1.9623,4.922,32,en
 975095,Jacques,Jacques,2022-04-29,2022,[35],1.9623,0.0,0,es
@@ -33148,7 +33148,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1007046,Cuarto oscuro,Cuarto oscuro,2022-07-29,2022,[18],1.8845,6.0,1,es
 1020481,Pumpkin Everything,Pumpkin Everything,2022-10-08,2022,"[10770, 10749, 35]",1.884,6.524,22,en
 1083666,Nucléaire,Nucléaire,2022-03-07,2022,[18],1.8839,0.0,0,fr
-962588,crush(ed),crush(ed),2022-03-05,2022,[],1.8839,0.0,0,en
 1056174,Schemer,Schemer,2022-12-05,2022,[18],1.8837,0.0,0,nl
 1022924,5 in 1,5 in 1,2022-09-23,2022,[35],1.8836,4.5,14,tl
 890245,Body Parts,Body Parts,2022-06-12,2022,[99],1.8834,6.467,15,en
@@ -33939,6 +33938,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1073799,Composición,Composición,2022-06-01,2022,[18],1.7915,10.0,1,es
 1155181,El Otro,El Otro,2022-03-11,2022,[18],1.7913,0.0,0,es
 983987,Of Age,Of Age,2022-05-01,2022,[],1.7913,0.0,0,en
+970844,Déjà-vu,Déjà-vu,2022-06-13,2022,[16],1.7911,0.0,0,de
 936490,A Hundred Flowers,百花,2022-09-09,2022,[18],1.791,7.0,14,ja
 934709,Moshari,মশারী,2022-03-13,2022,"[18, 27]",1.7908,7.0,8,bn
 885303,The Voyagers,I viaggiatori,2022-11-21,2022,"[14, 12, 10770]",1.7908,6.1,114,it
@@ -36826,6 +36826,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1055452,Zemunalien,Vanzemunac,2022-06-04,2022,"[10770, 35, 878]",1.5217,0.0,0,sr
 1007496,AYÚDAME,AYÚDAME,2022-05-29,2022,[53],1.5216,4.0,1,es
 998709,Detective Dee and Resurrection from the Dead,狄仁杰之借尸还魂,2022-07-09,2022,"[28, 9648]",1.5215,1.0,1,zh
+1022838,Rear-View,Rear-View,2022-07-22,2022,[],1.5214,0.0,0,en
 938285,No Key to Poetry,Pas de clé à la poésie,2022-02-05,2022,[16],1.5213,0.0,0,fr
 1254428,Imaginary Friends,Imaginary Friends,2022-12-01,2022,[878],1.5212,0.0,0,en
 977343,Europa Passage,Europa Passage,2022-09-15,2022,[99],1.5212,8.5,2,ro
@@ -37269,7 +37270,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1175063,Apparatus Ludens,Apparatus Ludens,2022-10-05,2022,[],1.486,0.0,0,en
 1043696,Dorothy and Toto's Storytime: Ozma of Oz Part 2,Dorothy and Toto's Storytime: Ozma of Oz Part 2,2022-08-12,2022,"[16, 10751, 14]",1.486,0.0,0,en
 937930,David Cross: I'm From The Future,David Cross: I'm From The Future,2022-02-12,2022,"[35, 99, 10770]",1.486,7.0,4,en
-1045537,Who.,Who.,2022-04-18,2022,"[18, 27, 53]",1.4859,0.0,0,pt
 993558,Smalltown Boys,Des garçons de province,2022-11-05,2022,"[10749, 18]",1.4859,5.455,11,fr
 1576644,Motherland: Last Christmas,Motherland: Last Christmas,2022-12-23,2022,[35],1.4858,0.0,0,en
 980339,A Murder of Crows,Der Kommissar und die Eifersucht,2022-05-07,2022,"[80, 18]",1.4858,0.0,0,de
@@ -41217,6 +41217,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1111491,Katie's Mom,Katie's Mom,2023-07-02,2023,"[35, 18, 10749]",2.1738,4.75,16,en
 1081049,Israelism,Israelism,2023-02-23,2023,[99],2.1735,8.15,20,en
 1173997,Aray Talak,Aray Talak,2023-07-05,2023,[35],2.1734,0.0,0,bn
+1034536,Knock Knock,Knock Knock,2023-07-13,2023,[18],2.1734,0.0,0,en
 588524,Nina and the Hedgehog's Secret,Nina et le secret du hérisson,2023-10-11,2023,"[16, 10751]",2.1733,7.1,20,fr
 1127728,For Ever,Für immer,2023-05-04,2023,[99],2.1732,9.0,1,de
 1207355,Pour Mia,Pour Mia,2023-11-18,2023,[18],2.173,0.0,0,fr
@@ -43455,7 +43456,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1185348,Pollo Loco,Pollo Loco,2023-10-14,2023,"[80, 18, 53]",1.8571,0.0,0,en
 1154070,JUST DESSERTS,JUST DESSERTS,2023-10-21,2023,"[35, 878]",1.8568,0.0,0,en
 1183959,Substitute Male Helper,대물 남자도우미,2023-03-16,2023,"[18, 10749]",1.8567,2.0,1,ko
-1127483,MARIA,MARIA,2023-05-12,2023,"[18, 10770]",1.8566,6.333,3,pt
 1252766,Hindhukolheh,Hindhukolheh,2023-03-06,2023,[10749],1.8565,0.0,0,dv
 1068777,Juste Charity,Juste Charity,2023-01-20,2023,[99],1.8565,9.0,1,en
 1155117,Hearts Under the Olive Tree,Hearts Under the Olive Tree,2023-08-19,2023,"[35, 10749]",1.8564,5.4,9,en
@@ -45258,7 +45258,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1235250,Cymbalaria,Cymbalaria,2023-12-12,2023,[],1.6835,0.0,0,fr
 1053264,Light Needs,Light Needs,2023-03-15,2023,[99],1.6835,0.0,0,en
 1213221,Vigilant,Vigilant,2023-12-08,2023,"[53, 28, 12]",1.6834,5.0,3,en
-1188677,Z-ERO,Z-ERO,2023-02-18,2023,[27],1.6834,0.0,0,en
 1728753,Senaskah Braille,Senaskah Braille,2023-01-01,2023,[],1.6833,0.0,0,en
 1174954,Homegrown,Homegrown,2023-06-03,2023,[],1.6833,0.0,0,en
 1374218,Ostatenham,Ostatenham,2023-11-21,2023,[18],1.6832,0.0,0,fr
@@ -47420,7 +47419,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 998587,La Graine,La Graine,2023-05-03,2023,[35],1.5197,5.5,34,fr
 1759675,A Short Stay in Stephenville,A Short Stay in Stephenville,2023-05-13,2023,[27],1.5195,0.0,0,en
 1105884,O+,O+,2023-03-30,2023,[18],1.5195,3.75,4,es
-1086255,(In)convenience,(In)convenience,2023-02-04,2023,[],1.5195,0.0,0,en
 1241612,True Education for Cheating Sister-in-law,바람난 형수님 참교육,2023-10-06,2023,[10749],1.5194,0.0,0,ko
 1177968,Queen of New York,Queen of New York,2023-10-16,2023,"[99, 35]",1.5194,9.0,1,en
 1480563,The Last Transhumance,Ultima transhumanta,2023-06-16,2023,[99],1.5193,0.0,0,ro
@@ -47604,7 +47602,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1140635,Masquerade,Mascarada,2023-04-20,2023,[18],1.5068,0.0,0,es
 1209212,Foo Fighters - Austin City Limits,Foo Fighters - Austin City Limits,2023-11-18,2023,[10402],1.5067,8.0,1,en
 1312577,Gone,Gone,2023-08-02,2023,"[878, 53]",1.5064,0.0,0,en
-1157363,(Inter)Canvi,(Inter)Canvi,2023-03-31,2023,[18],1.5064,10.0,1,es
 1084013,Carry On Jatta 3,Carry On Jatta 3,2023-06-29,2023,"[18, 35]",1.5064,6.4,5,pa
 1154011,NJPW G1 Climax 33: Day 12,NJPW G1 Climax 33: Day 12,2023-08-02,2023,[],1.5062,0.0,0,ja
 1160556,#teen,#bagets,2023-08-06,2023,[18],1.506,5.0,1,tl
@@ -51633,7 +51630,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1277783,The Commandant's Shadow,The Commandant's Shadow,2024-05-29,2024,"[99, 36, 10752]",2.0676,7.226,31,en
 1394202,Neide,Neide,2024-12-01,2024,[99],2.0675,0.0,0,pt
 1551745,Nana Carmen,Nana Carmen,2024-05-31,2024,"[10751, 35]",2.0673,0.0,0,en
-1491159,Bare,Bare,2024-06-02,2024,[53],2.0671,0.0,0,en
 1281126,The Appraiser,The Appraiser,2024-03-25,2024,[],2.0671,0.0,0,en
 1337780,For Boys,For Boys,2024-10-18,2024,[18],2.0669,0.0,0,fi
 1184498,The Many Miracles of Household Saints,The Many Miracles of Household Saints,2024-01-06,2024,[99],2.0667,8.5,2,en
@@ -55119,7 +55115,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1202977,The Lascar,The Lascar,2024-08-11,2024,"[36, 12, 18, 37]",1.7146,0.0,0,en
 1462147,The Rotting,The Rotting,2024-10-19,2024,"[35, 18]",1.7145,0.0,0,en
 1433970,Ambiguous Indifference,Ambiguous Indifference,2024-08-05,2024,[35],1.7145,0.0,0,en
-1252737,Stop-Motion,Stop-Motion,2024-09-26,2024,[18],1.7145,2.0,1,en
 1651952,Boys,Boys,2024-06-01,2024,[18],1.7142,0.0,0,en
 1328618,Pocket Princess,Pocket Princess,2024-08-10,2024,"[16, 27, 14, 10751]",1.7142,0.0,0,en
 1262270,Brizola,Brizola,2024-04-07,2024,[99],1.7142,10.0,1,pt
@@ -55205,7 +55200,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1323879,La farsa,La farsa,2024-07-23,2024,"[18, 35]",1.7086,0.0,0,ca
 1356049,Who's Watching,Who's Watching,2024-10-02,2024,"[27, 53]",1.7085,6.0,2,en
 1560990,Congratulations,Congratulations,2024-11-26,2024,"[10751, 18]",1.7084,0.0,0,en
-1336097,ReEntry,ReEntry,2024-10-11,2024,[],1.7083,0.0,0,en
 1596900,El engaño,El engaño,2024-09-15,2024,"[28, 18, 80]",1.7082,0.0,0,es
 1414051,Grande Maison Tokyo Special,グランメゾン東京 スペシャル,2024-12-29,2024,"[18, 10770]",1.7082,7.4,7,ja
 1282448,The Forbidden Camp: Mass Possession,Kemah Terlarang: Kesurupan Massal,2024-10-10,2024,[27],1.7081,6.313,8,id
@@ -59442,6 +59436,7 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1320369,Summer Will Come,Наступит лето,2025-03-27,2025,[18],2.7128,0.0,0,ru
 1148508,Stella Anyways,Stella Anyways,2025-10-21,2025,"[18, 10749, 878, 16]",2.7128,8.0,1,fr
 1561205,Controll,Controll,2025-10-10,2025,"[28, 53]",2.7126,3.0,1,hi
+1470829,Dead Weight,Dead Weight,2025-04-23,2025,"[18, 27, 10749]",2.7124,0.0,0,en
 991262,Under Current,內幕,2025-12-05,2025,"[80, 9648]",2.7122,4.9,10,cn
 1510688,Call Me Mother,Call Me Mother,2025-12-25,2025,"[35, 18]",2.7121,6.083,6,tl
 1308910,In the Land of Arto,Le Pays d’Arto,2025-12-31,2025,[18],2.7121,5.167,6,fr
@@ -63755,7 +63750,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1181704,Earthquake Underground,Earthquake Underground,2025-03-13,2025,"[28, 53]",1.9148,3.7,6,en
 1616372,Kung Fu Konundrum,Kung Fu Konundrum,2025-11-07,2025,"[28, 35, 12]",1.9145,10.0,1,en
 1588852,Three of a Kind,Ingen kære mor,2025-11-27,2025,[18],1.9145,7.0,2,da
-1609643,Ժամանակի մեքենա. AI քեզ նոր տարի,Ժամանակի մեքենա. AI քեզ նոր տարի,2025-12-31,2025,[10751],1.9143,0.0,0,hy
 1288748,Cactus Pears,साबर बोंडं,2025-09-19,2025,"[18, 10749]",1.9143,8.1,10,mr
 1501193,Technically Yours,Technically Yours,2025-06-29,2025,"[10770, 10749]",1.9142,7.0,3,en
 1452240,Ken Dodd: A Legacy of Happiness,Ken Dodd: A Legacy of Happiness,2025-03-23,2025,[99],1.9142,0.0,0,en
@@ -71661,7 +71655,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1365834,A. Rimbaud,A. Rimbaud,2026-05-12,2026,"[36, 18]",2.178,0.0,0,en
 1718887,Dear Mothers!,Dear Mothers!,2026-06-19,2026,"[35, 18]",2.1779,0.0,0,en
 1688842,The Sale,The Sale,2026-05-08,2026,[],2.1777,0.0,0,en
-1649866,G.O.A.T,G.O.A.T,2026-03-26,2026,"[28, 10749, 35, 18]",2.1777,0.0,0,te
 1477113,Saint Agnes,Saint Agnes,2026-02-26,2026,[18],2.1772,10.0,1,en
 1446932,Solo pienso en ti,Solo pienso en ti,2026-02-21,2026,[99],2.177,9.0,1,es
 1327450,If I Tell You,If I Tell You,2026-08-21,2026,"[18, 10751]",2.1766,0.0,0,en
@@ -72101,7 +72094,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1760194,Optimus Prime Awakening,Optimus Prime Awakening,2026-09-17,2026,"[16, 28, 878]",2.1013,7.5,4,en
 1616127,Gravity,Yerçekimi,2026-02-18,2026,[18],2.1013,0.0,0,tr
 1753537,Gals,Gals,2026-08-22,2026,[35],2.1012,0.0,0,en
-1716180,I Don’t Love You Anymore,Je ne t'aime plus,2026-09-23,2026,[16],2.1012,0.0,0,en
 1651997,The Coronation,The Coronation,2026-04-23,2026,[18],2.1011,0.0,0,en
 887583,Analog Eyes,Analog Eyes,2026-10-10,2026,"[27, 35, 9648, 878]",2.1007,0.0,0,en
 1739317,Echoes of Tomorrow,Echoes of Tomorrow,2026-07-23,2026,[878],2.1004,6.0,1,en
@@ -74393,7 +74385,6 @@ tmdb_id,title,original_title,release_date,release_year,genre_ids,popularity,vote
 1455491,People Watching,People Watching,2026-03-13,2026,"[35, 9648]",1.78,0.0,0,lt
 1681333,Not Guilty,Not Guilty,2026-01-26,2026,[],1.7798,0.0,0,en
 1745251,Scary Lullaby,"Спи, моя радость",2026-08-19,2026,[18],1.7797,0.0,0,ru
-1751598,Amarte,Amarte,2026-10-22,2026,"[35, 10749]",1.7796,0.0,0,es
 1650181,Chaali Din,Chaali Din,2026-06-19,2026,"[12, 18]",1.7796,0.0,0,pa
 1765171,Директор,Директор,2026-10-29,2026,[35],1.7795,0.0,0,ru
 1696057,Quiet Pages,Quiet Pages,2026-03-31,2026,[18],1.7794,0.0,0,en

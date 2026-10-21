@@ -17,7 +17,7 @@ tmdb_df = pd.read_csv(
 )
 
 numbers_df = pd.read_csv(
-    "data/processed/the_numbers_worldwide_2026_cleaned.csv"
+    "data/processed/the_numbers_worldwide_cleaned.csv"
 )
 
 rotten_df = pd.read_csv(

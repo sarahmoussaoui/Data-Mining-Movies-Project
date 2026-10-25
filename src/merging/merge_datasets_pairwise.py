@@ -85,7 +85,7 @@ rotten_df = rotten_df.rename(
 
 tmdb_df['year'] = pd.to_numeric(
     tmdb_df['year'],
-    errors='coerce'
+    errors='coerce' # if a value cannot be converted, replace it with NaN instead of raising an error.
 )
 
 numbers_df['year'] = pd.to_numeric(

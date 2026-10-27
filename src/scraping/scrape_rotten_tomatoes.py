@@ -9,10 +9,7 @@ import re
 
 
 df = pd.DataFrame(columns=["Title", "Summary","Director","Producer","Distributor","Genre","Original Language","Release Date(Streaming)","Runtime"])
-html_file = requests.get("https://www.rottentomatoes.com/browse/movies_at_home?page=5").text
 
-soup = BeautifulSoup(html_file,'lxml')
-list_of_films_hrefs = soup.find_all("a",class_="js-tile-link")
 
 def normalize_string(text):
     text = str(text).lower()

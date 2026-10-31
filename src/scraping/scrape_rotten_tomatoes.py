@@ -98,17 +98,11 @@ for film in tmdb_films["title"]:
     df = pd.concat([df, pd.DataFrame([details])],ignore_index=True)
     
     df.to_csv("data/raw/rotten_tomatoes/rotten_tomatoes_raw.csv", index=False, encoding="utf-8-sig")
-    
-    #c+=1
-    #if c==5:
-    #   break
+  
     
     
 
 
 
-#os.makedirs("data/raw/rotten_tomatoes", exist_ok=True)
-# Saving to csv file
-# utf-8-sig is used because there's foreign movie titles
-#df.to_csv("data/raw/rotten_tomatoes/rotten_tomatoes_raw.csv", index=False, encoding="utf-8-sig")
+
 print("Saved to data/raw/numbers/rotten_tomatoes_raw.csv")

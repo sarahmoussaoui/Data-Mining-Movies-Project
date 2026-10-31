@@ -73,16 +73,39 @@ The raw data collected from these sources is stored separately from the cleaned 
 │   │   └── view_merged_columns.ipynb
 │   │
 │   └── eda/
+        ├── plots/
 │       ├── descriptive/
 │       │   ├── numbers.ipynb
 │       │   ├── rotten.ipynb
 │       │   └── tmdb.ipynb
 │       ├── box_office_tmdb_numbers.ipynb
 │       ├── critics_vs_audience_tmdb_rotten_Analysis.ipynb
-│
+│       ├── characterics-film.ipynb
 ├── Project description/
 ├── video/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
 ```
+
+## HOW TO RUN CODE
+
+### Prerequisites
+
+Before running the project, make sure you have:
+
+- **Visual Studio Code (VS Code)** installed.
+- **Python** installed.
+- All required Python libraries installed using the `requirements.txt` file.
+
+To run the code, you can open the `.py` or `.ipynb` files in VS Code and click the **Run** button in the top-left corner.
+
+To better understand the overall project workflow, I recommend executing the files in the following order:
+
+1. **`src/scraping`**: First, run all the scraping scripts. Note that the Rotten Tomatoes scraping script must be executed last because it retrieves movie information based on the data collected from TMDB. The generated CSV files should be saved in `data/raw`.
+
+2. **`src/cleaning`**: Clean the collected datasets. The generated CSV files should be saved in `data/processed`.
+
+3. **`src/merging`**: Merge the datasets from the different sources. The generated CSV files should be saved in `data/merged`.
+
+4. **`src/eda`**: Perform exploratory data analysis and generate visualizations using the merged datasets.
